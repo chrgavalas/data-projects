@@ -1,2 +1,1 @@
-# data-projects
-Data projects of journalists Chris Gavalas
+Data projects of journalist Christos Gavalas
