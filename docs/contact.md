@@ -4,6 +4,7 @@ title: Contact me
 
 ---
 
-* [Twitter](http://twitter.com/blahblah)
-* [user@example.com](mailto:user@example.com)
-* [Instagram](http://instagram.com/blahblah)
+* [Twitter](http://twitter.com/gabbilondo)
+* [christ.gavalas@gmail.com](mailto:christ.gavalas@gmail.com)
+* [Instagram](http://instagram.com/chrgavalas)
+* [LinkedIn](http://linkedin.com/in/christosgavalas/)
