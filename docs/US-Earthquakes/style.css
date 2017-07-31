@@ -1,0 +1,117 @@
+/*
+some google fonts here (these are refereed to in the html doc)
+https://fonts.google.com/featured/2016+Fonts+Refresh?selection.family=Cabin|Inconsolata|Nunito|Nunito+Sans|Pacifico|Quicksand|Roboto|Rubik|VT323
+font-family: 'Roboto', sans-serif;
+font-family: 'Rubik', sans-serif;
+font-family: 'Pacifico', cursive;
+font-family: 'Quicksand', sans-serif;
+font-family: 'Inconsolata', monospace;
+font-family: 'Cabin', sans-serif;
+font-family: 'VT323', monospace;
+font-family: 'Nunito', sans-serif;
+font-family: 'Nunito Sans', sans-serif;
+ */
+
+
+
+
+.restaurant {
+     color: black; /* simple color name or hex value: #123456 */
+     font-family: 'Helvetica', sans-serif; /* see above */
+     font-size:40px;
+     line-height:72px;
+     margin-bottom: 30px;
+     text-align: center; /* left, right, center, justify */
+ }
+
+ .text {
+     color: black; /* simple color name or hex value: #123456 */
+     font-family: 'Helvetica', serif; /* see above */
+     font-size:25px;
+     line-height:30px;
+     margin-left: 25px;
+     margin-right: 20px;
+     margin-bottom: 50px;
+     text-align: left; /* left, right, center, justify */
+ }
+
+
+ .story_article {
+     color: black; /* simple color name or hex value: #123456 */
+     font-style: normal;
+     font-family: 'Helvetica', serif; /* see above */
+     font-size:16px;
+     line-height:1.125rem;
+     margin-left: 25px;
+     margin-right: 20px;
+     text-align: left; /* left, right, center, justify */
+ }
+
+  .title {
+     color: black; /* simple color name or hex value: #123456 */
+     font-family: sans-serif; /* see above */
+     font-size:25px;
+     line-height:60px;
+     margin-left: 25px;
+     margin-right: 20px;
+     text-align: left; /* left, right, center, justify */
+ }
+
+.menu_title {
+     color: grey; /* simple color name or hex value: #123456 */
+     font-family: 'Stencil Std', fantasy; /* see above */
+     font-size:30px;
+     line-height:72px;
+     text-align: center; /* left, right, center, justify */
+ }
+
+.categories {
+     color: grey; /* simple color name or hex value: #123456 */
+     font-family: 'Cabin', sans-serif; /* see above */
+     font-size:30px;
+     line-height:72px;
+     margin-top: 36px;
+     text-align: center; /* left, right, center, justify */
+ }
+
+.dishes {
+     color: grey; /* simple color name or hex value: #123456 */
+     font-family: 'Quicksand', sans-serif; /* see above */
+     font-size:15px;
+     line-height:72px;
+     margin-top: 20px;
+     margin-bottom: 20px;
+     text-align: center; /* left, right, center, justify */
+ }
+
+.sample {
+     color: blue; /* simple color name or hex value: #123456 */
+     font-family: 'Quicksand', sans-serif; /* see above */
+     font-size:32px;
+     line-height:42px;
+     margin-top: 96px;
+     margin-bottom: 87px;
+     text-align: left; /* left, right, center, justify */
+ }
+
+
+.test {
+     color: grey; /* simple color name or hex value: #123456 */
+     font-family: 'Quicksand', sans-serif; /* see above */
+     font-size:32px;
+     line-height:72px;
+     text-align: left; /* left, right, center, justify */
+ }
+
+ body {
+ 	  test-align: center;
+ }
+
+/* some possible styles to add
+.course
+.dish-name
+.dish-description
+.price
+.beverage
+
+*/

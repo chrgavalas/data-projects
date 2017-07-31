@@ -1,0 +1,11 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2017-07-01T18:07:32.460Z,38.85,-89.2275,16.79,3.12,mw,23,88,0.1728,0.16,nm,nm60173557,2017-07-18T17:21:08.480Z,"16km SW of Vandalia, Illinois",earthquake,0.22,0.3,,12,reviewed,nm,nm
+2017-06-20T15:14:04.910Z,33.4275,-82.0168333,12.93,3.2,mlg,25,46,0.347,0.19,se,se60172262,2017-07-18T17:26:16.489Z,"6km SW of Augusta, Georgia",earthquake,0.35,0.81,,94,reviewed,se,se
+2017-06-11T12:40:25.100Z,36.376,-92.9895,5.87,3.6,mw,24,85,0.1115,0.15,nm,nm60197956,2017-06-30T11:32:30.314Z,"19km NNE of Harrison, Arkansas",earthquake,0.22,0.45,,16,reviewed,nm,nm
+2017-06-03T03:08:39.980Z,39.9173,-81.293,1.38,3.4,mwr,,23,0.337,0.6,us,us20009kfw,2017-07-19T21:36:17.040Z,"12km SW of Barnesville, Ohio",earthquake,1.6,6.3,,39,reviewed,us,slm
+2017-05-24T16:24:05.180Z,39.2276,-82.4771,9.6,3.4,mb_lg,,17,0.311,0.53,us,us10008uvu,2017-07-09T22:38:16.040Z,"2km S of McArthur, Ohio",earthquake,4.7,7.1,0.041,157,reviewed,us,us
+2017-05-16T10:21:52.240Z,36.873,-89.1216667,9.07,3.26,mw,72,40,0.2691,0.22,nm,nm60194306,2017-06-29T13:46:57.040Z,"9km W of Bardwell, Kentucky",earthquake,0.3,1.32,,16,reviewed,nm,nm
+2017-05-14T12:56:24.050Z,36.564,-89.599,13.61,3.02,md,45,31,0.01505,0.12,nm,nm60194166,2017-05-26T07:54:21.040Z,"3km SSE of Lilbourn, Missouri",earthquake,0.14,0.22,0.099,57,reviewed,nm,nm
+2017-04-02T11:58:12.390Z,39.6644,-81.2434,3.93,3,mb_lg,,46,0.21,0.93,us,us10008dxn,2017-06-23T07:26:27.040Z,"15km SW of Woodsfield, Ohio",earthquake,1.1,7.8,0.053,93,reviewed,us,us
+2017-03-19T14:25:12.570Z,36.8795,-89.1278333,12.22,3.16,md,63,55,0.1898,0.17,nm,nm60181601,2017-06-12T19:46:50.040Z,"10km W of Bardwell, Kentucky",earthquake,0.28,1.02,0.119,68,reviewed,nm,nm
+2017-03-15T16:51:10.090Z,36.8816667,-89.1225,8.39,3.59,mw,90,40,0.1943,0.18,nm,nm60180726,2017-06-11T14:13:04.621Z,"9km SSW of Wickliffe, Kentucky",earthquake,0.27,1.01,,9,reviewed,nm,nm

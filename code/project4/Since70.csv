@@ -1,0 +1,1059 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2017-07-01T18:07:32.460Z,38.85,-89.2275,16.79,3.12,mw,23,88,0.1728,0.16,nm,nm60173557,2017-07-18T17:21:08.480Z,"16km SW of Vandalia, Illinois",earthquake,0.22,0.3,,12,reviewed,nm,nm
+2017-06-20T15:14:04.910Z,33.4275,-82.0168333,12.93,3.2,mlg,25,46,0.347,0.19,se,se60172262,2017-07-18T17:26:16.489Z,"6km SW of Augusta, Georgia",earthquake,0.35,0.81,,94,reviewed,se,se
+2017-06-11T12:40:25.100Z,36.376,-92.9895,5.87,3.6,mw,24,85,0.1115,0.15,nm,nm60197956,2017-06-30T11:32:30.314Z,"19km NNE of Harrison, Arkansas",earthquake,0.22,0.45,,16,reviewed,nm,nm
+2017-06-03T03:08:39.980Z,39.9173,-81.293,1.38,3.4,mwr,,23,0.337,0.6,us,us20009kfw,2017-07-19T21:36:17.040Z,"12km SW of Barnesville, Ohio",earthquake,1.6,6.3,,39,reviewed,us,slm
+2017-05-24T16:24:05.180Z,39.2276,-82.4771,9.6,3.4,mb_lg,,17,0.311,0.53,us,us10008uvu,2017-07-09T22:38:16.040Z,"2km S of McArthur, Ohio",earthquake,4.7,7.1,0.041,157,reviewed,us,us
+2017-05-16T10:21:52.240Z,36.873,-89.1216667,9.07,3.26,mw,72,40,0.2691,0.22,nm,nm60194306,2017-06-29T13:46:57.040Z,"9km W of Bardwell, Kentucky",earthquake,0.3,1.32,,16,reviewed,nm,nm
+2017-05-14T12:56:24.050Z,36.564,-89.599,13.61,3.02,md,45,31,0.01505,0.12,nm,nm60194166,2017-05-26T07:54:21.040Z,"3km SSE of Lilbourn, Missouri",earthquake,0.14,0.22,0.099,57,reviewed,nm,nm
+2017-04-02T11:58:12.390Z,39.6644,-81.2434,3.93,3,mb_lg,,46,0.21,0.93,us,us10008dxn,2017-06-23T07:26:27.040Z,"15km SW of Woodsfield, Ohio",earthquake,1.1,7.8,0.053,93,reviewed,us,us
+2017-03-19T14:25:12.570Z,36.8795,-89.1278333,12.22,3.16,md,63,55,0.1898,0.17,nm,nm60181601,2017-06-12T19:46:50.040Z,"10km W of Bardwell, Kentucky",earthquake,0.28,1.02,0.119,68,reviewed,nm,nm
+2017-03-15T16:51:10.090Z,36.8816667,-89.1225,8.39,3.59,mw,90,40,0.1943,0.18,nm,nm60180726,2017-06-11T14:13:04.621Z,"9km SSW of Wickliffe, Kentucky",earthquake,0.27,1.01,,9,reviewed,nm,nm
+2016-12-13T14:40:21.000Z,44.33,-66.1,18,3,mb_lg,,,,0.25,us,us200080m1,2017-03-09T02:14:30.040Z,"41km SW of Digby, Canada",earthquake,4.7,2,,,reviewed,ott,ott
+2016-11-24T01:57:37.580Z,36.1545,-89.6926667,8.75,3.3,mlg,89,26,0.03525,0.14,nm,nm60140077,2017-02-15T23:21:39.040Z,"5km SW of Caruthersville, Missouri",earthquake,0.14,0.37,,135,reviewed,nm,nm
+2016-11-01T20:49:23.000Z,47.12,-65.73,5,3.1,mb_lg,,,,0.62,us,us100073mr,2017-01-24T02:02:14.040Z,"23km WNW of Miramichi, Canada",earthquake,2.9,1.9,,,reviewed,ott,ott
+2016-09-09T13:45:37.560Z,36.4526667,-89.5346667,10.26,3.44,mw,89,27,0.06306,0.12,nm,nm60132667,2016-12-07T02:56:07.040Z,"9km NW of Tiptonville, Tennessee",earthquake,0.14,0.28,,33,reviewed,nm,nm
+2016-07-29T19:55:21.320Z,47.4283,-70.1157,19.43,3,mb_lg,,,,0.55,us,us100068ie,2016-10-19T04:51:41.040Z,"9km NNW of La Pocatiere, Canada",earthquake,6.4,7.1,,,reviewed,ott,ott
+2016-07-05T04:51:13.020Z,36.1506667,-89.6973333,9.02,3,md,61,26,0.03084,0.17,nm,nm60123697,2016-09-02T21:36:38.040Z,"6km SW of Caruthersville, Missouri",earthquake,0.21,0.45,0.145,51,reviewed,nm,nm
+2016-06-19T23:07:16.800Z,46.4261,-75.5901,18,3.3,mb_lg,,,,1.19,us,us20006f4x,2016-08-27T02:15:30.040Z,"15km SSW of Mont-Laurier, Canada",earthquake,1.9,5.7,,,reviewed,ott,ott
+2016-06-09T20:42:56.640Z,43.6155,-66.1682,5,3,mb_lg,,269,1.432,0.38,us,us200063a5,2016-08-18T00:36:37.040Z,"24km S of Yarmouth, Canada",earthquake,4.7,2,,,reviewed,us,ott
+2016-05-14T21:29:55.270Z,45.9512,-77.3572,18,3.5,mb_lg,,,,0.76,us,us10005hgh,2016-07-22T19:39:06.040Z,"5km NNW of Petawawa, Canada",earthquake,1.4,1.9,,,reviewed,ott,ott
+2016-05-01T06:12:10.030Z,37.2136667,-88.9876667,16.26,3.5,mlg,57,58,0.2251,0.19,nm,nm60114087,2016-07-19T20:03:08.040Z,"15km N of La Center, Kentucky",earthquake,0.24,0.41,,170,reviewed,nm,nm
+2016-02-09T00:24:57.000Z,45.605,-67.35,1,3.3,mb_lg,,,,1.18,us,us20004z2l,2016-05-26T21:31:53.690Z,"44km SSW of Nackawic, Canada",earthquake,2.1,2,,,reviewed,ott,ott
+2016-02-02T11:56:22.000Z,44.871,-66.878,5,3.6,mb_lg,,,,0.44,us,us20004wjb,2016-05-26T21:31:51.980Z,"9km ESE of Eastport, Maine",earthquake,3.6,2,,,reviewed,ott,ott
+2016-01-17T19:12:49.050Z,39.3193333,-77.8283333,4.74,3.03,ml,14,80,0.2174,0.23,ld,ld60108801,2016-05-26T21:31:50.280Z,"3km NE of Ranson, West Virginia",earthquake,0.43,3.02,0.18,13,reviewed,ld,ld
+2015-11-28T05:16:54.250Z,44.9785,-74.7305,5,3.23,ml,24,64,0.2111,0.3,ld,ld60106806,2016-05-26T21:31:38.230Z,"4km S of Cornwall, Canada",earthquake,0.41,31.61,0.21,51,reviewed,ld,ld
+2015-11-25T07:08:53.120Z,36.538,-89.6013333,8.71,3.04,md,62,30,0.03826,0.15,nm,nm60096437,2016-02-18T04:48:54.040Z,"6km SSE of Lilbourn, Missouri",earthquake,0.16,0.28,0.163,51,reviewed,nm,nm
+2015-11-04T15:04:26.330Z,47.0232,-66.6281,5,3.7,mb_lg,,,,0.81,us,us200041yg,2016-01-30T02:11:07.040Z,"88km W of Miramichi, Canada",earthquake,2.9,2,,,reviewed,ott,ott
+2015-10-20T23:36:56.760Z,45.7271,-77.1392,18,3.1,mb_lg,,,,0.77,us,us100040ey,2016-01-15T20:51:28.040Z,"10km S of Pembroke, Canada",earthquake,2.1,1.9,,,reviewed,ott,ott
+2015-10-20T23:34:51.940Z,45.7344,-77.1451,18,3.8,mb_lg,,,,0.81,us,us10003q3y,2016-05-26T21:31:21.710Z,"9km SSW of Pembroke, Canada",earthquake,2.3,2,,,reviewed,ott,ott
+2015-10-16T20:50:20.660Z,36.7511667,-90.8601667,15.74,3.2,mlg,26,72,0.3349,0.26,nm,nm60119416,2016-01-15T20:50:50.040Z,"14km NNW of Doniphan, Missouri",earthquake,0.6,0.51,,0,reviewed,nm,nm
+2015-10-16T20:26:07.650Z,36.7613333,-90.8578333,16.01,3.48,mw,53,74,0.3276,0.31,nm,nm60119406,2016-01-15T20:50:49.040Z,"15km N of Doniphan, Missouri",earthquake,0.44,0.6,,21,reviewed,nm,nm
+2015-09-30T01:06:22.240Z,46.509,-80.8978,1,3.1,mb_lg,,,,0.81,us,us10003j1h,2015-12-28T23:08:50.040Z,"7km ENE of Greater Sudbury, Canada",earthquake,1.6,2,,,reviewed,ott,ott
+2015-09-13T00:45:18.530Z,47.4246,-70.3593,11.29,3.1,mb_lg,,,,0.64,us,us20003j4c,2015-12-12T00:42:49.040Z,"10km E of Baie-Saint-Paul, Canada",earthquake,1.9,6.4,,,reviewed,ott,ott
+2015-09-09T19:17:51.070Z,45.767,-76.3743333,10,3.19,ml,14,255,0.5936,0.7,ld,ld60101641,2016-05-26T21:31:12.850Z,"20km NE of Shawville, Canada",earthquake,2.98,31.61,0.17,8,reviewed,ld,ld
+2015-08-27T22:47:52.000Z,46.21,-66.594,5,3.6,mb_lg,,,,0.41,us,us100035k5,2016-05-26T21:31:08.670Z,"29km N of Fredericton, Canada",earthquake,3.4,2,,,reviewed,ott,ott
+2015-08-25T13:26:15.330Z,35.6633333,-89.682,12.7,3.5,mw,83,68,0.09276,0.15,nm,nm60087957,2015-11-24T02:09:35.040Z,"11km NNW of Covington, Tennessee",earthquake,0.2,0.37,,31,reviewed,nm,nm
+2015-08-21T23:49:14.000Z,47.243,-66.29,5,3,mb_lg,,,,0.43,us,us1000345f,2016-05-26T21:31:05.770Z,"63km SW of Bathurst, Canada",earthquake,5.7,2,,,reviewed,ott,ott
+2015-07-27T20:26:26.120Z,46.5642,-75.2799,18,3.1,mb_lg,,,,0.99,us,us20003fw4,2016-05-26T21:30:47.560Z,"16km E of Mont-Laurier, Canada",earthquake,3.1,6.2,,,reviewed,ott,ott
+2015-07-15T22:00:19.520Z,45.4743333,-74.5435,10.23,3.27,ml,33,134,,0.36,ld,ld60096481,2016-05-26T21:30:37.460Z,"13km SSE of Hawkesbury, Canada",earthquake,0.42,1.07,0.23,13,reviewed,ld,ld
+2015-07-01T18:32:53.000Z,44.085,-66.253,5,3.5,mwr,,,,0.29,us,us10002mvh,2015-09-02T22:37:27.040Z,"30km NNW of Yarmouth, Canada",earthquake,7.1,2,0.047,43,reviewed,ott,us
+2015-06-30T15:42:54.710Z,42.1464,-85.0459,5,3.3,mb_lg,,33,0.499,0.34,us,us10002mly,2016-01-22T21:14:12.587Z,"11km NE of Union City, Michigan",earthquake,2.9,2,0.037,190,reviewed,us,us
+2015-06-30T06:44:07.300Z,32.9594,-88.0301,5,3.5,mwr,,63,0.049,0.5,us,us10002mia,2015-09-02T22:37:25.040Z,"18km NW of Eutaw, Alabama",earthquake,3.4,2,0.04,60,reviewed,us,us
+2015-06-29T13:23:01.490Z,32.5614,-90.0744,5,3.2,mb_lg,,51,0.507,0.37,us,us10002mc3,2015-09-02T22:37:24.040Z,"6km SSW of Canton, Mississippi",earthquake,3.2,2,0.047,117,reviewed,us,us
+2015-06-28T09:15:03.000Z,47.394,-70.092,7.4,3.3,mb_lg,,,,0.58,us,us10002m6v,2015-09-02T22:37:22.040Z,"5km NNW of La Pocatiere, Canada",earthquake,3.6,6.6,,,reviewed,ott,ott
+2015-06-06T18:09:35.010Z,32.9347,-88.0034,5.75,3,mb_lg,,64,0.079,0.9,us,us20002mky,2015-08-10T13:08:22.040Z,"15km NW of Eutaw, Alabama",earthquake,2.7,6.6,0.048,113,reviewed,us,us
+2015-05-30T00:41:14.690Z,38.462,-88.3561667,25.85,3.4,mlg,23,63,0.08472,0.3,nm,nm60008708,2016-10-13T15:08:04.910Z,"9km N of Fairfield, Illinois",earthquake,0.55,0.6,,0,reviewed,nm,nm
+2015-05-03T01:08:34.860Z,32.5794,-90.1139,5,3,mb_lg,,50,0.496,0.51,us,us20002ax8,2015-07-09T22:00:07.040Z,"8km WSW of Canton, Mississippi",earthquake,3.4,2,0.048,111,reviewed,us,us
+2015-05-03T00:39:23.590Z,32.5571,-90.0759,5,3.2,mb_lg,,51,0.503,0.47,us,us20002ax0,2015-07-09T22:00:06.040Z,"7km SSW of Canton, Mississippi",earthquake,4.3,2,0.045,129,reviewed,us,us
+2015-05-02T16:23:07.580Z,42.2357,-85.4285,4.48,4.2,mwr,,17,0.682,0.79,us,us20002avh,2017-07-06T21:37:25.480Z,"5km S of Galesburg, Michigan",earthquake,3.8,4.3,0.028,124,reviewed,us,us
+2015-05-02T08:34:25.550Z,46.826,-78.927,18,3.3,mb_lg,,,,1.02,us,us20002awj,2015-07-09T22:00:06.040Z,"17km NE of Temiscaming, Canada",earthquake,3.6,2,,,reviewed,ott,ott
+2015-04-02T03:51:43.350Z,36.051,-89.8251667,10.91,3.6,mw,70,50,0.06869,0.16,nm,nm60096021,2016-09-07T13:19:15.224Z,"3km S of Steele, Missouri",earthquake,0.19,0.41,,0,reviewed,nm,nm
+2015-03-12T01:19:20.150Z,32.9718,-88.055,0,3.1,mb_lg,,95,0.227,0.52,us,us10001lte,2015-06-04T00:46:16.040Z,"19km SSE of Aliceville, Alabama",earthquake,3.1,6.7,0.044,140,reviewed,nm,us
+2015-02-28T23:08:44.450Z,36.536,-89.6391667,13.44,3.12,md,51,33,0.02476,0.08,nm,nm60070727,2016-02-09T13:52:43.480Z,"6km SSW of Lilbourn, Missouri",earthquake,0.14,0.25,0.189,50,reviewed,nm,nm
+2015-02-27T22:40:50.050Z,33.0093,-88.0412,19.58,3.2,md,,124,0.191,1.11,us,usc000ttvd,2016-01-11T15:50:55.330Z,"16km SE of Aliceville, Alabama",earthquake,3.7,4.8,0.107,6,reviewed,nm,nm
+2015-02-19T21:29:43.570Z,32.9497,-88.0307,2.95,3,mb_lg,,96,0.25,0.57,us,usc000trpe,2016-02-09T13:53:16.900Z,"18km NW of Eutaw, Alabama",earthquake,3.2,6.8,0.069,54,reviewed,us,us
+2015-02-19T18:19:09.430Z,32.9083,-87.9971,4.63,3,mb_lg,,65,0.296,0.75,us,usc000trk7,2016-02-09T13:53:10.450Z,"12km NW of Eutaw, Alabama",earthquake,2.3,6.8,0.062,68,reviewed,us,us
+2015-01-21T05:31:59.000Z,47.371,-70.217,14.5,3.7,mb_lg,,,,0.73,us,usc000ti4g,2015-04-20T16:05:38.040Z,"11km WNW of La Pocatiere, Canada",earthquake,5.4,7.6,,,reviewed,ott,ott
+2015-01-16T13:05:28.720Z,49.4297,-66.7949,18,4.1,mb,,,,0.82,us,usc000tgdg,2016-05-26T21:29:16.740Z,"37km NNW of Cap-Chat, Canada",earthquake,4.7,1.9,0.157,11,reviewed,ott,us
+2015-01-12T11:36:38.890Z,41.7482,-71.9019,5.4,3.3,mb_lg,,87,0.246,0.36,us,usc000tesx,2016-05-26T21:28:56.510Z,"0km NE of Wauregan, Connecticut",earthquake,2.5,7.8,0.054,91,reviewed,us,us
+2014-12-17T19:38:15.640Z,32.9504,-88.0198,9.17,3.4,mb_lg,,64,0.251,0.5,us,usc000t7r4,2016-04-07T18:22:00.980Z,"17km NW of Eutaw, Alabama",earthquake,4.6,7.7,0.05,109,reviewed,us,us
+2014-12-15T06:44:16.560Z,36.059,-81.5195,13.16,3,md,25,35,0.3222,0.26,se,se610680,2016-04-07T18:21:48.110Z,"16km N of Lenoir, North Carolina",earthquake,0.7,1.6,0.309,4,reviewed,se,se
+2014-11-20T10:25:31.520Z,32.9411,-88.0317,5,3.8,mwr,,64,0.259,0.66,us,usb000sy7g,2016-04-07T18:20:56.990Z,"17km NW of Eutaw, Alabama",earthquake,4.1,2,0.036,74,reviewed,us,us
+2014-11-02T01:58:10.000Z,46.938,-67.032,5,3.2,mb_lg,,,,0.62,us,usc000sue7,2015-01-20T09:03:10.040Z,"New Brunswick, Canada",earthquake,2.2,2,,,reviewed,ott,ott
+2014-10-03T04:52:32.650Z,31.6761,-94.0554,5,3.1,mb_lg,,81,0.347,0.94,us,usb000sie0,2015-01-30T17:45:23.681Z,"16km NNE of San Augustine, Texas",earthquake,1.8,2,0.051,109,reviewed,us,us
+2014-09-23T02:58:02.760Z,48.4254,-69.1607,18,3.3,mb_lg,,,,0.78,us,usb000sh5a,2014-12-19T00:05:26.040Z,"35km S of Forestville, Canada",earthquake,1.6,5.9,,,reviewed,ott,ott
+2014-08-05T18:15:31.590Z,46.485,-81.193,5.4,3.8,mb_lg,,,,0.82,us,usb000s0hr,2016-05-26T21:27:42.610Z,"15km W of Greater Sudbury, Canada",earthquake,,6.2,,,reviewed,ott,ott
+2014-08-05T17:54:53.520Z,46.4765,-81.1848,12.05,3.3,mb_lg,,,,0.64,us,usb000s0t4,2014-10-29T19:53:02.000Z,"15km W of Greater Sudbury, Canada",earthquake,,7.6,,,reviewed,ott,ott
+2014-08-02T18:38:40.200Z,47.5906,-70.1818,14.81,3,mb_lg,,,,1.28,us,usb000rzl2,2014-10-29T19:52:55.000Z,"7km SSW of La Malbaie, Canada",earthquake,,7.8,,,reviewed,ott,ott
+2014-07-04T22:55:57.000Z,45.922,-74.857,18,3,mb_lg,,,,0.82,us,usc000rqrb,2014-10-04T19:59:55.000Z,"27km NE of Saint-Andre-Avellin, Canada",earthquake,,1.9,,,reviewed,ott,ott
+2014-06-04T21:19:24.330Z,35.5795,-92.245,0.08,3.8,mw,17,50,0.1459,0.18,nm,nm610403,2016-04-07T17:52:22.543Z,"3km SE of Fairfield Bay, Arkansas",earthquake,0.8,2.5,1.147,5,reviewed,nm,nm
+2014-05-26T21:33:49.000Z,48.963,-68.016,21,3.7,mb_lg,,,,0.49,us,usb000r55f,2014-08-23T08:36:50.000Z,"29km SSE of Baie-Comeau, Canada",earthquake,,3.6,,,reviewed,ott,ott
+2014-05-22T01:47:15.960Z,37.5298333,-78.0701667,9.86,3.1,mw,13,74,0.084,0.31,se,se610626,2016-05-26T21:26:58.280Z,"13km W of Powhatan, Virginia",earthquake,0.9,1.7,0.325,4,reviewed,se,se
+2014-05-15T15:44:58.340Z,36.558,-90.02,5.63,3.1,md,38,67,0.06237,0.12,nm,nm610382,2016-04-07T17:48:43.090Z,"4km W of Malden, Missouri",earthquake,0.2,1.2,0.3,20,reviewed,nm,nm
+2014-04-28T14:52:54.000Z,47,-66.57,5,3.4,mb_lg,,,,0.8,us,usb000q3f5,2014-07-14T20:11:22.000Z,"84km W of Miramichi, Canada",earthquake,,7.5,,,reviewed,ott,ott
+2014-04-21T01:05:06.760Z,29.6897,-67.5421,6.76,4.1,mb,,79,3.62,1.34,us,usb000ps9i,2014-07-04T01:34:44.000Z,"North Atlantic Ocean",earthquake,,4.3,0.067,60,reviewed,us,us
+2014-04-07T06:24:12.920Z,36.2161667,-89.4101667,6.28,3.1,md,22,67,0.01627,0.03,nm,nm610334,2016-04-07T17:43:35.300Z,"8km SE of Ridgely, Tennessee",earthquake,0.3,0.7,0.083,14,reviewed,nm,nm
+2014-03-19T22:38:03.330Z,32.9978333,-80.1778333,6.91,3,mlg,15,57,0.08998,0.37,se,se610620,2016-04-07T18:15:25.450Z,"0km S of Centerville, South Carolina",earthquake,0.5,0.8,0.432,8,reviewed,se,se
+2014-02-16T20:23:35.810Z,33.8301667,-82.0656667,6.99,3,mw,20,109,0.2032,0.38,se,se610611,2016-04-07T18:14:28.090Z,"13km WNW of Edgefield, South Carolina",earthquake,0.6,1,0.457,10,reviewed,se,se
+2014-02-15T03:23:38.150Z,33.8166667,-82.092,5.18,4.1,mw,21,110,0.2289,0.38,se,se610610,2017-01-25T00:36:57.279Z,"15km WNW of Edgefield, South Carolina",earthquake,0.6,0.8,0.765,11,reviewed,se,se
+2013-12-23T16:45:49.310Z,25.7194,-66.6056,2.08,5.2,mwb,,48,5.896,0.85,us,usc000lqeg,2014-02-27T22:02:51.844Z,"North Atlantic Ocean",earthquake,,2.7,0.068,,reviewed,us,us
+2013-12-11T07:47:21.000Z,47.223,-70.4,12.5,3.4,mb_lg,,,,0.88,us,usc000ljy4,2014-02-21T23:00:51.000Z,"25km SSE of Baie-Saint-Paul, Canada",earthquake,,7.2,,,reviewed,ott,ott
+2013-11-20T17:59:39.820Z,39.445,-82.205,8,3.5,mb_lg,,,,0.57,us,usb000l2y3,2016-05-26T21:25:38.510Z,"2km ESE of Nelsonville, Ohio",earthquake,,6.8,0.042,,reviewed,oh,us
+2013-11-04T18:35:33.720Z,41.7999,-87.8247,1,3.2,mb_lg,,28,0.383,0.5,us,usb000ksfx,2015-05-21T17:16:39.081Z,"1km NW of Summit, Illinois",earthquake,,2,0.052,,reviewed,us,us
+2013-10-20T10:40:33.380Z,45.6106,-77.4528,18,3.6,mb_lg,,,,0.8,us,usb000khk2,2016-05-26T21:25:28.410Z,"33km SSW of Petawawa, Canada",earthquake,,1.5,,,reviewed,ott,ott
+2013-10-08T01:58:09.190Z,30.1795,-74.1579,19.04,4.4,mb,,63,5.138,1.05,us,usb000k8bw,2013-12-24T01:42:56.000Z,"Off the east coast of the United States",earthquake,,4.5,0.074,,reviewed,us,us
+2013-09-21T14:48:26.110Z,49.7668,-65.9147,18,4.2,mwr,,,,1.71,us,usb000jx58,2015-01-30T14:30:59.752Z,"58km SE of Sept-Iles, Canada",earthquake,,1.8,0.075,,reviewed,ott,us
+2013-09-02T23:51:15.460Z,31.9095,-94.4279,4.69,4.3,mwr,,76,0.018,0.96,us,usb000jfgm,2015-01-28T14:59:03.719Z,"3km WNW of Timpson, Texas",earthquake,,2.6,0.052,,reviewed,us,us
+2013-08-28T09:44:34.630Z,46.9913,-66.6064,5,3.2,mb_lg,,,,0.52,us,usb000jekt,2013-11-06T01:33:32.000Z,"86km W of Miramichi, Canada",earthquake,,2,,,reviewed,us_ott,us_ott
+2013-08-12T21:43:24.300Z,36.261,-89.3013333,4.4,3.3,md,34,103,0.01341,0.11,nm,nm610016,2016-04-07T18:51:30.370Z,"9km W of Obion, Tennessee",earthquake,0.5,1.2,0.189,7,reviewed,nm,nm
+2013-07-17T20:10:33.020Z,35.6248333,-90.5638333,13.57,3.2,md,28,54,0.07196,0.14,nm,nm609991,2016-04-07T18:48:49.000Z,"7km SW of Trumann, Arkansas",earthquake,0.2,0.4,0.124,7,reviewed,nm,nm
+2013-07-11T20:16:07.000Z,47.81,-70.049,14.9,4.4,mb,48,100,,,us,usp000k1wx,2016-05-26T21:24:48.900Z,"St. Lawrence Valley region, Quebec, Canada",earthquake,,,,9,reviewed,ott,us
+2013-07-01T07:48:43.300Z,41.793,-81.292,5,3.2,mblg,48,100,,,us,usp000k1m6,2016-05-26T21:24:44.920Z,"6km NW of Fairport Harbor, Ohio",earthquake,,,,,reviewed,ogso,ogso
+2013-06-30T08:40:46.000Z,45.748,-76.352,14,3.1,mblg,16,100,,,us,us2013sbcm,2014-11-07T01:51:08.360Z,"19km NNE of Shawville, Canada",earthquake,,,,,reviewed,ott,ott
+2013-05-24T05:44:24.910Z,35.2981667,-92.7145,5.61,3.4,mw,15,51,0.1546,0.18,nm,nm609922,2016-04-07T18:41:35.920Z,"16km N of Morrilton, Arkansas",earthquake,1,2,0.626,3,reviewed,nm,nm
+2013-05-22T17:19:39.780Z,35.2991667,-92.715,5.44,3.4,mw,13,90,0.1543,0.15,nm,nm609912,2016-04-07T18:40:32.730Z,"16km N of Morrilton, Arkansas",earthquake,1.2,2.2,0.716,3,reviewed,nm,nm
+2013-05-17T20:15:17.000Z,45.767,-76.346,18,3.1,mblg,36,100,,,us,usb000gxx8,2016-05-26T21:24:25.450Z,"21km NNE of Shawville, Canada",earthquake,,,,,reviewed,ott,ott
+2013-05-17T13:53:55.830Z,45.7576667,-76.3545,10.72,3.63,ml,17,141,,0.35,ld,ld60040531,2016-05-26T21:24:22.770Z,"18km NE of Shawville, Canada",earthquake,0.58,1.06,0.2,54,reviewed,ld,ld
+2013-05-17T13:43:24.440Z,45.7568333,-76.3533333,13,5.06,ml,17,141,,0.2,ld,ld60040526,2016-05-26T21:24:20.300Z,"19km NNE of Shawville, Canada",earthquake,0.37,31.61,0.32,28,reviewed,ld,ld
+2013-03-31T14:01:24.030Z,38.645,-80.8331667,8.02,3.4,mw,13,69,,0.45,se,se610164,2016-04-07T19:07:13.170Z,"11km WSW of Sutton, West Virginia",earthquake,1.3,3.8,0.304,6,reviewed,se,se
+2013-03-21T05:22:17.440Z,46.43,-66.122,5,3.2,mblg,29,67,,,us,us2013nab1,2014-11-07T01:50:22.181Z,"68km NE of Fredericton, Canada",earthquake,,,,,reviewed,ott,ott
+2013-02-23T22:28:38.560Z,35.6256667,-90.56,14.11,3.7,mw,30,80,0.07477,0.12,nm,nm609799,2016-04-07T18:29:44.473Z,"7km SW of Trumann, Arkansas",earthquake,0.3,0.4,0.057,1,reviewed,nm,nm
+2013-02-19T04:59:44.000Z,48.425,-83.298,8,4.1,mb,34,61.7,,,us,us2013lvad,2014-11-07T01:50:09.684Z,"37km NNE of Chapleau, Canada",earthquake,,,,1,reviewed,ott,us
+2013-01-25T07:01:19.840Z,31.844,-94.3,5,4.1,mblg,172,68,,1.44,us,usc000ev85,2015-01-28T13:49:38.488Z,"11km SE of Timpson, Texas",earthquake,,,,,reviewed,us,us
+2013-01-16T01:01:48.950Z,46.063,-75.433,18,3,mblg,18,159.4,,,us,usp000jyfd,2014-11-07T01:49:50.680Z,"southern Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+2013-01-16T00:53:04.880Z,46.061,-75.442,18,3.5,mblg,53,86.3,,,us,usp000jyfc,2014-11-07T01:49:50.674Z,"southern Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+2013-01-02T16:36:22.000Z,47.02,-66.497,5,3,mblg,10,157.1,,,us,usp000jxrb,2014-11-07T01:49:44.672Z,"New Brunswick, Canada",earthquake,,,,,reviewed,ott,ott
+2012-12-12T17:46:06.000Z,47.785,-70.049,5.3,4.4,mblg,95,40.5,,,us,usp000jww2,2015-03-24T02:02:43.732Z,"St. Lawrence Valley region, Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+2012-11-27T07:55:56.000Z,48.815,-67.352,17,4.2,mblg,95,36.8,,,us,usp000jw4q,2015-03-24T02:23:42.722Z,"Gaspe Peninsula, Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+2012-11-24T11:03:13.480Z,35.9186667,-83.5011667,7.02,3,mlg,23,51,,0.14,se,se609741,2016-04-07T20:02:37.530Z,"7km NE of Sevierville, Tennessee",earthquake,0.6,1.4,0.267,2,reviewed,se,se
+2012-11-20T23:28:22.610Z,38.4548333,-87.9018333,18.56,3.6,mlg,33,49,,0.2,nm,nm609594,2016-04-07T19:48:46.538Z,"13km WNW of Mount Carmel, Illinois",earthquake,0.3,0.4,0.792,3,reviewed,nm,nm
+2012-11-10T17:08:14.280Z,37.1386667,-83.0536667,17.03,4.2,mw,21,72,,0.16,se,se609737,2016-11-16T07:53:57.806Z,"17km SE of Hazard, Kentucky",earthquake,0.4,1.2,0.231,1,reviewed,se,se
+2012-11-06T09:05:28.400Z,45.6185,-74.601,11.07,3.74,ml,21,204,0.6211,0.23,ld,ld60036901,2016-05-26T21:23:25.800Z,"Ontario-Quebec border region, Canada",earthquake,0.52,0.75,0.17,47,reviewed,ld,ld
+2012-10-29T12:39:24.100Z,35.2031667,-90.6323333,21.04,3.9,mlg,57,46,0.1301,0.26,nm,nm609579,2016-04-07T19:46:42.425Z,"8km SW of Parkin, Arkansas",earthquake,0.2,0.4,0.205,3,reviewed,nm,nm
+2012-10-16T23:12:25.080Z,43.5973333,-70.656,16.09,4.67,ml,27,116,,0.27,ld,ld60036706,2016-12-07T19:20:09.897Z,"Maine",earthquake,0.47,0.79,0.15,42,reviewed,ld,ld
+2012-10-10T04:19:29.090Z,45.7553333,-73.2685,8.55,3.93,ml,20,189,0.3562,0.44,ld,ld60036501,2016-05-26T21:23:12.350Z,"southern Quebec, Canada",earthquake,1.12,1.32,0.18,35,reviewed,ld,ld
+2012-09-22T16:10:41.370Z,48.442,-83.266,18,3.9,mblg,77,35.6,,,us,usp000jsqy,2015-03-24T02:07:21.655Z,"Ontario, Canada",earthquake,,,,,reviewed,ott,ott
+2012-08-19T08:24:23.490Z,35.24,-92.3795,4.38,3.3,mlg,27,39,,0.17,nm,nm609509,2016-04-07T19:38:00.000Z,"0km NE of Greenbrier, Arkansas",earthquake,0.5,1,0.592,3,reviewed,nm,nm
+2012-08-04T18:27:49.630Z,47.234,-70.597,18,3.8,mblg,49,61.1,,,us,usp000jpwj,2015-03-24T02:36:05.435Z,"St. Lawrence Valley region, Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+2012-06-17T13:40:31.700Z,36.411,-89.5295,8.44,3.3,mlg,37,38,0.04389,0.04,nm,nm609443,2016-04-07T19:30:56.440Z,"6km NW of Tiptonville, Tennessee",earthquake,0.2,0.6,0.229,1,reviewed,nm,nm
+2012-05-17T08:12:00.990Z,31.926,-94.369,5,4.8,mwr,300,18.3,,1.24,us,usp000jkhb,2015-03-24T01:29:25.291Z,"eastern Texas",earthquake,,,,,reviewed,us,us
+2012-05-10T22:54:05.570Z,38.8066667,-87.4606667,10.7,3.1,mlg,31,37,,0.25,nm,nm609413,2016-04-07T19:27:42.600Z,"13km WNW of Bicknell, Indiana",earthquake,0.4,0.8,,,reviewed,nm,nm
+2012-05-10T15:15:38.840Z,31.964,-94.465,7,3.9,mwr,122,57.6,,1.52,us,usp000jk92,2015-03-24T01:43:41.124Z,"eastern Texas",earthquake,,11,,,reviewed,us,us
+2012-04-12T15:43:53.780Z,42.021,-65.729,18,3.4,ml,21,220.9,,,us,usp000jhse,2014-11-07T01:47:30.359Z,"North Atlantic Ocean",earthquake,,,,,reviewed,ott,ott
+2012-04-12T15:33:44.590Z,41.974,-65.842,18,3.8,ml,24,209.6,,,us,usp000jhsd,2014-11-07T01:47:30.356Z,"North Atlantic Ocean",earthquake,,,,,reviewed,ott,ott
+2012-04-12T04:32:03.150Z,41.941,-65.766,18,3.8,ml,17,210.7,,,us,usp000jhqn,2014-11-07T01:47:29.819Z,"North Atlantic Ocean",earthquake,,,,,reviewed,ott,ott
+2012-04-12T04:29:55.000Z,41.709,-65.634,10,4.2,mb,52,137.5,,0.96,us,usp000jhqm,2014-11-07T01:47:29.813Z,"North Atlantic Ocean",earthquake,,,,1,reviewed,us,us
+2012-04-12T02:29:39.270Z,41.927,-65.762,18,4.5,mb,218,76.6,,,us,usp000jhq9,2015-03-24T01:28:14.676Z,"North Atlantic Ocean",earthquake,,,,97,reviewed,ott,us
+2012-03-30T23:29:59.320Z,47.354,-66.094,5,3.4,mblg,10,139.3,,,us,usp000jh0u,2014-11-07T01:47:20.803Z,"New Brunswick, Canada",earthquake,,,,,reviewed,ott,ott
+2012-03-26T03:21:50.950Z,37.9063333,-77.9878333,8.65,3,mw,15,113,0.02748,0.1,se,se609674,2016-05-26T21:22:33.730Z,"13km S of Louisa, Virginia",earthquake,0.5,0.6,,,reviewed,se,se
+2012-02-24T22:47:22.370Z,47.616,-70.226,1.4,4,mblg,63,40.4,,,us,usp000jfbf,2015-03-24T02:13:54.845Z,"St. Lawrence Valley region, Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+2012-02-21T09:58:43.650Z,36.8733333,-89.4226667,7.81,3.9,mw,65,38,,0.19,nm,nm609348,2016-04-07T19:21:56.169Z,"8km SW of Charleston, Missouri",earthquake,0.18,0.46,0.042,3,reviewed,nm,nm
+2012-01-30T23:39:47.250Z,37.9453333,-77.983,3.18,3.1,mw,16,82,0.01197,0.14,se,se609654,2016-05-26T21:22:24.080Z,"9km SSE of Louisa, Virginia",earthquake,0.7,0.9,,,reviewed,se,se
+2012-01-26T22:35:55.790Z,41.576,-85.49,4.7,3,mblg,19,66,,1.5,us,usp000je0q,2014-11-07T01:46:50.763Z,"Indiana",earthquake,,8.7,,,reviewed,us,ott
+2012-01-22T05:59:46.490Z,46.3716667,-75.125,10,3.1,ml,8,295,0.7124,0.39,ld,ld60029501,2016-05-26T21:22:19.320Z,"southern Quebec, Canada",earthquake,1.69,31.61,0.16,22,reviewed,ld,ld
+2011-12-31T20:05:01.060Z,41.1215,-80.6843333,5,4,ml,9,138,0.5495,0.23,ld,ld60029101,2016-09-25T13:11:22.227Z,"Youngstown-Akron urban area, Ohio",earthquake,0.5,31.61,0.14,13,reviewed,ld,ld
+2011-11-29T17:02:25.000Z,47.55,-70.25,14,3.4,mblg,25,193.1,,,us,usp000jbm2,2014-11-07T01:46:25.859Z,"St. Lawrence Valley region, Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+2011-10-12T16:40:00.370Z,37.9401667,-77.983,4.01,3,mw,17,71,,0.08,se,se609267,2016-04-08T14:05:18.670Z,"9km S of Louisa, Virginia",earthquake,0.4,0.7,0.412,6,reviewed,se,se
+2011-10-05T09:38:30.490Z,35.3678333,-92.2726667,4.62,3.3,mw,14,60,0.03572,0.2,nm,nm609027,2016-04-08T13:39:43.950Z,"18km NE of Greenbrier, Arkansas",earthquake,0.4,0.5,0.701,4,reviewed,nm,nm
+2011-10-03T22:36:32.390Z,31.157,-65.065,10,4.5,mb,109,66.5,,1.31,us,usp000j8w6,2014-11-07T01:46:02.825Z,"Bermuda region",earthquake,,,,44,reviewed,us,us
+2011-10-03T22:18:05.660Z,31.125,-65.082,10,4.4,mb,85,76.4,,1.38,us,usp000j8w4,2014-11-07T01:46:02.803Z,"Bermuda region",earthquake,,,,31,reviewed,us,us
+2011-09-22T23:32:09.770Z,36.818,-90.7486667,11.45,3.6,mlg,37,87,,0.28,nm,nm609016,2016-04-08T13:39:53.086Z,"22km NNE of Doniphan, Missouri",earthquake,0.6,0.8,,,reviewed,nm,nm
+2011-09-18T19:19:14.040Z,45.6013333,-75.2345,5,3.84,ml,20,222,0.1991,0.22,ld,ld60026001,2016-05-26T21:21:43.440Z,"Ontario-Quebec border region, Canada",earthquake,0.59,31.61,0.17,10,reviewed,ld,ld
+2011-09-13T22:59:23.550Z,33.56,-86.554,19.2,3,mblg,19,60.3,,,us,usp000j80n,2016-04-08T14:03:10.930Z,"1km NNW of Leeds, Alabama",earthquake,,,,,reviewed,ceri,us
+2011-09-01T09:09:37.960Z,37.9501667,-77.932,3.42,3.4,mlg,26,60,,0.28,se,se609240,2016-04-08T14:02:25.760Z,"10km SE of Louisa, Virginia",earthquake,0.2,0.4,0.708,4,reviewed,se,se
+2011-08-31T17:36:02.670Z,39.51,-81.47,5,3.1,mblg,4,124.3,,,us,usp000j7b5,2014-11-07T01:45:45.276Z,"Ohio",earthquake,,,,,reviewed,ogso,ogso
+2011-08-27T06:25:41.560Z,46.778,-70.667,18,3.5,mblg,25,57,,,us,usp000j73h,2015-01-30T13:13:51.640Z,"southern Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+2011-08-25T05:07:52.290Z,37.9468333,-77.9671667,6.81,4.5,mlg,26,76,,0.51,se,se609218,2017-06-29T15:33:45.929Z,"9km SSE of Louisa, Virginia",earthquake,1.4,1.3,1.642,4,reviewed,se,se
+2011-08-24T17:14:32.670Z,44.703,-74.3821667,5,3.19,ml,15,108,0.163,0.28,ld,ld60024626,2016-05-26T21:21:06.920Z,"New York",earthquake,0.42,31.61,0.16,8,reviewed,ld,ld
+2011-08-24T04:45:25.960Z,37.8251667,-77.948,0.05,3.4,mlg,10,129,,0.37,se,se609216,2016-04-08T13:59:53.000Z,"16km NNW of Goochland, Virginia",earthquake,2.7,2.8,,,reviewed,se,se
+2011-08-24T00:04:36.870Z,37.9146667,-77.9545,0,4.2,mlg,21,121,,0.31,se,se609215,2016-04-08T13:59:46.610Z,"13km SSE of Louisa, Virginia",earthquake,1.6,2.1,,,reviewed,se,se
+2011-08-23T17:51:04.250Z,37.9096667,-77.9363333,6,5.8,mw,23,80,,0.48,se,se609212,2017-06-27T17:03:00.855Z,"14km SSE of Louisa, Virginia",earthquake,1.9,2.4,,0,reviewed,se,se
+2011-06-16T07:20:40.180Z,48.266,-69.65,23,3.8,mblg,56,39.8,,,us,usp000j38p,2015-01-30T15:49:49.373Z,"St. Lawrence Valley region, Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+2011-06-07T08:10:36.690Z,38.0773333,-90.902,20.83,3.9,mw,24,66,0.3251,0.22,nm,nm608924,2016-04-08T13:30:09.195Z,"18km NNW of Potosi, Missouri",earthquake,0.7,1,0.176,1,reviewed,nm,nm
+2011-06-05T15:35:21.050Z,41.03,-82.08,5,3,mblg,8,71.5,,,us,usp000j2rt,2016-05-26T21:20:34.740Z,"Ohio",earthquake,,,,,reviewed,ogso,ogso
+2011-05-07T13:08:29.280Z,35.2501667,-92.3795,6,3.1,md,17,70,0.01859,0.2,nm,nm608891,2016-04-08T13:25:15.600Z,"1km NNE of Greenbrier, Arkansas",earthquake,0.4,0.3,0.304,6,reviewed,nm,nm
+2011-05-03T03:02:50.000Z,36.954,-89.121,0,3.1,mblg,31,71,,,us,usp000j0xp,2015-03-24T01:53:08.808Z,"Missouri",earthquake,,,,,reviewed,exp,us
+2011-04-24T06:18:57.000Z,35.2255,-92.379,5.41,3.2,mlg,18,72,0.02395,0.2,nm,nm608854,2016-04-08T13:21:21.340Z,"1km SE of Greenbrier, Arkansas",earthquake,0.4,0.3,0.384,5,reviewed,nm,nm
+2011-04-23T12:20:31.560Z,35.2675,-92.3586667,5.18,3.1,mlg,17,69,0.02525,0.18,nm,nm608850,2016-04-08T13:20:55.890Z,"4km NE of Greenbrier, Arkansas",earthquake,0.4,0.4,0.426,6,reviewed,nm,nm
+2011-04-19T10:33:09.310Z,35.2528333,-92.363,3.42,3.3,mlg,17,70,0.03211,0.2,nm,nm608846,2016-04-08T13:20:30.570Z,"3km NE of Greenbrier, Arkansas",earthquake,0.4,0.4,0.56,6,reviewed,nm,nm
+2011-04-18T15:38:03.890Z,32.461,-65.597,10,4.6,mb,74,77.7,,0.85,us,usp000j06z,2015-03-24T01:45:55.637Z,"Bermuda region",earthquake,,6.7,,46,reviewed,us,us
+2011-04-16T20:44:41.960Z,35.3493333,-92.6673333,2.8,3,mlg,15,60,0.2434,0.26,nm,nm608837,2016-04-08T13:19:33.900Z,"23km NNE of Morrilton, Arkansas",earthquake,1,5.4,0.138,4,reviewed,nm,nm
+2011-04-08T16:46:19.630Z,35.2576667,-92.3758333,6.12,3.5,mlg,17,69,0.02511,0.17,nm,nm608793,2016-04-08T13:17:12.652Z,"2km NNE of Greenbrier, Arkansas",earthquake,0.5,0.3,0.698,6,reviewed,nm,nm
+2011-04-08T14:56:32.450Z,35.261,-92.3625,6.22,3.9,mw,18,69,0.03156,0.18,nm,nm608790,2016-04-08T13:16:44.357Z,"3km NE of Greenbrier, Arkansas",earthquake,0.4,0.3,,,reviewed,nm,nm
+2011-04-08T10:12:53.510Z,35.2521667,-92.3911667,5.2,3,mlg,16,75,0.01231,0.21,nm,nm608787,2016-04-08T13:14:18.280Z,"2km N of Greenbrier, Arkansas",earthquake,0.5,0.4,0.266,6,reviewed,nm,nm
+2011-04-08T03:27:58.470Z,35.2561667,-92.3891667,5.46,3.2,mlg,16,73,0.01653,0.2,nm,nm608778,2016-04-08T13:13:21.030Z,"2km N of Greenbrier, Arkansas",earthquake,0.5,0.4,0.388,6,reviewed,nm,nm
+2011-04-07T23:11:09.760Z,35.2505,-92.3726667,6.07,3.7,mw,16,74,0.02388,0.18,nm,nm608769,2016-04-08T13:13:45.712Z,"2km NE of Greenbrier, Arkansas",earthquake,0.5,0.3,0.715,3,reviewed,nm,nm
+2011-04-07T02:34:50.450Z,35.2318333,-92.3666667,6.26,3.4,mw,20,72,0.0292,0.12,nm,nm608762,2016-04-08T13:11:39.710Z,"1km E of Greenbrier, Arkansas",earthquake,0.6,0.6,0.376,6,reviewed,nm,nm
+2011-03-29T16:04:35.590Z,46.569,-76.959,18,3.5,mblg,18,116.6,,,us,usp000hyvq,2016-05-26T21:20:05.410Z,"southern Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+2011-03-22T19:56:05.330Z,35.2496667,-92.4026667,5.54,3.3,mlg,17,69,0.007763,0.16,nm,nm608717,2016-04-08T13:06:56.300Z,"2km NW of Greenbrier, Arkansas",earthquake,0.9,0.5,0.688,4,reviewed,nm,nm
+2011-03-17T17:59:47.230Z,35.2416667,-92.3991667,4.98,3,md,16,70,0.0008777,0.12,nm,nm608694,2016-04-19T21:15:52.869Z,"1km NW of Greenbrier, Arkansas",earthquake,1,0.6,0.158,6,reviewed,nm,nm
+2011-03-16T17:36:56.460Z,45.6165,-74.537,10,3.87,ml,13,241,0.9973,0.45,ld,ld60013616,2016-05-26T21:20:02.180Z,"Ontario-Quebec border region, Canada",earthquake,1.68,31.61,0.21,14,reviewed,ld,ld
+2011-03-09T20:48:31.350Z,35.2433333,-92.3975,5.86,3.5,mlg,17,53,0.002359,0.17,nm,nm608629,2016-04-08T12:58:59.002Z,"1km NW of Greenbrier, Arkansas",earthquake,0.5,0.3,0.447,6,reviewed,nm,nm
+2011-03-03T15:55:24.860Z,35.2413333,-92.3888333,6.58,3.5,mw,18,53,0.009201,0.14,nm,nm608571,2016-04-08T12:52:53.437Z,"0km N of Greenbrier, Arkansas",earthquake,0.6,0.4,0.664,7,reviewed,nm,nm
+2011-03-03T15:31:49.430Z,35.2663333,-92.3713333,5.97,3,md,17,54,0.02727,0.21,nm,nm608570,2016-04-08T12:51:29.240Z,"3km NNE of Greenbrier, Arkansas",earthquake,0.4,0.3,0.208,6,reviewed,nm,nm
+2011-03-01T16:03:05.770Z,35.2403333,-92.3913333,4.98,3.3,mw,17,53,0.007353,0.13,nm,nm608544,2016-04-08T12:48:44.940Z,"0km NNW of Greenbrier, Arkansas",earthquake,0.7,0.3,0.463,6,reviewed,nm,nm
+2011-03-01T15:58:46.510Z,35.237,-92.3836667,5.62,3.3,mw,17,53,0.01436,0.16,nm,nm608543,2016-04-08T12:48:38.470Z,"0km NE of Greenbrier, Arkansas",earthquake,0.8,0.9,0.697,5,reviewed,nm,nm
+2011-03-01T10:56:20.180Z,35.2888333,-92.34,2.39,3.2,mw,15,59,0.0186,0.18,nm,nm608540,2016-04-08T12:48:19.260Z,"7km NE of Greenbrier, Arkansas",earthquake,0.5,0.4,0.475,6,reviewed,nm,nm
+2011-02-28T13:06:46.040Z,35.271,-92.3415,3.09,3,mw,15,75,0.02746,0.17,nm,nm608526,2016-04-08T12:46:50.570Z,"5km NE of Greenbrier, Arkansas",earthquake,0.5,0.4,0.402,6,reviewed,nm,nm
+2011-02-28T08:46:11.670Z,35.2821667,-92.3415,2.47,3.4,mw,17,54,0.01994,0.19,nm,nm608518,2016-04-08T12:46:00.010Z,"6km NE of Greenbrier, Arkansas",earthquake,0.5,0.5,0.481,6,reviewed,nm,nm
+2011-02-28T05:18:00.320Z,35.2705,-92.3738333,4.11,3.6,mw,18,75,0.02402,0.13,nm,nm608511,2016-04-08T12:47:46.168Z,"4km NNE of Greenbrier, Arkansas",earthquake,0.4,0.4,0.673,3,reviewed,nm,nm
+2011-02-28T05:00:50.240Z,35.2686667,-92.3545,3.16,4.7,mw,19,54,,0.21,nm,nm608509,2017-04-13T22:25:58.987Z,"4km NE of Greenbrier, Arkansas",earthquake,0.5,0.4,1.334,2,reviewed,nm,nm
+2011-02-26T14:35:02.050Z,35.2756667,-92.3486667,2.84,3.4,mlg,16,54,0.02025,0.19,nm,nm608496,2016-04-08T12:43:41.070Z,"5km NE of Greenbrier, Arkansas",earthquake,0.4,0.4,0.67,5,reviewed,nm,nm
+2011-02-25T09:49:01.400Z,35.2775,-92.3741667,5.84,3.5,mw,17,54,0.01797,0.2,nm,nm608489,2016-04-08T12:44:13.378Z,"4km NNE of Greenbrier, Arkansas",earthquake,0.5,0.3,0.634,6,reviewed,nm,nm
+2011-02-25T08:49:57.370Z,35.2595,-92.3738333,6.16,3.1,mlg,17,53,0.02753,0.18,nm,nm608487,2016-04-08T12:42:44.130Z,"3km NNE of Greenbrier, Arkansas",earthquake,0.5,0.4,0.329,6,reviewed,nm,nm
+2011-02-24T07:35:24.380Z,35.3401667,-92.3151667,4.7,3.2,mlg,18,57,0.03958,0.21,nm,nm608471,2016-04-08T12:41:02.280Z,"13km NNE of Greenbrier, Arkansas",earthquake,0.6,0.5,0.479,6,reviewed,nm,nm
+2011-02-24T00:24:45.830Z,35.2871667,-92.356,3.86,3.4,md,17,54,0.007479,0.2,nm,nm608462,2016-04-08T12:40:05.030Z,"6km NNE of Greenbrier, Arkansas",earthquake,0.5,0.5,0.665,6,reviewed,nm,nm
+2011-02-23T14:21:32.420Z,42.157,-82.43,5,3,mblg,10,97.3,,,us,usp000huzf,2016-05-26T21:19:59.580Z,"southern Ontario, Canada",earthquake,,,,,reviewed,ott,ott
+2011-02-21T16:17:32.480Z,35.2648333,-92.3851667,5.97,3.4,mlg,16,54,0.03347,0.26,nm,nm608446,2016-04-08T12:38:23.970Z,"3km N of Greenbrier, Arkansas",earthquake,0.5,0.5,1.069,4,reviewed,nm,nm
+2011-02-20T15:15:00.370Z,35.2596667,-92.3753333,5.13,3.6,mw,15,53,0.03458,0.23,nm,nm608418,2016-04-08T12:36:47.164Z,"3km NNE of Greenbrier, Arkansas",earthquake,0.5,0.6,0.738,5,reviewed,nm,nm
+2011-02-19T23:04:58.300Z,35.2683333,-92.3743333,6.69,3.4,mlg,13,79,0.02618,0.2,nm,nm608412,2016-04-08T12:34:50.520Z,"4km NNE of Greenbrier, Arkansas",earthquake,0.7,0.5,0.376,5,reviewed,nm,nm
+2011-02-18T23:15:31.970Z,30.08,-88.001,5,3.5,mblg,31,163.5,,1.23,us,usp000huqz,2015-03-24T01:15:07.929Z,"Mississippi",earthquake,,,,,reviewed,us,us
+2011-02-18T12:18:24.360Z,35.2686667,-92.3688333,5.92,3.2,mlg,16,54,0.02451,0.23,nm,nm608402,2016-04-08T12:33:47.220Z,"4km NNE of Greenbrier, Arkansas",earthquake,0.7,0.5,0.476,6,reviewed,nm,nm
+2011-02-18T08:13:35.340Z,35.2713333,-92.3775,6.21,4.1,mw,16,74,0.02464,0.19,nm,nm608397,2016-04-08T12:39:18.386Z,"4km NNE of Greenbrier, Arkansas",earthquake,0.5,0.4,0.823,3,reviewed,nm,nm
+2011-02-18T04:59:50.490Z,35.2573333,-92.37,5.04,3.9,mw,17,53,0.03578,0.18,nm,nm608392,2016-04-08T12:34:36.968Z,"3km NNE of Greenbrier, Arkansas",earthquake,0.6,0.7,1.28,6,reviewed,nm,nm
+2011-02-17T10:49:48.640Z,35.2715,-92.3576667,6.29,3.8,mw,17,54,0.02141,0.19,nm,nm608368,2016-04-08T12:31:38.705Z,"4km NNE of Greenbrier, Arkansas",earthquake,0.6,0.3,0.441,6,reviewed,nm,nm
+2011-02-16T21:46:17.080Z,35.2698333,-92.361,6.56,3.5,mlg,16,54,0.02277,0.16,nm,nm608354,2016-04-08T12:30:09.696Z,"4km NNE of Greenbrier, Arkansas",earthquake,0.5,0.3,0.742,4,reviewed,nm,nm
+2010-12-30T12:55:21.960Z,40.43,-85.914,5,3.8,mwr,75,26.9,,1.06,us,usp000hsa5,2015-03-24T01:37:50.821Z,"Indiana",earthquake,,,,,reviewed,us,us
+2010-12-13T06:59:01.090Z,35.3161667,-92.323,5.35,3.1,mlg,15,55,0.03814,0.27,nm,nm608114,2016-04-08T15:48:15.540Z,"10km NNE of Greenbrier, Arkansas",earthquake,0.6,0.4,0.387,5,reviewed,nm,nm
+2010-11-30T15:45:57.040Z,39.9546667,-71.571,19.92,3.68,ml,36,232,1.705,0.51,ld,ld2010113000,2016-08-31T19:47:02.286Z,"off the east coast of the United States",earthquake,3.6,5.35,0.14,,reviewed,ld,ld
+2010-11-20T19:06:35.400Z,35.3191667,-92.3031667,4.47,3.9,mw,19,50,0.03132,0.21,nm,nm607899,2016-04-08T15:27:13.767Z,"12km NE of Greenbrier, Arkansas",earthquake,0.5,0.5,0.667,6,reviewed,nm,nm
+2010-10-28T23:06:09.850Z,47.425,-70.476,7.9,3,mblg,15,82.9,,,us,usp000hnqn,2014-11-07T01:42:46.750Z,"St. Lawrence Valley region, Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+2010-10-16T09:43:18.830Z,35.2885,-92.3326667,6,3.5,mw,19,74,0.02456,0.18,nm,nm607654,2016-04-08T15:01:57.343Z,"7km NE of Greenbrier, Arkansas",earthquake,0.5,0.4,0.957,6,reviewed,nm,nm
+2010-10-15T18:40:17.780Z,35.3003333,-92.3375,5.33,3,mlg,16,73,0.02166,0.22,nm,nm607649,2016-04-08T14:59:37.500Z,"8km NNE of Greenbrier, Arkansas",earthquake,0.5,0.5,0.637,5,reviewed,nm,nm
+2010-10-15T10:20:18.980Z,35.2943333,-92.3395,7.03,3.8,mw,18,73,0.0187,0.2,nm,nm607646,2016-04-08T15:01:00.758Z,"8km NNE of Greenbrier, Arkansas",earthquake,0.6,0.5,0.968,6,reviewed,nm,nm
+2010-10-14T10:07:33.850Z,35.2991667,-92.3521667,4.53,3.4,mw,19,79,0.01052,0.2,nm,nm607638,2016-04-08T14:58:28.090Z,"7km NNE of Greenbrier, Arkansas",earthquake,0.8,0.6,0.926,7,reviewed,nm,nm
+2010-10-11T16:06:04.880Z,35.3146667,-92.3355,5.85,3.6,mw,19,58,0.03102,0.2,nm,nm607607,2016-04-08T14:57:29.310Z,"10km NNE of Greenbrier, Arkansas",earthquake,0.5,0.5,0.932,5,reviewed,nm,nm
+2010-10-11T13:33:40.190Z,35.3038333,-92.3166667,4.94,4.1,mw,19,78,0.02651,0.24,nm,nm607604,2016-04-08T15:01:00.996Z,"10km NE of Greenbrier, Arkansas",earthquake,0.6,0.6,1.369,6,reviewed,nm,nm
+2010-10-10T12:48:22.940Z,35.322,-92.3323333,4.66,3,mlg,16,128,0.03818,0.25,nm,nm607592,2016-04-08T14:53:38.640Z,"10km NNE of Greenbrier, Arkansas",earthquake,0.5,0.5,1.022,6,reviewed,nm,nm
+2010-10-09T04:13:40.160Z,35.3093333,-92.3366667,5.63,3,mlg,17,128,0.02676,0.19,nm,nm607573,2016-04-08T14:51:39.160Z,"9km NNE of Greenbrier, Arkansas",earthquake,0.6,0.7,0.82,5,reviewed,nm,nm
+2010-10-08T11:08:33.890Z,47.107,-70.679,27.8,3.1,mblg,21,54.5,,,us,usp000hmtv,2014-11-07T01:42:40.519Z,"St. Lawrence Valley region, Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+2010-10-07T23:10:53.420Z,47.406,-70.327,12.7,3,mblg,16,69.1,,,us,usp000hmr4,2014-11-07T01:42:39.688Z,"St. Lawrence Valley region, Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+2010-10-02T20:17:00.050Z,37.8531667,-77.5186667,19.2,3,mlg,20,164,,0.21,se,se608220,2016-04-08T15:59:23.500Z,"10km NNW of Ashland, Virginia",earthquake,3.6,2.8,0.599,6,reviewed,se,se
+2010-09-26T03:28:11.120Z,43.3233333,-71.5896667,5,3.15,ml,13,220,0.8168,0.36,ld,ld60009101,2016-05-26T21:19:42.020Z,"New Hampshire",earthquake,1.49,31.61,0.15,5,reviewed,ld,ld
+2010-08-07T14:34:22.110Z,47.014,-70.654,25.4,3.5,mblg,16,52.4,,,us,usp000hhqg,2015-01-31T03:35:38.539Z,"St. Lawrence Valley region, Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+2010-08-02T04:34:29.350Z,30.815,-90.854,0.4,3,mblg,16,184.2,,,us,usp000hhbw,2016-04-08T14:37:44.010Z,"14km E of Clinton, Louisiana",earthquake,,,,,reviewed,ceri,us
+2010-07-25T18:36:25.640Z,44.424,-66.846,5,3.2,mblg,22,151.9,,,us,usp000hgt9,2015-01-30T05:40:29.111Z,"Nova Scotia, Canada",earthquake,,,,,reviewed,ott,ott
+2010-07-23T17:24:22.000Z,46.5,-71.62,18,3.51,ml,0,,2.733,,ld,ld60004916,2016-05-26T21:19:32.170Z,"St. Lawrence Valley region, Quebec, Canada",earthquake,,,0.15,0,reviewed,ld,ld
+2010-07-16T09:04:47.800Z,39.2606667,-77.4103333,7.03,3.6,ml,23,176,0.4666,0.4,ld,ld2010071600,2016-05-27T19:29:27.660Z,"1km NW of Germantown, Maryland",earthquake,1.02,0.87,0.17,,reviewed,ld,ld
+2010-06-28T06:36:34.930Z,35.2241667,-91.8633333,0.06,3.2,mlg,25,106,0.1253,0.23,nm,nm607395,2016-04-08T14:32:53.670Z,"11km WSW of Searcy, Arkansas",earthquake,1.3,2.6,0.384,7,reviewed,nm,nm
+2010-06-26T23:47:39.580Z,35.2083333,-91.8686667,0,3.3,mlg,25,106,0.1341,0.29,nm,nm607391,2016-04-08T14:32:28.350Z,"12km WSW of Searcy, Arkansas",earthquake,1.5,1.3,0.457,6,reviewed,nm,nm
+2010-06-24T23:49:08.170Z,45.871,-75.518,16.7,3.2,mblg,16,91.9,,,us,usp000hegd,2014-11-07T01:41:44.075Z,"Ontario-Quebec border region, Canada",earthquake,,,,,reviewed,ott,ott
+2010-06-23T23:34:03.160Z,45.871,-75.474,22.9,3.3,mblg,12,143,,,us,usp000heer,2014-11-07T01:41:43.800Z,"Ontario-Quebec border region, Canada",earthquake,,,,,reviewed,ott,ott
+2010-06-23T18:29:02.990Z,45.897,-75.465,18,3,mblg,16,134.6,,,us,usp000heea,2014-11-07T01:41:43.767Z,"Ontario-Quebec border region, Canada",earthquake,,,,,reviewed,ott,ott
+2010-06-23T18:07:13.950Z,45.89,-75.51,18,3,mblg,6,145.9,,,us,usp000hee5,2014-11-07T01:41:43.758Z,"Ontario-Quebec border region, Canada",earthquake,,,,,reviewed,ott,ott
+2010-06-23T17:53:34.490Z,45.878,-75.477,18,3.1,mblg,10,143.9,,,us,usp000hee1,2014-11-07T01:41:43.752Z,"Ontario-Quebec border region, Canada",earthquake,,,,,reviewed,ott,ott
+2010-06-23T17:41:42.700Z,45.8835,-75.475,18.89,5.35,ml,56,82,,0.28,ld,ld2010062300,2017-04-26T18:11:04.408Z,"Ontario-Quebec border region, Canada",earthquake,0.25,0.31,0.2,,reviewed,ld,ld
+2010-06-03T12:25:02.930Z,40.0863333,-76.9736667,1.5,3.05,md,14,138,0.5025,0.35,ld,ld2010060301,2016-08-31T18:40:45.687Z,"Pennsylvania",earthquake,0.68,31.61,0.15,,reviewed,ld,ld
+2010-05-30T02:34:01.980Z,36.5485,-89.716,9.2,3.1,md,39,50,0.04211,0.07,nm,nm607341,2016-04-08T14:27:12.910Z,"10km WSW of Lilbourn, Missouri",earthquake,0.2,0.6,0.144,18,reviewed,nm,nm
+2010-05-16T00:34:43.270Z,49.705,-66.943,18,3.1,mblg,19,82.6,,,us,usp000hct8,2014-11-07T01:41:29.590Z,"Gaspe Peninsula, Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+2010-05-06T14:04:54.490Z,34.187,-85.948,5,3.2,mblg,8,107.8,,1.17,us,usp000hcdk,2014-11-07T01:41:27.384Z,"Alabama",earthquake,,,,,reviewed,us,us
+2010-05-05T22:19:18.100Z,47.576,-70.088,19.1,3.1,mblg,40,48.4,,,us,usp000hcch,2015-01-30T19:04:46.987Z,"St. Lawrence Valley region, Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+2010-04-25T02:00:39.260Z,41.78,-81.08,5,3,mblg,22,86.1,,,us,usp000hbve,2015-03-24T01:42:39.765Z,"Ohio",earthquake,,,,,reviewed,ogso,ott
+2010-04-24T07:08:54.280Z,47.058,-71.085,18,3.3,mblg,17,151.9,,,us,usp000hbuf,2015-01-30T06:08:21.211Z,"southern Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+2010-04-20T09:28:20.040Z,35.7251667,-84.001,2.24,3.3,mlg,28,41,,0.16,se,se608191,2016-04-08T15:56:19.250Z,"4km SW of Maryville, Tennessee",earthquake,0.4,1.2,0.272,5,reviewed,se,se
+2010-04-15T17:06:29.600Z,45.528,-72.406,18,3,mblg,13,78.4,,,us,usp000hbf1,2014-11-07T01:41:16.503Z,"southern Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+2010-04-04T09:19:14.010Z,38.599,-80.9161667,0.02,3.4,mlg,17,118,,0.38,se,se608185,2016-04-08T15:55:41.650Z,"19km WSW of Sutton, West Virginia",earthquake,1.6,3.6,0.614,2,reviewed,se,se
+2010-03-30T20:42:19.000Z,44.672,-68.752,4.4,3,mblg,25,135.5,,,us,usp000ha5h,2015-01-28T21:43:35.797Z,"Maine",earthquake,,,,,reviewed,wes,wes
+2010-03-10T06:41:18.920Z,47.685,-70.103,10.4,3.1,mblg,26,48.3,,,us,usp000h925,2014-11-07T01:40:58.098Z,"St. Lawrence Valley region, Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+2010-03-06T13:18:02.490Z,47.047,-70.915,18,3.2,mblg,30,58.5,,,us,usp000h8u6,2015-01-29T23:19:25.089Z,"St. Lawrence Valley region, Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+2010-03-02T19:37:35.160Z,36.788,-89.3561667,8.2,3.7,mlg,39,61,,0.2,nm,nm607272,2016-04-08T14:21:15.916Z,"2km ENE of East Prairie, Missouri",earthquake,0.2,0.7,0.354,11,reviewed,nm,nm
+2010-02-28T03:51:24.840Z,45.7261667,-74.4561667,7.37,3.41,md,26,145,0.3157,0.31,ld,ld2010022800,2016-08-31T19:41:32.263Z,"Ontario-Quebec border region, Canada",earthquake,0.62,0.74,0.19,,reviewed,ld,ld
+2010-02-10T09:59:35.140Z,41.969,-88.498,10,3.8,mwr,82,31.2,,,us,usp000h751,2016-04-08T14:19:56.929Z,"8km NW of Village of Campton Hills, Illinois",earthquake,,,,,reviewed,slm,slm
+2010-01-20T21:18:46.250Z,36.0185,-91.3025,0.03,3.3,mlg,30,76,,0.19,nm,nm607245,2016-04-08T14:16:59.400Z,"23km ENE of Cave City, Arkansas",earthquake,0.8,2.6,0.338,2,reviewed,nm,nm
+2009-12-18T11:38:08.660Z,36.4506667,-89.541,9.06,3.1,md,37,54,0.0584,0.07,nm,nm607105,2016-04-08T16:26:33.350Z,"10km NW of Tiptonville, Tennessee",earthquake,0.2,0.6,0.083,11,reviewed,nm,nm
+2009-12-13T22:00:50.540Z,42.5731667,-74.1076667,10.18,3.15,md,21,72,,0.2,ld,ld2009121301,2016-08-31T19:34:46.793Z,"New York",earthquake,0.26,0.47,,,reviewed,ld,ld
+2009-12-07T00:27:26.830Z,33.0293333,-83.0108333,6.87,3.2,mlg,24,105,,0.29,se,se607230,2016-04-08T16:39:41.620Z,"19km WNW of Sandersville, Georgia",earthquake,2,3.3,0.324,1,reviewed,se,se
+2009-11-06T06:12:39.770Z,36.0885,-89.4018333,9.32,3.4,mlg,38,40,0.02017,0.06,nm,nm607067,2016-04-08T16:22:29.130Z,"6km NNW of Dyersburg, Tennessee",earthquake,0.3,0.6,0.175,8,reviewed,nm,nm
+2009-11-02T03:16:45.290Z,46.1083333,-74.7528333,3.92,3.59,md,21,106,0.1775,0.18,ld,ld2009110200,2016-08-31T19:28:41.644Z,"southern Quebec, Canada",earthquake,0.24,0.58,,,reviewed,ld,ld
+2009-11-01T17:01:26.310Z,35.1368333,-84.8543333,24.51,3,mlg,24,63,,0.15,se,se607215,2016-04-08T16:38:07.290Z,"1km ESE of South Cleveland, Tennessee",earthquake,0.4,1,0.802,7,reviewed,se,se
+2009-10-15T18:53:23.000Z,35.2473333,-92.3948333,0,3,mlg,14,171,,0.22,nm,nm607041,2016-04-08T16:19:42.110Z,"1km NNW of Greenbrier, Arkansas",earthquake,3.9,3.5,0.257,7,reviewed,nm,nm
+2009-10-03T06:04:32.620Z,45.967,-77.018,18,3.1,mblg,22,109.7,,,us,usp000h2a5,2015-01-31T04:25:11.387Z,"southern Ontario, Canada",earthquake,,,,,reviewed,ott,ott
+2009-08-31T14:07:10.230Z,35.778,-84.1238333,14.25,3.3,md,24,79,,0.15,se,se607194,2016-04-08T16:35:55.100Z,"8km SW of Louisville, Tennessee",earthquake,0.3,0.6,0.064,6,reviewed,se,se
+2009-08-29T10:37:13.700Z,33.033,-80.1586667,4.93,3.2,mlg,14,122,,0.17,se,se607191,2016-04-08T16:35:36.160Z,"2km NE of Summerville, South Carolina",earthquake,0.6,1,,,reviewed,se,se
+2009-08-01T13:38:26.110Z,35.0635,-84.2923333,5.4,3.2,mlg,28,75,,0.09,se,se607183,2016-04-08T16:34:45.230Z,"11km NE of McCaysville, Georgia",earthquake,0.4,1.4,0.554,7,reviewed,se,se
+2009-07-21T14:20:56.350Z,49.725,-65.706,13.8,3.5,mwr,13,245.9,,,us,usp000gzgy,2014-11-07T01:39:20.827Z,"Gaspe Peninsula, Quebec, Canada",earthquake,,,,,reviewed,ott,us
+2009-05-28T09:19:24.740Z,45.8255,-75.8258333,3.87,3.02,md,20,77,,0.14,ld,ld2009052800,2016-05-27T19:27:38.150Z,"Ontario-Quebec border region, Canada",earthquake,0.21,0.46,,,reviewed,ld,ld
+2009-05-18T00:53:29.930Z,42.5711667,-74.1115,8.61,3.05,md,24,72,,0.21,ld,ld2009051800,2016-08-31T19:26:15.370Z,"New York",earthquake,0.24,0.53,,,reviewed,ld,ld
+2009-05-16T08:08:17.650Z,37.2485,-80.002,12.89,3,mlg,25,85,,0.48,se,se607154,2016-04-08T16:31:42.920Z,"2km NNE of Cave Spring, Virginia",earthquake,1.7,2.3,0.348,4,reviewed,se,se
+2009-05-08T19:47:01.530Z,45.4938333,-75.9605,21.18,3.1,md,26,64,,0.22,ld,ld2009050800,2016-08-31T19:25:45.005Z,"Ontario-Quebec border region, Canada",earthquake,0.23,0.34,,,reviewed,ld,ld
+2009-04-29T19:37:07.970Z,46.853,-71.058,18,3.4,mblg,28,64.4,,,us,usp000gwpd,2015-01-30T05:05:09.060Z,"St. Lawrence Valley region, Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+2009-04-24T13:42:46.030Z,38.81,-82.27,5,3.3,mblg,28,48,,,us,usp000gwj0,2016-04-08T16:30:33.930Z,"13km NW of Gallipolis, Ohio",earthquake,,,,,reviewed,ogso,ogso
+2009-04-21T10:25:42.520Z,32.83,-87.1,12.7,3.3,mwr,25,100.6,,,us,usp000gwev,2016-04-08T16:30:21.190Z,"12km SSE of Centreville, Alabama",earthquake,,,,,reviewed,ceri,us
+2009-04-04T20:45:33.670Z,33.2146667,-83.2023333,0,3.1,md,27,172,,0.38,se,se607137,2016-04-08T16:29:55.750Z,"15km N of Milledgeville, Georgia",earthquake,2.7,0.4,0.302,3,reviewed,se,se
+2009-03-08T13:30:10.210Z,46.584,-66.249,5,3.3,mblg,15,115.1,,,us,usp000gurr,2015-03-24T02:19:45.524Z,"New Brunswick, Canada",earthquake,,,,,reviewed,ott,ott
+2009-03-08T08:16:04.600Z,46.597,-66.311,5,3.6,mblg,76,69.3,,,us,usp000gurf,2014-11-07T01:38:33.287Z,"New Brunswick, Canada",earthquake,,,,,reviewed,ott,wes
+2009-01-27T11:20:12.690Z,36.7733333,-84.1311667,26.08,3.2,md,17,131,0.3644,0.15,se,se607117,2016-04-08T16:27:50.660Z,"4km NE of Williamsburg, Kentucky",earthquake,0.9,0.8,0.147,7,reviewed,se,se
+2008-12-31T06:54:48.740Z,46.1535,-75.4476667,7.11,3.2,md,22,115,,0.12,ld,ld2008123101,2016-05-27T19:26:29.220Z,"southern Quebec, Canada",earthquake,0.18,0.51,,,reviewed,ld,ld
+2008-12-27T05:04:34.600Z,40.1141667,-76.4025,3.61,3.37,md,30,89,,0.36,ld,ld2008122700,2016-08-31T18:34:44.362Z,"Pennsylvania",earthquake,0.33,0.73,,,reviewed,ld,ld
+2008-12-18T00:05:07.060Z,36.0501667,-83.5918333,9.54,3.3,mlg,18,57,0.2454,0.16,se,se606896,2016-04-08T17:20:37.760Z,"6km SSW of New Market, Tennessee",earthquake,0.4,1.1,0.314,5,reviewed,se,se
+2008-12-16T12:42:17.520Z,33.0881667,-80.1346667,15.39,3.6,mlg,18,117,0.04065,0.29,se,se606895,2016-04-08T17:21:48.737Z,"5km N of Sangaree, South Carolina",earthquake,2.8,0.9,,,reviewed,se,se
+2008-11-15T10:52:53.420Z,47.74,-69.713,20,3.6,mwr,32,97.9,,,us,usp000gnrd,2014-11-07T01:37:44.395Z,"St. Lawrence Valley region, Quebec, Canada",earthquake,,,,,reviewed,ott,slm
+2008-11-02T07:26:27.000Z,47.43,-71.44,18,3.6,mblg,7,247.7,,,us,usp000gmp9,2014-11-07T01:37:39.049Z,"southern Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+2008-10-20T08:26:17.870Z,46.4355,-75.7576667,10.53,3.03,md,15,126,,0.1,ld,ld2008102003,2016-05-27T19:26:13.740Z,"southern Quebec, Canada",earthquake,0.24,0.35,,,reviewed,ld,ld
+2008-09-11T11:21:49.200Z,46.476,-81.042,1,3.8,mblg,50,32.7,,,us,usp000ggvg,2014-11-07T01:37:11.117Z,"Ontario, Canada",earthquake,,,,,reviewed,ott,ott
+2008-07-18T02:58:56.230Z,38.442,-87.8943333,18.28,3.1,mlg,6,119,,0.11,nm,nm606744,2016-04-08T17:04:24.530Z,"12km WNW of Mount Carmel, Illinois",earthquake,1.5,1.5,,,reviewed,nm,nm
+2008-06-28T01:40:36.450Z,33.276,-87.396,5,3.1,mblg,16,112.9,,1.24,us,usp000gasv,2014-11-07T01:36:27.288Z,"Alabama",earthquake,,,,,reviewed,us,us
+2008-06-23T23:30:19.990Z,34.925,-84.841,8.76,3.1,mlg,21,66,0.1536,0.08,se,se606856,2016-04-08T17:16:25.380Z,"12km ENE of Varnell, Georgia",earthquake,0.5,1,0.142,10,reviewed,se,se
+2008-06-11T04:36:34.590Z,45.6386667,-75.385,18.35,3.28,md,17,89,,0.18,ld,ld2008061100,2016-05-27T19:25:20.970Z,"Ontario-Quebec border region, Canada",earthquake,0.29,0.39,,,reviewed,ld,ld
+2008-06-05T07:13:15.470Z,38.4538333,-87.8436667,16.24,3.4,mw,10,135,,0.16,nm,nm606722,2016-04-08T17:02:02.230Z,"8km WNW of Mount Carmel, Illinois",earthquake,0.8,1.1,,,reviewed,nm,nm
+2008-05-16T18:39:14.920Z,31.773,-88.203,5,3.1,mblg,12,175.5,,0.92,us,usp000g704,2014-11-07T01:36:01.654Z,"Alabama",earthquake,,,,,reviewed,us,us
+2008-05-10T17:52:49.620Z,34.3505,-88.8348333,0,3.1,md,17,159,0.5013,0.45,nm,nm606709,2016-04-08T17:00:38.940Z,"14km WSW of Saltillo, Mississippi",earthquake,2.3,2.2,0.159,2,reviewed,nm,nm
+2008-05-01T05:30:37.680Z,38.4526667,-87.8591667,14.32,3.3,mlg,10,89,,0.2,nm,nm606701,2016-04-08T16:59:47.790Z,"9km WNW of Mount Carmel, Illinois",earthquake,0.9,1.1,0.236,1,reviewed,nm,nm
+2008-04-25T17:31:00.500Z,38.4505,-87.873,12.98,3.7,mw,9,87,,0.15,nm,nm606695,2016-04-08T17:00:33.229Z,"10km WNW of Mount Carmel, Illinois",earthquake,1,1.2,0.386,1,reviewed,nm,nm
+2008-04-21T05:38:30.260Z,38.4475,-87.8755,18.29,4,mw,11,87,,0.15,nm,nm606680,2016-04-08T17:09:38.071Z,"10km WNW of Mount Carmel, Illinois",earthquake,0.6,0.8,,,reviewed,nm,nm
+2008-04-18T15:14:17.210Z,38.4585,-87.8691667,15.46,4.7,mw,16,89,,0.28,nm,nm606669,2017-04-26T18:08:03.599Z,"10km WNW of Mount Carmel, Illinois",earthquake,0.8,0.9,,,reviewed,nm,nm
+2008-04-18T09:36:59.110Z,38.4515,-87.8861667,14.25,5.2,mw,16,86,,0.2,nm,nm606657,2017-04-13T22:22:16.150Z,"11km WNW of Mount Carmel, Illinois",earthquake,1.3,1.3,,,reviewed,nm,nm
+2008-01-10T06:12:43.440Z,46.1061667,-74.8171667,16.69,3.13,md,17,100,0.2157,0.14,ld,ld2008011000,2016-05-27T19:24:20.370Z,"southern Quebec, Canada",earthquake,0.19,0.28,,,reviewed,ld,ld
+2008-01-09T01:34:46.700Z,41.72,-81.43,5,3.1,mblg,29,69.7,,,us,usp000fwa6,2016-05-27T19:24:18.880Z,"Lake Erie, Ohio",earthquake,,,,,reviewed,ogso,ogso
+2008-01-03T09:37:55.550Z,47.382,-70.312,13.5,3.4,mblg,31,39.5,,,us,usp000fvwe,2014-11-07T01:34:36.034Z,"St. Lawrence Valley region, Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+2007-12-27T20:51:57.490Z,27.679,-71.076,10,4.6,mb,84,68,,1.03,us,usp000fve1,2014-11-07T01:34:30.386Z,"off the east coast of the United States",earthquake,,,,39,reviewed,us,us
+2007-12-23T23:48:34.760Z,46.256,-77.318,18,3.6,mblg,30,54.6,,,us,usp000fv45,2016-05-27T19:24:13.340Z,"southern Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+2007-12-20T12:16:41.490Z,45.788,-76.956,18,3,mblg,32,48.6,,,us,usp000fuw9,2016-05-27T19:24:10.610Z,"southern Ontario, Canada",earthquake,,,,,reviewed,ott,ott
+2007-12-12T15:51:20.810Z,46.2985,-75.1463333,14.97,3.04,md,20,119,,0.32,ld,ld2007121200,2016-05-27T19:24:07.720Z,"southern Quebec, Canada",earthquake,0.44,0.59,,,reviewed,ld,ld
+2007-10-17T20:04:09.740Z,41.75,-81.42,5,3.4,mblg,19,102.8,,,us,usp000fqsp,2016-05-27T19:23:41.180Z,"Lake Erie, Ohio",earthquake,,,,,reviewed,ogso,ott
+2007-10-13T05:53:31.870Z,46.525,-75.129,11,3.5,md,25,127.7,,,us,usp000fqer,2016-05-27T19:23:38.160Z,"southern Quebec, Canada",earthquake,,,,,reviewed,pal,pal
+2007-10-01T16:42:08.000Z,47.08,-76.88,18,4.1,mblg,42,123.5,,,us,usp000fpnh,2016-05-27T19:23:29.560Z,"southern Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+2007-09-30T17:35:35.280Z,46.878,-76.518,13,3.9,mblg,26,119.9,,,us,usp000fpjm,2016-05-27T19:23:25.340Z,"southern Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+2007-09-07T10:40:47.480Z,36.2265,-93.1436667,0,3.1,md,29,125,,0.57,nm,nm606414,2016-04-08T17:57:12.690Z,"3km W of Harrison, Arkansas",earthquake,5.4,6.4,0.048,3,reviewed,nm,nm
+2007-08-30T03:47:45.740Z,44.3238333,-74.361,2.23,3.23,md,25,40,,0.3,ld,ld2007083000,2016-08-31T19:09:08.877Z,"New York",earthquake,0.34,0.67,,,reviewed,ld,ld
+2007-08-04T10:04:45.530Z,35.4865,-82.0873333,8.94,3,md,23,75,,0.14,se,se606540,2016-04-08T18:10:40.450Z,"12km ENE of Lake Lure, North Carolina",earthquake,0.5,1.5,0.201,7,reviewed,se,se
+2007-07-24T01:56:48.790Z,42.6041667,-74.1186667,15.15,3.05,md,18,93,,0.49,ld,ld2007072401,2016-05-27T19:22:55.050Z,"New York",earthquake,0.61,0.76,,,reviewed,ld,ld
+2007-07-20T00:35:09.180Z,47.07,-65.875,5,3.2,mblg,17,89.2,,,us,usp000fgp4,2014-11-07T01:33:00.834Z,"New Brunswick, Canada",earthquake,,,,,reviewed,ott,ott
+2007-06-19T18:16:26.810Z,35.7925,-85.3616667,1.17,3.5,md,23,45,0.3498,0.26,se,se606532,2016-04-08T18:11:08.630Z,"10km ENE of Spencer, Tennessee",earthquake,1,3,0.156,6,reviewed,se,se
+2007-06-02T02:19:54.530Z,46.091,-74.957,14.64,3,md,21,114,0.309,0.27,ld,ld2007060200,2016-05-27T19:22:33.980Z,"southern Quebec, Canada",earthquake,0.41,0.48,,,reviewed,ld,ld
+2007-05-31T01:57:44.690Z,46.988,-72.887,18,3,md,43,62.1,,,us,usp000fd2v,2016-05-27T19:22:32.330Z,"St. Lawrence Valley region, Quebec, Canada",earthquake,,,,,reviewed,ott,pal
+2007-05-16T13:22:21.420Z,33.3,-92.587,5,3,mblg,9,160.3,,0.95,us,usp000fc3b,2015-03-24T00:49:51.002Z,"Arkansas",earthquake,,,,,reviewed,us,us
+2007-05-11T05:55:22.580Z,46.708,-76.092,18,3.2,md,20,149.1,,,us,usp000fbrb,2016-05-27T19:22:19.600Z,"southern Quebec, Canada",earthquake,,,,,reviewed,ott,pal
+2007-05-04T16:16:28.180Z,33.797,-87.299,5,3,mblg,8,197,,0.77,us,usp000fb7x,2014-11-07T01:32:24.230Z,"Alabama",earthquake,,,,,reviewed,us,us
+2007-03-12T23:18:16.410Z,41.28,-81.38,5,3.7,mblg,70,54.1,,,us,usp000f6ke,2016-05-27T19:21:49.210Z,"Ohio",earthquake,,,,,reviewed,ogso,ott
+2007-01-06T04:08:44.970Z,47.025,-76.234,18,3.3,mblg,32,96.4,,,us,usp000f1sx,2014-11-07T01:31:19.006Z,"southern Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+2006-12-29T21:21:10.780Z,44.354,-68.168,8.4,3.2,mblg,24,169.9,,,us,usp000f19d,2014-11-07T01:31:13.018Z,"Maine",earthquake,,,,,reviewed,wes,ott
+2006-12-18T08:34:26.520Z,35.356,-84.3508333,17.69,3.3,md,24,67,,0.11,se,se606243,2016-04-08T19:06:47.030Z,"14km ESE of Englewood, Tennessee",earthquake,0.4,0.7,0.361,6,reviewed,se,se
+2006-12-07T04:44:59.290Z,49.516,-81.537,16,4.2,mblg,80,27.3,,,us,usp000ezq5,2016-05-27T19:21:09.080Z,"Ontario, Canada",earthquake,,,,,reviewed,ott,ott
+2006-11-29T07:38:17.160Z,46.475,-81.207,1,3.1,mblg,13,140.6,,,us,usp000ez4f,2014-11-07T01:30:58.955Z,"Ontario, Canada",earthquake,,,,,reviewed,ott,ott
+2006-11-29T07:22:55.110Z,46.482,-81.168,1,4.1,mblg,53,28,,,us,usp000ez4b,2015-03-24T02:26:10.070Z,"Ontario, Canada",earthquake,,,,,reviewed,ott,ott
+2006-11-23T10:42:57.420Z,37.157,-81.975,0,4.3,mb,61,40.7,,,us,usp000eym9,2015-03-24T00:48:38.649Z,"West Virginia",earthquake,,,,15,reviewed,bla,us
+2006-11-02T17:53:02.110Z,37.2,-81.92,1,4.3,mb,61,55.4,,,us,usp000ewg9,2015-03-24T02:19:12.758Z,"West Virginia",earthquake,,,,15,reviewed,ceri,us
+2006-10-18T20:59:20.580Z,36.537,-89.6405,7.83,3.4,md,30,34,0.02399,0.07,nm,nm606143,2016-04-08T18:56:18.200Z,"6km SSW of Lilbourn, Missouri",earthquake,0.2,0.5,0.122,10,reviewed,nm,nm
+2006-10-03T00:07:38.150Z,44.3666667,-68.1468333,10,3.66,md,23,171,,0.63,ld,ld2006100300,2016-05-27T19:20:50.640Z,"Maine",earthquake,1.23,31.61,,,reviewed,ld,ld
+2006-09-25T05:44:20.270Z,34.5401667,-79.3748333,5,3.7,mlg,18,241,,0.21,se,se606232,2016-04-08T19:07:01.969Z,"7km W of Rowland, North Carolina",earthquake,4.7,33.3,0.176,3,reviewed,se,se
+2006-09-22T11:22:02.630Z,34.4923333,-79.692,5,3.4,mlg,14,191,,0.56,se,se606230,2016-04-08T19:05:32.000Z,"13km S of Bennettsville, South Carolina",earthquake,5.9,24.6,0.134,1,reviewed,se,se
+2006-09-22T10:39:22.480Z,44.4265,-68.181,11.29,3.19,md,17,203,,0.36,ld,ld2006092200,2016-05-27T19:20:47.600Z,"Maine",earthquake,1.9,0.97,,,reviewed,ld,ld
+2006-09-10T14:56:08.160Z,26.319,-86.606,14,5.9,mwc,590,46.9,,0.83,us,usp000esv9,2016-11-10T01:28:07.497Z,"Gulf of Mexico",earthquake,,,,,reviewed,us,gcmt
+2006-09-07T13:51:12.640Z,36.2715,-89.4996667,7.56,3.3,md,35,35,0.01798,0.06,nm,nm606109,2016-04-08T18:52:39.560Z,"1km NW of Ridgely, Tennessee",earthquake,0.2,0.6,0.076,10,reviewed,nm,nm
+2006-08-11T09:02:02.560Z,44.797,-65.359,5,3.2,mblg,31,148.6,,,us,usp000eqq3,2014-11-07T01:29:56.793Z,"Nova Scotia, Canada",earthquake,,,,,reviewed,ott,ott
+2006-07-14T09:34:48.830Z,46.8763333,-68.6856667,13.81,3.86,md,32,149,,0.59,ld,ld2006071400,2016-05-27T19:20:25.030Z,"Maine",earthquake,1.24,1.43,,,reviewed,ld,ld
+2006-06-20T20:11:18.540Z,41.84,-81.23,5,3.5,mwr,59,47.9,,,us,usp000ekw5,2016-05-27T19:20:20.430Z,"Lake Erie, Ohio",earthquake,,,,,reviewed,ogso,slm
+2006-06-16T00:57:26.770Z,35.5121667,-83.2033333,1.37,3.4,md,17,181,0.4817,0.07,se,se606211,2016-04-08T19:03:32.240Z,"9km W of Maggie Valley, North Carolina",earthquake,2.7,3.4,0.06,4,reviewed,se,se
+2006-06-01T09:34:25.710Z,46.582,-67.452,5,3.6,mblg,49,53.7,,,us,usp000ejev,2014-11-07T01:29:16.233Z,"New Brunswick, Canada",earthquake,,,,,reviewed,ott,ott
+2006-05-28T11:32:53.650Z,49.552,-66.296,20,3.3,mblg,29,91.9,,,us,usp000ej5b,2014-11-07T01:29:12.202Z,"Gaspe Peninsula, Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+2006-05-28T11:20:47.810Z,49.556,-66.277,18,3.6,mblg,40,41,,,us,usp000ej5a,2014-11-07T01:29:12.197Z,"Gaspe Peninsula, Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+2006-05-11T06:35:39.470Z,46.2323333,-72.7113333,5,3,md,12,265,,0.37,ld,ld2006051100,2016-05-27T19:20:03.000Z,"St. Lawrence Valley region, Quebec, Canada",earthquake,1.2,31.61,,,reviewed,ld,ld
+2006-05-10T12:17:29.240Z,35.533,-84.396,24.69,3.2,md,18,51,0.132,0.08,se,se606208,2016-04-08T19:03:13.400Z,"3km WNW of Madisonville, Tennessee",earthquake,0.4,1,0.077,7,reviewed,se,se
+2006-05-09T03:15:03.560Z,49.988,-66.293,18,3,mblg,33,84.8,,,us,usp000egn2,2014-11-07T01:29:04.724Z,"Gaspe Peninsula, Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+2006-04-11T03:29:20.800Z,35.3623333,-84.4801667,19.55,3.3,md,16,77,0.04168,0.09,se,se606204,2016-04-08T19:02:48.190Z,"5km NE of Etowah, Tennessee",earthquake,0.4,0.9,0.061,7,reviewed,se,se
+2006-04-07T12:44:26.760Z,46.831,-76.616,18,3.1,mblg,8,136,,,us,usp000edwr,2014-11-07T01:28:44.231Z,"southern Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+2006-04-07T08:31:40.000Z,47.29,-70.47,0,3.7,mwr,17,171.8,,,us,usp000edwa,2016-05-27T19:19:52.620Z,"St. Lawrence Valley region, Quebec, Canada",earthquake,,,,,reviewed,ott,slm
+2006-03-11T12:27:15.600Z,41.78,-81.39,5,3.1,mblg,49,70.6,,,us,usp000ebya,2016-05-27T19:19:46.300Z,"Lake Erie, Ohio",earthquake,,,,,reviewed,ogso,ogso
+2006-03-04T02:13:10.740Z,49.518,-81.576,18,3.4,mblg,19,78.4,,,us,usp000ebbd,2014-11-07T01:28:28.035Z,"Ontario, Canada",earthquake,,,,,reviewed,ott,ott
+2006-03-01T17:42:42.090Z,37.4976667,-88.982,6.16,3,mlg,30,70,,0.31,nm,nm606003,2016-04-08T18:41:13.680Z,"6km S of Goreville, Illinois",earthquake,1.2,2.9,0.173,3,reviewed,nm,nm
+2006-02-26T04:09:22.490Z,45.5268333,-74.7168333,13.54,3.19,md,11,163,,0.27,ld,ld2006022600,2016-05-27T19:19:44.890Z,"Ontario-Quebec border region, Canada",earthquake,0.7,1.04,,,reviewed,ld,ld
+2006-02-25T01:39:22.790Z,45.6275,-75.2003333,10.56,3.96,md,16,164,,0.24,ld,ld2006022500,2017-04-13T22:19:51.645Z,"Ontario-Quebec border region, Canada",earthquake,0.46,0.88,,,reviewed,ld,ld
+2006-02-10T04:14:22.200Z,27.828,-90.21,5,5.3,ms,53,122.6,,,us,usp000e9v9,2015-03-24T01:52:59.909Z,"Gulf of Mexico",earthquake,,,,103,reviewed,spec,us
+2006-01-09T15:35:40.590Z,45.0255,-73.8815,12.69,3.72,md,13,78,,0.24,ld,ld2006010900,2016-08-31T19:03:57.610Z,"southern Quebec, Canada",earthquake,0.45,1.17,,,reviewed,ld,ld
+2006-01-03T11:05:10.260Z,49.327,-81.084,15,3.7,mblg,24,39.5,,,us,usp000e7gr,2014-11-07T01:28:03.214Z,"Ontario, Canada",earthquake,,,,,reviewed,ott,ott
+2006-01-02T21:48:57.060Z,37.8415,-88.4171667,7.31,3.6,mlg,25,68,0.09007,0.45,nm,nm605979,2016-04-08T18:40:01.043Z,"3km NNE of Eldorado, Illinois",earthquake,0.6,3.6,0.011,1,reviewed,nm,nm
+2005-12-20T00:52:20.510Z,30.258,-90.708,5,3,mblg,11,233.7,,0.93,us,usp000e6fr,2015-03-24T00:46:09.955Z,"Louisiana",earthquake,,,,,reviewed,us,us
+2005-10-20T21:16:28.750Z,44.677,-80.482,11,4.2,mblg,118,18.4,,,us,usp000e2bp,2016-05-27T19:19:11.000Z,"southern Ontario, Canada",earthquake,,,,,reviewed,ott,ott
+2005-10-12T06:27:30.090Z,35.5093333,-84.5443333,8.12,3.3,mlg,20,63,,0.12,se,se605955,2016-04-11T13:15:08.790Z,"8km NNE of Athens, Tennessee",earthquake,0.6,0.8,0.514,2,reviewed,se,se
+2005-10-01T07:01:46.840Z,46.632,-76.5233333,12.88,3.06,md,13,248,,0.3,ld,ld2005100100,2016-05-27T19:19:08.340Z,"southern Quebec, Canada",earthquake,1.15,0.75,,,reviewed,ld,ld
+2005-09-25T03:08:57.870Z,45.0396667,-67.283,3.1,3.23,md,8,182,,0.16,ld,ld2005092500,2016-05-27T19:19:07.020Z,"Maine",earthquake,0.85,0.43,,,reviewed,ld,ld
+2005-09-06T14:10:52.460Z,46.2906667,-75.298,10.38,3.1,md,14,108,,0.3,ld,ld2005090601,2016-05-27T19:19:04.270Z,"southern Quebec, Canada",earthquake,0.58,0.85,,,reviewed,ld,ld
+2005-08-25T03:09:41.820Z,35.8795,-82.7951667,7.87,3.7,md,25,87,,0.13,se,se605947,2016-04-11T13:15:32.040Z,"13km NW of Marshall, North Carolina",earthquake,1.8,4.7,0.419,2,reviewed,se,se
+2005-07-31T07:07:07.970Z,38.718,-92.725,5,3.3,mblg,22,136.7,,,us,usp000dwby,2015-01-29T02:52:30.957Z,"Missouri",earthquake,,,,,reviewed,slm,slm
+2005-07-23T02:48:19.950Z,47.062,-75.1275,10,3,md,5,345,,0.63,ld,ld2005072300,2016-05-27T19:18:59.260Z,"southern Quebec, Canada",earthquake,13.43,31.61,,,reviewed,ld,ld
+2005-07-04T11:47:14.340Z,46.2435,-76.886,13.43,3.25,md,6,290,1.889,0.1,ld,ld2005070400,2016-05-27T19:18:58.020Z,"southern Quebec, Canada",earthquake,4.08,4.97,,,reviewed,ld,ld
+2005-06-27T15:46:52.350Z,37.6341667,-89.4193333,9.64,3,mlg,27,90,0.1793,0.19,nm,nm605779,2016-04-11T12:56:12.030Z,"16km SSW of Murphysboro, Illinois",earthquake,1.4,2.6,0.286,3,reviewed,nm,nm
+2005-06-20T12:21:42.510Z,36.9225,-89.0041667,18.72,3.6,mw,26,79,0.2358,0.29,nm,nm605776,2016-04-11T12:57:24.689Z,"5km N of Bardwell, Kentucky",earthquake,0.5,1.1,0.072,3,reviewed,nm,nm
+2005-06-02T11:35:11.200Z,36.1501667,-89.4735,15.02,4,mw,35,57,0.03105,0.07,nm,nm605762,2016-04-26T21:01:22.665Z,"12km S of Ridgely, Tennessee",earthquake,0.2,0.6,0.457,9,reviewed,nm,nm
+2005-05-18T19:59:42.900Z,38.46,-93.967,5,3.3,mblg,13,161.8,,0.62,us,usp000dr44,2015-03-24T00:44:26.778Z,"Missouri",earthquake,,,,,reviewed,us,us
+2005-05-01T12:37:31.500Z,35.835,-90.147,10,4.2,mw,32,65,0.05089,0.08,nm,nm605742,2016-04-26T20:59:56.017Z,"5km SSE of Manila, Arkansas",earthquake,0.3,0.8,0.316,2,reviewed,nm,nm
+2005-04-08T04:32:38.000Z,46.26,-73.45,18,3.4,mblg,13,160.3,,,us,usp000dmk5,2014-11-07T01:25:31.077Z,"southern Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+2005-03-31T15:13:08.000Z,46.28,-75.64,18,3.4,mblg,5,300.5,,,us,usp000dktm,2014-11-07T01:25:22.922Z,"southern Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+2005-03-22T08:11:50.510Z,31.836,-88.06,5,3.3,mblg,9,204.2,,0.16,us,usp000djsv,2014-11-07T01:25:17.704Z,"Alabama",earthquake,,,,,reviewed,us,us
+2005-03-13T17:08:14.000Z,46.54,-80.98,18,3.6,mblg,26,79.8,,,us,usp000dj4b,2014-11-07T01:25:13.964Z,"Ontario, Canada",earthquake,,,,,reviewed,ott,ott
+2005-03-06T06:17:49.000Z,47.75,-69.73,13.3,4.9,mb,199,30.1,,,us,usp000dhn5,2017-04-26T18:04:00.504Z,"St. Lawrence Valley region, Quebec, Canada",earthquake,,,,78,reviewed,ott,us
+2005-02-10T14:04:53.790Z,35.7591667,-90.2498333,15.48,4.1,mw,36,63,,0.09,nm,nm605688,2016-04-26T20:48:41.301Z,"6km E of Caraway, Arkansas",earthquake,0.4,0.5,0.251,16,reviewed,nm,nm
+2005-01-05T15:32:42.000Z,47.01,-66.57,5,3.7,mblg,11,325,,,us,usp000dcm2,2014-11-07T01:24:34.747Z,"New Brunswick, Canada",earthquake,,,,,reviewed,ott,ott
+2004-12-23T06:54:20.660Z,35.4293333,-84.2041667,7.68,3,md,10,121,0.2294,0.04,se,se605665,2016-04-11T13:49:13.200Z,"17km SE of Madisonville, Tennessee",earthquake,1.6,5.3,0.102,3,reviewed,se,se
+2004-11-07T11:20:21.430Z,32.649,-87.933,5,4.3,mwr,61,78.9,,0.9,us,usp000d7vw,2016-04-11T13:48:04.720Z,"8km NNW of Eutaw, Alabama",earthquake,,,,,reviewed,us,slm
+2004-09-17T15:21:43.620Z,36.9328333,-84.004,1.29,3.7,mlg,23,96,,0.2,se,se605646,2016-04-11T13:48:40.043Z,"8km ESE of Corbin, Kentucky",earthquake,2.2,6.7,0.579,2,reviewed,se,se
+2004-09-12T13:05:19.700Z,39.6043333,-85.6615,2.4,3.8,mw,16,167,0.7946,0.45,nm,nm605535,2016-04-11T13:36:46.656Z,"8km SSE of Morristown, Indiana",earthquake,1.92,1.41,,,reviewed,nm,nm
+2004-08-19T23:51:49.420Z,33.203,-86.968,5,3.6,mwr,16,102.3,,1.03,us,usp000d2fz,2015-03-24T01:54:13.100Z,"Alabama",earthquake,,,,,reviewed,us,slm
+2004-08-04T23:55:26.670Z,43.6955,-78.254,4.76,3,md,34,41,0.2504,0.6,ld,ld2004080400,2016-05-27T19:18:21.330Z,"New York",earthquake,0.57,1.36,,,reviewed,ld,ld
+2004-07-20T09:13:14.400Z,32.972,-80.248,10.3,3.1,md,,,,,se,se605638,2016-04-11T13:46:25.430Z,"7km WSW of Centerville, South Carolina",earthquake,0.4,0.4,,,reviewed,se,se
+2004-07-16T03:25:16.930Z,36.8648333,-89.1753333,4.41,3.5,mw,34,73,0.1503,0.06,nm,nm605507,2016-04-11T13:34:56.918Z,"13km SW of Wickliffe, Kentucky",earthquake,0.6,0.2,0.099,4,reviewed,nm,nm
+2004-06-30T04:03:14.580Z,41.78,-81.08,5,3.3,mblg,26,87.8,,,us,usp000cz7a,2015-03-24T00:42:34.895Z,"Ohio",earthquake,,,,,reviewed,ogso,ogso
+2004-06-28T06:10:52.170Z,41.46,-88.9,10,4.2,mwr,60,42,,0.79,us,usp000cz1k,2016-04-11T13:38:48.977Z,"10km NW of Ottawa, Illinois",earthquake,,,,,reviewed,us,slm
+2004-06-15T08:34:21.230Z,36.7258333,-89.6833333,4.54,3.5,mw,24,68,0.03734,0.04,nm,nm605494,2016-04-11T13:32:56.332Z,"16km NNW of Lilbourn, Missouri",earthquake,0.3,0.8,0.228,4,reviewed,nm,nm
+2004-05-09T08:56:10.430Z,33.231,-86.96,5,3.3,mblg,12,113.3,,0.38,us,usp000cuht,2015-03-24T02:01:42.187Z,"Alabama",earthquake,,,,,reviewed,us,us
+2003-12-29T09:02:09.170Z,38.1238333,-90.1678333,0,3,mw,17,88,0.3355,0.19,nm,nm605327,2016-04-11T14:26:45.680Z,"18km WSW of Red Bud, Illinois",earthquake,1,4.4,0.551,2,reviewed,nm,nm
+2003-12-22T23:50:26.000Z,32.924,-80.157,5.6,3,md,,,,,se,se605391,2016-04-11T14:33:21.680Z,"8km SSW of Ladson, South Carolina",earthquake,0.3,0.6,,,reviewed,se,se
+2003-12-09T20:59:18.700Z,37.774,-78.1,10,4.5,mlg,,,,,se,se605386,2017-04-13T22:17:04.651Z,"16km E of Weber City, Virginia",earthquake,8.8,6.3,,,reviewed,se,se
+2003-10-18T16:25:07.000Z,46.94,-67.19,18,3.5,mblg,11,296.4,,,us,usp000caq3,2014-11-07T01:20:13.524Z,"New Brunswick, Canada",earthquake,,,,,reviewed,ott,ott
+2003-10-15T04:13:14.000Z,45.08,-66.91,18,3.1,mblg,10,318.8,,,us,usp000cadr,2014-11-07T01:20:12.026Z,"New Brunswick, Canada",earthquake,,,,,reviewed,ott,ott
+2003-10-12T08:26:07.000Z,47.01,-76.37,18,4.2,mb,44,96,,,us,usp000ca7b,2014-11-07T01:20:11.309Z,"southern Quebec, Canada",earthquake,,,,4,reviewed,ott,us
+2003-09-30T02:28:03.380Z,31.115,-87.52,5,3.3,mblg,9,217.4,,0.7,us,usp000c93u,2016-04-11T14:31:18.700Z,"3km E of Atmore, Alabama",earthquake,,,,,reviewed,us,us
+2003-08-26T18:24:18.370Z,40.6063333,-75.1055,2.91,3.1,md,15,150,0.4176,0.26,ld,ld2003082600,2016-08-31T19:01:16.822Z,"New Jersey",earthquake,0.98,1.12,,,reviewed,ld,ld
+2003-08-26T02:26:57.670Z,37.1055,-88.6828333,1.71,3.1,mlg,25,94,0.5998,0.35,nm,nm605244,2016-04-11T14:17:48.170Z,"6km SE of Metropolis, Illinois",earthquake,1.9,5.3,0.128,3,reviewed,nm,nm
+2003-08-16T05:09:23.460Z,36.7925,-91.5963333,0.07,3.7,mw,51,175,1.14,0.44,nm,nm605239,2016-04-11T14:18:43.548Z,"20km WNW of Alton, Missouri",earthquake,1.9,3.3,0.179,6,reviewed,nm,nm
+2003-07-13T20:15:16.960Z,32.335,-82.144,5,3.6,mblg,9,216.4,,0.56,us,usp000c2e5,2015-03-24T00:42:21.919Z,"Georgia, USA",earthquake,,,,,reviewed,us,us
+2003-06-30T19:21:17.200Z,41.8,-81.2,4.6,3.6,mblg,19,80.5,,,us,usp000c1bd,2016-05-27T19:18:02.800Z,"Lake Erie, Ohio",earthquake,,,,,reviewed,ogso,ott
+2003-06-13T11:34:40.000Z,47.7,-70.09,11.1,4.1,mblg,19,119.6,,,us,usp000bzsc,2014-11-07T01:18:55.309Z,"St. Lawrence Valley region, Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+2003-06-06T12:29:34.210Z,36.8788333,-88.9958333,2.5,4,mw,42,50,0.1184,0.29,nm,nm605194,2016-04-11T14:19:33.346Z,"1km NE of Bardwell, Kentucky",earthquake,1.2,1.3,0.363,5,reviewed,nm,nm
+2003-05-05T16:32:34.390Z,37.6256667,-77.9551667,12.5,3.6,mw,9,164,,0.43,se,se605353,2016-05-27T19:18:01.460Z,"8km SW of Goochland, Virginia",earthquake,6.4,8.4,1.019,1,reviewed,se,se
+2003-05-05T10:53:49.900Z,33.055,-80.19,11.4,3.1,md,,,,,se,se605352,2016-04-11T14:29:21.390Z,"4km NNW of Summerville, South Carolina",earthquake,0.3,0.7,,,reviewed,se,se
+2003-05-02T10:48:43.990Z,34.4931667,-85.6066667,14.5,3.1,md,15,98,,0.14,se,se605351,2016-04-11T14:29:15.090Z,"11km ENE of Fort Payne, Alabama",earthquake,1.7,3,0.034,1,reviewed,se,se
+2003-05-02T08:10:14.040Z,37.9655,-88.6633333,0.09,3.2,md,21,115,,0.34,nm,nm605177,2016-04-11T14:10:31.700Z,"18km SW of McLeansboro, Illinois",earthquake,2.7,5.1,0.159,2,reviewed,nm,nm
+2003-04-30T04:56:21.580Z,35.945,-89.9161667,23.68,4,md,31,75,0.08369,0.07,nm,nm605172,2016-04-11T14:15:24.886Z,"1km N of Blytheville, Arkansas",earthquake,0.3,0.6,0.396,15,reviewed,nm,nm
+2003-04-29T09:45:41.100Z,34.4423333,-85.6401667,3.08,3.1,md,14,167,,0.17,se,se605344,2016-04-11T14:28:30.760Z,"7km E of Fort Payne, Alabama",earthquake,1.8,4.5,0.178,7,reviewed,se,se
+2003-04-29T08:59:39.070Z,34.4938333,-85.6298333,19.81,4.6,mw,21,154,,0.07,se,se605341,2017-04-13T22:16:26.000Z,"9km NE of Fort Payne, Alabama",earthquake,0.8,0.9,,,reviewed,se,se
+2003-04-13T04:52:53.920Z,26.087,-86.085,10,3.2,mb,11,222.7,,1.43,us,usp000bv2f,2014-11-07T01:18:20.175Z,"Gulf of Mexico",earthquake,,,,2,reviewed,us,us
+2003-04-08T15:06:14.400Z,44.615,-74.34,10,3.7,mblg,23,69.1,,,us,usp000buqg,2015-01-28T22:52:13.761Z,"New York",earthquake,,,,,reviewed,pal,ott
+2003-03-18T06:04:24.210Z,33.689,-82.888,5,3.5,mblg,9,80.7,,0.96,us,usp000bsy4,2015-03-24T01:40:14.629Z,"Georgia, USA",earthquake,,,,,reviewed,us,us
+2003-02-09T16:18:03.000Z,46.51,-75.2,18,3.3,mblg,7,,,,us,usp000bqb0,2014-11-07T01:17:46.647Z,"southern Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+2002-11-11T23:39:29.720Z,32.404,-79.936,2.4,4,mb,66,,,,us,usp000bhft,2016-02-16T23:57:19.279Z,"South Carolina",earthquake,,,,7,reviewed,csc,us
+2002-11-08T13:29:03.190Z,32.422,-79.95,3.9,3.5,mblg,12,,,,us,usp000bh2r,2014-11-07T01:17:04.383Z,"South Carolina",earthquake,,,,,reviewed,csc,us
+2002-11-07T16:55:06.000Z,44.05,-77.43,18,3,mblg,8,,,,us,usp000bgzp,2014-11-07T01:17:04.081Z,"southern Ontario, Canada",earthquake,,,,,reviewed,ott,ott
+2002-10-26T20:05:56.370Z,34.067,-90.697,3.19,3.1,mlg,23,294,,0.2,nm,nm605110,2016-04-11T16:14:34.540Z,"14km NNE of Shelby, Mississippi",earthquake,3.6,2.6,0.048,1,reviewed,nm,nm
+2002-09-19T14:44:36.150Z,27.822,-89.135,10,3.7,mb,27,,,1.12,us,usp000bcnd,2014-11-07T01:16:32.771Z,"Gulf of Mexico",earthquake,,,,5,reviewed,us,us
+2002-09-07T21:27:45.000Z,46.96,-76.29,18,3.7,mblg,7,,,,us,usp000bbka,2014-11-07T01:16:28.616Z,"southern Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+2002-08-17T05:53:54.000Z,47.33,-70.51,13.3,3.8,mblg,10,,,,us,usp000ba20,2014-11-07T01:16:17.192Z,"St. Lawrence Valley region, Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+2002-07-23T02:08:59.000Z,49.59,-66.95,18,4,mblg,8,,,,us,usp000b8ky,2014-11-07T01:16:06.152Z,"Gaspe Peninsula, Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+2002-06-25T13:40:28.100Z,44.499,-73.703,9,3,md,10,,,,us,usp000b6wq,2014-11-07T01:15:53.254Z,"New York",earthquake,,,,,reviewed,pal,pal
+2002-06-18T17:37:17.270Z,38.0001667,-87.7563333,16.05,4.6,mw,14,99,,0.17,nm,nm605053,2017-04-13T22:15:32.990Z,"14km ENE of Mount Vernon, Indiana",earthquake,1.7,0.9,,,reviewed,nm,nm
+2002-06-01T11:35:29.000Z,45.59,-73.86,18,3.2,mblg,8,,,,us,usp000b5bk,2014-11-07T01:15:43.968Z,"southern Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+2002-05-28T09:15:38.000Z,45.63,-76.62,18,3.4,mblg,12,,,,us,usp000b53y,2014-11-07T01:15:40.839Z,"southern Ontario, Canada",earthquake,,,,,reviewed,ott,ott
+2002-05-27T00:28:16.990Z,27.117,-94.442,10,3.8,mb,15,,,1.12,us,usp000b51e,2014-11-07T01:15:40.537Z,"Gulf of Mexico",earthquake,,,,6,reviewed,us,us
+2002-05-24T23:46:00.400Z,44.504,-73.675,10,3.1,ml,17,,,,us,usp000b4x4,2014-11-07T01:15:39.925Z,"New York",earthquake,,,,,reviewed,pal,pal
+2002-05-21T20:35:34.430Z,32.797,-88.102,5,3.1,mblg,5,,,0.46,us,usp000b4r9,2014-11-07T01:15:38.935Z,"Alabama",earthquake,,,,,reviewed,us,us
+2002-04-20T11:04:42.420Z,44.4898333,-73.6898333,5,3.7,mlg,8,88,0.3575,0.26,ld,ld2002042001,2016-05-27T19:17:49.910Z,"New York",earthquake,0.6,31.61,,,reviewed,ld,ld
+2002-04-20T10:50:47.450Z,44.5123333,-73.6973333,4.83,5.3,mlg,11,91,0.3375,0.18,ld,ld2002042000,2017-04-26T18:00:04.054Z,"New York",earthquake,0.5,1.73,,,reviewed,ld,ld
+2002-03-12T08:30:47.670Z,37.2496667,-89.9596667,9.93,3.1,md,23,292,0.3727,0.19,nm,nm605010,2016-04-11T16:03:58.040Z,"6km S of Marble Hill, Missouri",earthquake,7.6,8.4,0.298,13,reviewed,nm,nm
+2002-03-12T07:13:25.790Z,41.62,-69.33,1,3,mblg,10,,,,us,usp000b05r,2014-11-07T01:15:07.819Z,"southern New England",earthquake,,,,,reviewed,wes,wes
+2002-02-24T21:38:33.000Z,45.29,-75.17,18,3.1,mblg,8,,,,us,usp000az47,2014-11-07T01:14:57.813Z,"Ontario-Quebec border region, Canada",earthquake,,,,,reviewed,ott,ott
+2002-02-11T11:41:37.000Z,46.06,-73.46,10,3.8,mblg,17,,,,us,usp000ay81,2014-11-07T01:14:54.132Z,"southern Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+2002-02-06T04:52:51.020Z,28.42,-69.947,10,3.6,mb,16,,,0.78,us,usp000axwg,2014-11-07T01:14:52.996Z,"off the east coast of the United States",earthquake,,,,2,reviewed,us,us
+2002-01-20T14:11:55.000Z,49.49,-66.95,30,4.1,mblg,13,,,,us,usp000awuu,2014-11-07T01:14:43.638Z,"Gaspe Peninsula, Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+2002-01-12T08:26:52.900Z,28.279,-69.566,10,5.4,mwc,429,,,0.85,us,usp000aw9y,2016-11-09T21:39:07.191Z,"off the east coast of the United States",earthquake,,,,,reviewed,us,hrv
+2001-12-24T16:58:21.000Z,46.87,-76.49,18,3.8,mblg,16,,,,us,usp000av75,2014-11-07T01:14:31.432Z,"southern Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+2001-12-08T01:08:21.510Z,34.735,-86.245,5,3.9,mblg,8,,,0.32,us,usp000au76,2015-03-24T01:38:57.544Z,"Alabama",earthquake,,,,,reviewed,us,us
+2001-10-25T00:24:29.800Z,45.2,-68.67,9.4,3.3,mblg,22,,,,us,usp000arkr,2014-11-07T01:14:02.875Z,"Maine",earthquake,,,,,reviewed,wes,wes
+2001-09-22T16:01:20.550Z,38.026,-78.396,2,3.2,mblg,8,,,,us,usp000apm3,2014-11-07T01:13:49.906Z,"Virginia",earthquake,,,,,reviewed,bla,bla
+2001-08-04T01:13:27.060Z,34.3343333,-93.2398333,0.02,3.2,md,10,222,0.3489,0.38,nm,nm604896,2016-11-17T13:23:49.850Z,"16km SW of Lake Hamilton, Arkansas",earthquake,8.6,9.9,1.042,2,reviewed,nm,nm
+2001-07-26T05:26:45.810Z,36.0008333,-83.5536667,17.08,3.2,mlg,14,64,,0.13,se,se610719,2016-11-17T13:31:57.520Z,"11km S of New Market, Tennessee",earthquake,1.8,3.1,0.435,4,reviewed,se,se
+2001-07-07T20:45:42.810Z,36.2743333,-89.4016667,13.41,3,mlg,40,71,0.01929,0.06,nm,nm604875,2016-11-17T13:21:33.840Z,"7km E of Ridgely, Tennessee",earthquake,0.4,0.7,0.241,18,reviewed,nm,nm
+2001-06-11T18:27:54.250Z,30.226,-79.885,10,3.3,mblg,15,,,1.38,us,usp000agf0,2014-11-07T01:13:01.938Z,"off the east coast of the United States",earthquake,,,,,reviewed,us,us
+2001-06-03T22:36:46.460Z,41.905,-80.767,5,3.4,mblg,13,,,0.57,us,usp000ag00,2015-03-24T02:06:14.115Z,"Ohio",earthquake,,,,,reviewed,us,ott
+2001-05-04T18:15:23.710Z,35.2195,-92.2405,5.94,3.1,md,11,188,0.4513,0.3,nm,nm604827,2016-11-17T13:16:33.420Z,"13km E of Greenbrier, Arkansas",earthquake,2.9,2.6,0.048,1,reviewed,nm,nm
+2001-05-04T06:42:12.640Z,35.2426667,-92.2938333,7.74,4.3,mw,34,151,,0.27,nm,nm604823,2017-04-13T22:14:14.597Z,"8km E of Greenbrier, Arkansas",earthquake,2.3,2.7,0.956,5,reviewed,nm,nm
+2001-04-13T16:36:20.790Z,36.53,-83.34,0,3,md,16,,,,us,usp000ad5y,2014-11-07T01:12:34.545Z,"eastern Tennessee",earthquake,,,,,reviewed,tva,tva
+2001-03-30T17:13:55.600Z,37.933,-93.327,5,3.1,mblg,7,,,0.58,us,usp000ac8m,2014-11-07T01:12:26.679Z,"Missouri",earthquake,,,,,reviewed,us,us
+2001-03-21T23:35:35.090Z,34.857,-85.439,3,3.2,md,13,,,,us,usp000abuc,2014-11-07T01:12:23.382Z,"Alabama",earthquake,,,,,reviewed,tva,tva
+2001-03-19T10:40:17.000Z,47.05,-76.28,18,3.9,mblg,11,,,,us,usp000abqx,2014-11-07T01:12:22.383Z,"southern Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+2001-03-16T04:39:07.680Z,28.361,-89.029,10,3.6,mb,19,,,1.28,us,usp000abgk,2014-11-07T01:12:21.533Z,"Gulf of Mexico",earthquake,,,,6,reviewed,us,us
+2001-03-07T17:12:24.020Z,35.5301667,-84.8431667,18.04,3.2,mlg,12,62,,0.09,se,se604764,2016-11-17T13:31:26.220Z,"5km WNW of Decatur, Tennessee",earthquake,0.5,1.7,0.791,2,reviewed,se,se
+2001-03-03T10:46:13.000Z,33.19,-92.66,5,3,mblg,6,,,,us,usp000aau8,2016-04-13T18:16:02.060Z,"2km SSE of El Dorado, Arkansas",earthquake,,,,,reviewed,slm,slm
+2001-02-03T20:15:15.000Z,42.345,-77.394,0,3.2,mblg,11,,,,us,usp000a905,2014-11-07T01:12:05.071Z,"New York",earthquake,,,,,reviewed,pal,ott
+2001-01-26T03:03:20.060Z,41.942,-80.802,5,3.9,mb,19,,,0.83,us,usp000a8dr,2015-03-24T01:40:56.894Z,"Lake Erie, Ohio",earthquake,,,,3,reviewed,us,us
+2000-12-09T06:46:09.120Z,28.027,-90.171,10,4.3,ms,27,,,1.44,us,usp000a5rp,2014-11-07T01:11:41.891Z,"Gulf of Mexico",earthquake,,,,6,reviewed,us,us
+2000-12-07T14:08:50.200Z,37.9711667,-87.6365,5,3.9,md,23,147,,0.62,nm,nm604709,2016-04-13T18:58:23.530Z,"7km W of Evansville, Indiana",earthquake,1.7,1.1,,,reviewed,nm,nm
+2000-10-06T13:59:04.000Z,45.13,-74.02,18,3.8,mblg,9,,,,us,usp000a1br,2014-11-07T01:11:14.409Z,"Ontario-Quebec border region, Canada",earthquake,,,,,reviewed,ott,ott
+2000-09-07T10:07:40.780Z,44.355,-69.382,5,3.2,mblg,10,,,0.34,us,usp0009zuk,2014-11-07T01:11:03.251Z,"Maine",earthquake,,,,,reviewed,us,ott
+2000-08-22T20:12:14.920Z,36.4755,-91.0996667,10.09,3.9,mlg,35,152,,0.15,nm,nm604669,2016-04-13T18:53:52.434Z,"26km NNW of Pocahontas, Arkansas",earthquake,2.5,4.3,0.814,8,reviewed,nm,nm
+2000-08-06T08:52:24.000Z,46.19,-74.97,18,4,mb,28,,,,us,usp0009y04,2014-11-07T01:10:49.779Z,"southern Quebec, Canada",earthquake,,,,1,reviewed,ott,us
+2000-07-12T15:01:49.000Z,47.52,-71.1,10,4.2,mblg,15,,,,us,usp0009wbu,2014-11-07T01:10:35.711Z,"southern Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+2000-06-27T01:28:44.970Z,35.8425,-92.786,0,3.4,md,12,230,,0.32,nm,nm604630,2016-04-13T18:48:37.920Z,"15km WSW of Marshall, Arkansas",earthquake,4.2,3.3,0.125,4,reviewed,nm,nm
+2000-06-16T04:02:53.000Z,42.1,-72.82,9.8,3.3,mblg,11,,,,us,usp0009upd,2014-11-07T01:10:22.890Z,"southern New England",earthquake,,,,,reviewed,wes,ott
+2000-06-15T09:25:54.000Z,47.67,-69.81,10.6,3.7,mblg,5,,,,us,usp0009un1,2014-11-07T01:10:22.703Z,"St. Lawrence Valley region, Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+2000-05-28T11:32:07.020Z,33.809,-87.82,5,3,mblg,,,,0.58,us,usp0009tk5,2016-04-13T18:58:39.260Z,"13km S of Winfield, Alabama",earthquake,,,,,reviewed,us,us
+2000-05-24T10:22:46.210Z,43.806,-79.099,18,3.1,mblg,,,,,us,usp0009tdt,2014-11-07T01:10:11.408Z,"southern Ontario, Canada",earthquake,,,,,reviewed,ott,ott
+2000-04-20T08:46:55.470Z,43.949,-74.257,5,3.8,ml,,,,,us,usp0009rkd,2014-11-07T01:09:55.224Z,"New York",earthquake,,,,,reviewed,pal,pal
+2000-04-14T03:54:20.000Z,39.76,-86.75,5,3.6,mlg,,,,,nm,nm604596,2016-09-07T13:27:19.070Z,"16km NE of Greencastle, Indiana",earthquake,,,,,reviewed,nm,nm
+2000-01-27T14:49:40.000Z,43,-71.18,1.4,3,mblg,,,,,us,usp0009mr6,2014-11-07T01:09:22.295Z,"New Hampshire",earthquake,,,,,reviewed,wes,ott
+2000-01-18T22:19:31.960Z,32.993,-83.214,5,3.5,mblg,,,,0.87,us,usp0009mb9,2014-11-07T01:09:20.533Z,"Georgia, USA",earthquake,,,,,reviewed,us,us
+2000-01-17T08:16:20.000Z,44.57,-70.44,16.3,3.6,mblg,,,,,us,usp0009m8u,2014-11-07T01:09:20.107Z,"Maine",earthquake,,,,,reviewed,wes,ott
+2000-01-03T21:05:50.000Z,44.31,-70.17,9.7,3.5,mblg,,,,,us,usp0009kqf,2014-11-07T01:09:16.936Z,"Maine",earthquake,,,,,reviewed,wes,ott
+2000-01-01T11:22:57.000Z,46.888,-78.93,18,4.7,mb,,,,,us,usp0009kks,2017-04-13T22:12:25.922Z,"southern Quebec, Canada",earthquake,,,,39,reviewed,ott,us
+1999-12-25T00:21:41.000Z,44.94,-69.37,5,3,mblg,,,,,us,usp0009k8m,2014-11-07T01:09:11.195Z,"Maine",earthquake,,,,,reviewed,wes,ott
+1999-11-26T22:33:01.400Z,43.71,-78.997,12.8,3.8,mblg,,,,,us,usp0009j5n,2014-11-07T01:09:00.836Z,"New York",earthquake,,,,,reviewed,ott,ott
+1999-10-31T20:14:10.000Z,45.85,-74.32,18,4.2,mblg,,,,,us,usp0009gwj,2014-11-07T01:08:47.840Z,"Ontario-Quebec border region, Canada",earthquake,,,,,reviewed,ott,ott
+1999-10-21T08:49:49.400Z,36.4845,-90.9808333,8.99,3.1,md,54,263,,0.22,nm,nm60014503,2016-04-13T19:10:24.110Z,"20km SW of Doniphan, Missouri",earthquake,1,0.6,0.147,41,reviewed,nm,nm
+1999-10-21T08:18:00.840Z,36.4841667,-90.9711667,9.51,3.9,md,43,272,,0.14,nm,nm60014502,2016-04-13T19:15:17.839Z,"20km SW of Doniphan, Missouri",earthquake,1.4,0.6,0.392,28,reviewed,nm,nm
+1999-09-02T16:17:29.700Z,41.721,-89.433,5,3.5,mblg,,,,0.69,us,usp0009dy5,2014-11-07T01:08:25.434Z,"Illinois",earthquake,,,,,reviewed,us,us
+1999-08-23T12:12:41.170Z,36.2591667,-89.5013333,9.06,3.1,md,42,36,0.008428,0.08,nm,nm60014485,2016-04-13T19:08:22.690Z,"1km WSW of Ridgely, Tennessee",earthquake,0.2,0.6,0.407,34,reviewed,nm,nm
+1999-03-16T12:50:48.000Z,49.61,-66.32,18,4.4,mb,,,,,us,usp00094m8,2014-11-07T01:07:14.072Z,"Gaspe Peninsula, Quebec, Canada",earthquake,,,,30,reviewed,ott,us
+1999-02-26T03:38:43.000Z,44.48,-69.52,3.2,3.8,mblg,,,,,us,usp00093fc,2014-11-07T01:07:05.150Z,"Maine",earthquake,,,,,reviewed,wes,ott
+1999-02-01T22:22:05.650Z,49.267,-80.939,18,3.4,mblg,,,,,us,usp000923s,2014-11-07T01:06:55.708Z,"Ontario, Canada",earthquake,,,,,reviewed,ott,ott
+1999-01-17T18:38:04.730Z,36.854,-83.691,5,3,mblg,,,,0.5,us,usp0009180,2014-11-07T01:06:49.544Z,"eastern Kentucky",earthquake,,,,,reviewed,us,us
+1999-01-10T15:20:44.360Z,42.84,-70.995,2.1,3,mblg,,,,,us,usp00090ww,2014-11-07T01:06:48.263Z,"southern New England",earthquake,,,,,reviewed,wes,ott
+1999-01-10T10:52:16.130Z,42.84,-70.98,2,3.1,mblg,,,,,us,usp00090wh,2014-11-07T01:06:48.242Z,"southern New England",earthquake,,,,,reviewed,wes,ott
+1998-12-25T13:30:26.000Z,43.83,-77.93,18,3.6,mblg,,,,,us,usp000905b,2014-11-07T01:06:41.680Z,"New York",earthquake,,,,,reviewed,ott,ott
+1998-10-22T09:43:35.000Z,49.34,-66.88,18,4.1,mblg,,,,,us,usp0008ww3,2014-11-07T01:06:16.648Z,"Gaspe Peninsula, Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+1998-10-21T05:56:47.200Z,37.381,-78.367,13.4,3.8,mblg,,,,,us,usp0008wu8,2014-11-07T01:06:16.470Z,"Virginia",earthquake,,,,,reviewed,bla,bla
+1998-09-25T19:52:52.070Z,41.495,-80.388,5,4.5,mwc,,,,0.81,us,usp0008vh3,2017-04-13T22:11:00.814Z,"Pennsylvania",earthquake,,,,,reviewed,us,hrv
+1998-07-30T08:57:22.000Z,46.16,-74.73,10,3.8,mb,,,,,us,usp0008sf4,2014-11-07T01:05:39.609Z,"southern Quebec, Canada",earthquake,,,,4,reviewed,ott,us
+1998-07-15T07:08:04.000Z,47.02,-66.61,5,4,mblg,,,,,us,usp0008rj1,2014-11-07T01:05:35.966Z,"New Brunswick, Canada",earthquake,,,,,reviewed,ott,ott
+1998-07-06T06:54:03.790Z,25.016,-93.633,10,3.4,mb,,,,0.77,us,usp0008r13,2014-11-07T01:05:33.187Z,"Gulf of Mexico",earthquake,,,,4,reviewed,us,us
+1998-06-24T15:20:01.390Z,32.502,-87.954,5,3.4,mblg,,,,1.28,us,usp0008qdw,2014-11-07T01:05:26.815Z,"Alabama",earthquake,,,,,reviewed,us,us
+1998-06-17T08:00:23.430Z,35.926,-84.405,10,3.3,mb,,,,0.88,us,usp0008q0t,2014-11-07T01:05:25.194Z,"eastern Tennessee",earthquake,,,,2,reviewed,us,us
+1998-06-09T08:53:51.000Z,44.75,-73.72,4.6,3.3,md,,,,,us,usp0008pma,2014-11-07T01:05:23.477Z,"New York",earthquake,,,,,reviewed,pal,pal
+1998-06-05T02:31:01.940Z,35.479,-80.821,5,3.2,mblg,,,,0.89,us,usp0008pbk,2014-11-07T01:05:22.232Z,"North Carolina",earthquake,,,,,reviewed,us,us
+1998-05-25T15:47:02.000Z,46.457,-81.174,1,3.4,mb,,,,,us,usp0008nq6,2014-11-07T01:05:15.844Z,"Ontario, Canada",earthquake,,,,2,reviewed,ott,us
+1998-04-18T16:22:52.000Z,45.57,-74.99,18,4.1,mblg,,,,,us,usp0008kgz,2014-11-07T01:05:01.130Z,"Ontario-Quebec border region, Canada",earthquake,,,,,reviewed,ott,ott
+1998-04-13T09:56:11.330Z,34.61,-80.466,5,3.5,mb,,,,1.14,us,usp0008k3y,2014-11-07T01:04:59.366Z,"South Carolina",earthquake,,,,2,reviewed,us,us
+1998-04-08T18:16:48.430Z,36.9621667,-88.9741667,12.67,3.2,mlg,31,255,0.3297,0.07,nm,nm604367,2016-04-13T19:21:41.230Z,"10km NNE of Bardwell, Kentucky",earthquake,1.2,3.5,0.49,16,reviewed,nm,nm
+1998-03-09T05:05:58.000Z,46.49,-81.07,1,3.9,mb,,,,,us,usp0008h6v,2014-11-07T01:04:44.126Z,"Ontario, Canada",earthquake,,,,2,reviewed,ott,us
+1998-02-26T14:20:31.000Z,46.07,-76.36,18,3.7,mblg,,,,,us,usp0008gmt,2014-11-07T01:04:35.637Z,"southern Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+1997-11-14T03:44:11.050Z,40.146,-76.252,5,3,mblg,,,,0.44,us,usp0008amt,2014-11-07T01:03:54.060Z,"Pennsylvania",earthquake,,,,,reviewed,us,us
+1997-11-06T02:34:33.000Z,46.8,-71.41,22.5,4.8,mb,,,,,us,usp0008a5s,2017-04-26T17:54:07.609Z,"St. Lawrence Valley region, Quebec, Canada",earthquake,,,,49,reviewed,ott,us
+1997-10-28T11:44:18.000Z,47.67,-69.91,11.7,4.8,mb,,,,,us,usp00089qj,2017-04-13T22:10:09.977Z,"St. Lawrence Valley region, Quebec, Canada",earthquake,,,,3,reviewed,ott,us
+1997-10-28T09:00:11.000Z,31.1,-87.3,10,3,mblg,,,,,us,usp00089q7,2014-11-07T01:03:46.662Z,"Alabama",earthquake,,,,,reviewed,spec,us
+1997-10-26T23:27:12.000Z,31.1,-87.3,10,3.7,mblg,,,,,us,usp00089nk,2014-11-07T01:03:45.802Z,"Alabama",earthquake,,,,,reviewed,spec,us
+1997-10-24T08:35:17.870Z,31.118,-87.339,10,4.8,mb,,,,0.98,us,usp00089hq,2017-04-26T17:54:05.275Z,"Alabama",earthquake,,,,29,reviewed,us,us
+1997-10-13T23:06:40.210Z,44.36,-74.968,4.2,3,md,,,,,us,usp0008902,2014-11-07T01:03:41.668Z,"New York",earthquake,,,,,reviewed,pal,pal
+1997-09-17T18:16:32.290Z,35.6716667,-90.4791667,0.05,3.8,mlg,58,76,,0.26,nm,nm604305,2016-04-14T12:03:18.221Z,"2km E of Trumann, Arkansas",earthquake,0.3,1,0.656,23,reviewed,nm,nm
+1997-08-20T09:12:04.000Z,47.53,-70.29,18,3.7,mblg,,,,,us,usp00086gb,2014-11-07T01:03:19.667Z,"St. Lawrence Valley region, Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+1997-07-31T07:15:29.720Z,43.624,-75.37,5,3.2,mblg,,,,0.89,us,usp00085m9,2014-11-07T01:03:12.063Z,"New York",earthquake,,,,,reviewed,us,us
+1997-07-30T12:29:23.380Z,36.436,-83.509,5,3.8,mblg,,,,0.98,us,usp00085jy,2014-11-07T01:03:11.962Z,"eastern Tennessee",earthquake,,,,,reviewed,us,us
+1997-07-19T17:06:34.320Z,35.056,-84.808,10,3.5,mblg,,,,0.39,us,usp0008520,2014-11-07T01:03:09.419Z,"eastern Tennessee",earthquake,,,,,reviewed,us,us
+1997-07-01T21:12:20.590Z,33.136,-67.854,10,3.6,mb,,,,0.75,us,usp000847g,2014-11-07T01:03:04.119Z,"North Atlantic Ocean",earthquake,,,,1,reviewed,us,us
+1997-05-24T18:52:06.360Z,45.978,-74.421,10,4.2,mblg,,,,1.15,us,usp00082t1,2014-11-07T01:02:49.223Z,"Ontario-Quebec border region, Canada",earthquake,,,,,reviewed,us,ott
+1997-05-04T03:39:12.990Z,31,-87.4,5,3.1,mblg,,,,,us,usp00081qh,2014-11-07T01:02:43.826Z,"Alabama",earthquake,,,,,reviewed,macr,us
+1997-04-18T14:57:35.390Z,25.782,-86.552,33,3.9,mb,,,,0.75,us,usp00080st,2014-11-07T01:02:35.770Z,"Gulf of Mexico",earthquake,,,,2,reviewed,us,us
+1997-04-03T04:44:12.000Z,45.98,-72.33,5,3.5,mblg,,,,,us,usp0007zw3,2014-11-07T01:02:29.033Z,"southern Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+1997-03-16T19:07:27.950Z,34.209,-93.435,5,3.4,mblg,,,,0.8,us,usp0007yxr,2014-11-07T01:02:20.119Z,"Arkansas",earthquake,,,,,reviewed,us,us
+1996-12-22T20:13:53.550Z,32.224,-65.447,10,4.4,mb,,,,0.99,us,usp0007uur,2014-11-07T01:01:48.877Z,"Bermuda region",earthquake,,,,4,reviewed,us,us
+1996-12-16T01:58:31.350Z,39.5,-87.4,5,3.1,mblg,,,,,us,usp0007uhc,2014-11-07T01:01:47.641Z,"Indiana",earthquake,,,,,reviewed,macr,us
+1996-11-29T10:47:10.280Z,36.255,-89.4501667,5.39,3.1,md,34,82,,0.15,nm,nm604230,2016-04-14T12:19:38.610Z,"3km ESE of Ridgely, Tennessee",earthquake,0.7,1.1,0.039,4,reviewed,nm,nm
+1996-11-29T05:41:33.630Z,35.9286667,-89.938,19.27,3.8,md,41,86,,0.08,nm,nm604229,2016-04-14T12:20:44.244Z,"1km W of Blytheville, Arkansas",earthquake,0.3,0.5,,,reviewed,nm,nm
+1996-08-21T07:54:14.090Z,44.184,-71.352,10,3.8,mblg,,,,1.1,us,usp0007nvk,2014-11-07T01:01:00.341Z,"New Hampshire",earthquake,,,,,reviewed,us,us
+1996-08-16T04:56:46.000Z,49.21,-82.92,18,3.5,mb,,,,,us,usp0007nmy,2014-11-07T01:00:59.256Z,"Ontario, Canada",earthquake,,,,7,reviewed,ott,us
+1996-08-11T18:17:49.880Z,33.577,-90.874,10,3.1,md,,,,,us,usp0007neq,2014-11-07T01:00:58.362Z,"Mississippi",earthquake,,,,,reviewed,teic,teic
+1996-03-25T14:15:50.550Z,32.131,-88.671,5,3.5,mblg,,,,1.1,us,usp0007f9k,2014-11-07T01:00:08.533Z,"Mississippi",earthquake,,,,,reviewed,us,us
+1996-03-22T20:22:12.580Z,41.69,-71.242,11.9,3.1,md,,,,,us,usp0007f54,2014-11-07T01:00:08.005Z,"southern New England",earthquake,,,,,reviewed,wes,wes
+1996-03-14T10:42:26.000Z,45.99,-74.43,18,4.5,mblg,,,,,us,usp0007erf,2017-04-13T22:08:32.915Z,"Ontario-Quebec border region, Canada",earthquake,,,,,reviewed,ott,ott
+1995-10-10T07:19:20.000Z,46.42,-78.77,18,3.5,mblg,,,,,us,usp00074wz,2014-11-07T00:58:56.201Z,"southern Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+1995-09-21T23:03:27.000Z,45.08,-74.21,18,3.1,mblg,,,,,us,usp00073rq,2014-11-07T00:58:45.909Z,"Ontario-Quebec border region, Canada",earthquake,,,,,reviewed,ott,ott
+1995-09-12T03:59:05.000Z,45.61,-74.43,18,3.7,mblg,,,,,us,usp0007391,2014-11-07T00:58:43.229Z,"Ontario-Quebec border region, Canada",earthquake,,,,,reviewed,ott,ott
+1995-08-20T16:15:26.000Z,45.41,-73.28,18,3.3,mblg,,,,,us,usp000725n,2014-11-07T00:58:34.039Z,"southern Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+1995-07-28T05:47:37.100Z,46.168,-74.953,20.7,3.3,mblg,,,,,us,usp000712b,2014-11-07T00:58:23.611Z,"southern Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+1995-07-07T21:01:02.890Z,36.515,-81.873,11.6,3.1,mblg,,,,,us,usp00070a6,2014-11-07T00:58:19.009Z,"eastern Tennessee",earthquake,,,,,reviewed,bla,bla
+1995-07-05T14:16:44.470Z,35.366,-84.212,10,3.7,mblg,,,,,us,usp000706b,2014-11-07T00:58:18.060Z,"eastern Tennessee",earthquake,,,,,reviewed,bla,gs$
+1995-07-02T03:35:10.440Z,31.011,-65.17,10,4.7,mb,,,,1.4,us,usp000700q,2014-11-07T00:58:16.128Z,"Bermuda region",earthquake,,,,27,reviewed,us,us
+1995-06-29T09:27:18.910Z,36.6181667,-89.7335,3.63,3.1,md,8,248,,0.09,nm,nm604118,2016-04-14T12:25:24.900Z,"10km WNW of Lilbourn, Missouri",earthquake,3,1.9,0.02,1,reviewed,nm,nm
+1995-06-26T00:36:17.060Z,36.747,-81.452,5,3.1,mb,,,,0.7,us,usp0006zq1,2014-11-07T00:58:11.731Z,"Virginia-North Carolina border region",earthquake,,,,1,reviewed,us,us
+1995-06-16T12:13:11.470Z,44.286,-71.915,5,3.8,mblg,,,,0.6,us,usp0006z6s,2014-11-07T00:58:09.358Z,"New Hampshire",earthquake,,,,,reviewed,us,ott
+1995-06-06T21:27:11.800Z,36.22,-89.47,5,3.1,md,,,,,us,usp0006yq4,2014-11-07T00:58:06.696Z,"Tennessee",earthquake,,,,,reviewed,slm,slm
+1995-06-03T22:44:32.000Z,47.02,-76.29,18,3.4,mb,,,,,us,usp0006yhy,2014-11-07T00:58:05.379Z,"southern Quebec, Canada",earthquake,,,,1,reviewed,ott,us
+1995-05-27T19:51:10.400Z,36.17,-89.43,6.4,3,md,,,,,us,usp0006y5r,2014-11-07T00:58:00.398Z,"Tennessee",earthquake,,,,,reviewed,slm,slm
+1995-05-25T14:22:32.690Z,42.995,-78.831,5,3,mblg,,,,0.9,us,usp0006y0t,2014-11-07T00:57:59.869Z,"New York",earthquake,,,,,reviewed,us,ott
+1995-05-06T07:51:35.000Z,47,-66.6,5,3.9,mb,,,,,us,usp0006wyz,2014-11-07T00:57:53.457Z,"New Brunswick, Canada",earthquake,,,,2,reviewed,ott,us
+1995-04-20T04:37:05.000Z,49.15,-67.73,15,3.3,mblg,,,,,us,usp0006vxk,2014-11-07T00:57:43.700Z,"St. Lawrence Valley region, Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+1995-04-17T13:45:57.800Z,32.947,-80.068,10,3.9,mblg,,,,0.3,us,usp0006vtr,2014-11-07T00:57:43.087Z,"South Carolina",earthquake,,,,,reviewed,us,gs$
+1995-03-18T22:06:21.000Z,35.425,-84.922,17,3.3,md,,,,,us,usp0006uck,2014-11-07T00:57:31.822Z,"eastern Tennessee",earthquake,,,,,reviewed,tva,tva
+1995-03-02T05:33:51.420Z,44.233,-74.426,4.2,3,md,,,,,us,usp0006tqg,2014-11-07T00:57:26.916Z,"New York",earthquake,,,,,reviewed,pal,pal
+1995-02-19T12:57:06.000Z,39.12,-83.47,10,3.6,md,,,,,us,usp0006t72,2014-11-07T00:57:21.075Z,"Ohio",earthquake,,,,,reviewed,slm,slm
+1995-02-15T15:53:57.000Z,45.9,-75.04,18,3.5,mblg,,,,,us,usp0006t0c,2014-11-07T00:57:20.254Z,"Ontario-Quebec border region, Canada",earthquake,,,,,reviewed,ott,ott
+1994-11-20T19:33:34.000Z,44.233,-70.6,5,3,md,,,,,us,usp0006nz6,2014-11-07T00:56:49.418Z,"Maine",earthquake,,,,,reviewed,wes,wes
+1994-11-06T12:50:38.950Z,35.949,-89.06,10.8,3.1,mlg,,,,,nm,nm604088,2016-04-14T19:16:50.770Z,"11km WSW of Trenton, Tennessee",earthquake,,,,,reviewed,nm,nm
+1994-10-02T14:36:36.730Z,42.36,-72.218,10,3.3,mblg,,,,0.5,us,usp0006kaq,2014-11-07T00:56:25.767Z,"southern New England",earthquake,,,,,reviewed,us,gs/
+1994-10-02T11:27:22.580Z,42.347,-72.277,10,3.7,mblg,,,,0.6,us,usp0006kak,2014-11-07T00:56:25.730Z,"southern New England",earthquake,,,,,reviewed,us,gs/
+1994-09-26T14:23:22.840Z,36.96,-88.92,12.7,3.4,mlg,,,,,nm,nm604084,2016-04-14T19:16:26.440Z,"12km NE of Bardwell, Kentucky",earthquake,,,,,reviewed,nm,nm
+1994-09-25T00:53:28.000Z,47.77,-69.96,17,4.1,mb,,,,,us,usp0006jyx,2014-11-07T00:56:19.739Z,"St. Lawrence Valley region, Quebec, Canada",earthquake,,,,1,reviewed,ott,us
+1994-09-16T07:44:06.860Z,45.3,-68.2,5,3.3,mblg,,,,,us,usp0006jhu,2014-11-07T00:56:17.920Z,"Maine",earthquake,,,,,reviewed,mac,ott
+1994-09-16T07:40:11.900Z,45.3,-68.2,5,3.3,mblg,,,,,us,usp0006jht,2014-11-07T00:56:17.919Z,"Maine",earthquake,,,,,reviewed,mac,gs$
+1994-09-16T07:01:54.780Z,45.3,-68.2,5,3.6,mblg,,,,,us,usp0006jhn,2014-11-07T00:56:17.909Z,"Maine",earthquake,,,,,reviewed,mac,gs/
+1994-09-16T04:22:42.510Z,45.306,-68.223,5,3.6,mblg,,,,0.4,us,usp0006jhg,2014-11-07T00:56:17.595Z,"Maine",earthquake,,,,,reviewed,us,ott
+1994-09-05T14:13:52.230Z,43.861,-69.232,5,3.1,mblg,,,,0.5,us,usp0006hzy,2014-11-07T00:56:13.790Z,"Gulf of Maine",earthquake,,,,,reviewed,us,ott
+1994-09-02T21:23:06.520Z,42.798,-84.604,5,3.5,mblg,,,,0.9,us,usp0006hvv,2014-11-07T00:56:12.852Z,"Michigan",earthquake,,,,,reviewed,us,ott
+1994-08-20T10:45:45.330Z,36.14,-91.063,9.9,3.5,md,,,,,nm,nm604083,2016-04-14T19:17:30.709Z,"12km NW of Walnut Ridge, Arkansas",earthquake,,,,,reviewed,nm,nm
+1994-08-19T16:03:30.650Z,35.508,-89.919,10.6,3.2,md,,,,,nm,nm604082,2016-04-14T19:16:14.280Z,"11km NW of Munford, Tennessee",earthquake,,,,,reviewed,nm,nm
+1994-08-06T19:54:09.900Z,35.067,-76.751,5,3.8,mblg,,,,0.8,us,usp0006gmq,2014-11-07T00:56:00.940Z,"North Carolina",earthquake,,,,,reviewed,us,bla
+1994-07-14T12:41:52.000Z,47,-66.6,5,3.8,mb,,,,,us,usp0006fnv,2014-11-07T00:55:52.057Z,"New Brunswick, Canada",earthquake,,,,1,reviewed,ott,us
+1994-06-30T01:08:24.220Z,27.911,-90.177,10,4.2,mb,,,,1,us,usp0006ezt,2014-11-07T00:55:45.258Z,"Gulf of Mexico",earthquake,,,,3,reviewed,us,us
+1994-06-10T23:34:02.920Z,33.013,-92.671,5,3.2,mblg,,,,0.9,us,usp0006e2p,2014-11-07T00:55:40.820Z,"Arkansas",earthquake,,,,,reviewed,us,gs$
+1994-05-04T09:12:05.960Z,34.299,-87.245,5,3,mlg,,,,,se,se604068,2016-04-14T19:23:07.690Z,"19km SW of Danville, Alabama",earthquake,,,,,reviewed,se,se
+1994-04-23T19:46:47.900Z,35.965,-90.05,5,3.2,mlg,,,,,nm,nm604067,2016-04-14T19:14:55.260Z,"7km W of Gosnell, Arkansas",earthquake,,,,,reviewed,nm,nm
+1994-04-06T17:38:56.170Z,38.156,-89.214,15.4,3.2,mlg,,,,,nm,nm604065,2016-04-14T19:14:43.110Z,"16km N of Du Quoin, Illinois",earthquake,,,,,reviewed,nm,nm
+1994-04-05T22:21:59.060Z,34.961,-85.493,5,3.2,mblg,,,,0.6,us,usp0006aq0,2014-11-07T00:55:16.235Z,"Alabama",earthquake,,,,,reviewed,us,gs$
+1994-03-28T16:28:23.000Z,48.99,-65.74,18,3.6,mblg,,,,,us,usp0006aak,2014-11-07T00:55:11.381Z,"Gaspe Peninsula, Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+1994-03-26T21:33:35.250Z,28.913,-66.146,10,4.7,mb,,,,1.3,us,usp0006a83,2014-11-07T00:55:11.161Z,"North Atlantic Ocean",earthquake,,,,8,reviewed,us,us
+1994-02-28T18:29:49.070Z,37.833,-89.374,5,3,mlg,,,,,nm,nm604060,2016-04-14T19:14:12.710Z,"8km NNW of Murphysboro, Illinois",earthquake,,,,,reviewed,nm,nm
+1994-02-12T02:40:24.500Z,36.8,-82,5,3.4,ml,,,,,us,usp00068dg,2014-11-07T00:54:58.249Z,"Virginia-North Carolina border region",earthquake,,,,,reviewed,pas,pas
+1994-02-05T14:55:37.790Z,37.368,-89.188,15.9,4.2,mlg,,,,,nm,nm604055,2016-04-14T19:19:04.662Z,"11km SSE of Anna, Illinois",earthquake,,,,,reviewed,nm,nm
+1994-01-16T01:49:16.210Z,40.33,-76.037,5,4.6,mb,,,,0.9,us,usp00066h6,2017-04-26T17:48:33.333Z,"Pennsylvania",earthquake,,,,12,reviewed,us,us
+1994-01-16T00:42:43.200Z,40.327,-76.007,5,4.2,mb,,,,0.8,us,usp00066h5,2014-11-07T00:54:47.091Z,"Pennsylvania",earthquake,,,,2,reviewed,us,us
+1993-12-30T23:01:47.500Z,47.453,-70.367,7,3.8,mblg,,,,,us,usp00065us,2014-11-07T00:54:39.283Z,"St. Lawrence Valley region, Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+1993-12-25T16:44:22.300Z,46.506,-75.606,18,4.3,mblg,,,,,us,usp00065mz,2014-11-07T00:54:38.309Z,"southern Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+1993-12-01T12:47:15.000Z,47.53,-70.06,8,3.5,mblg,,,,,us,usp00064h1,2014-11-07T00:54:30.854Z,"St. Lawrence Valley region, Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+1993-11-16T09:31:44.200Z,45.182,-73.495,17.1,3.8,mb,,,,,us,usp00063sg,2014-11-07T00:54:25.058Z,"southern Quebec, Canada",earthquake,,,,2,reviewed,ott,us
+1993-10-16T06:30:05.320Z,41.698,-81.012,5,3.6,mblg,,,,0.7,us,usp000622s,2014-11-07T00:54:12.887Z,"Ohio",earthquake,,,,,reviewed,us,ott
+1993-09-23T06:45:28.400Z,46.065,-74.605,18,3.8,mblg,,,,,us,usp00060wz,2014-11-07T00:54:02.229Z,"southern Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+1993-08-30T05:15:28.500Z,46.457,-75.05,15.9,3.7,mblg,,,,,us,usp0005zfc,2014-11-07T00:53:49.893Z,"southern Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+1993-08-27T00:08:33.350Z,38.091,-90.437,21.9,3.3,mlg,,,,,nm,nm604025,2016-04-14T19:10:45.980Z,"11km ESE of De Soto, Missouri",earthquake,,,,,reviewed,nm,nm
+1993-08-08T09:24:31.140Z,33.633,-81.595,5,3.2,mblg,,,,0.2,us,usp0005y3s,2014-11-07T00:53:41.005Z,"South Carolina",earthquake,,,,,reviewed,us,gs$
+1993-07-30T22:30:54.000Z,45.26,-74.12,8,3.9,mblg,,,,,us,usp0005xq1,2014-11-07T00:53:34.791Z,"Ontario-Quebec border region, Canada",earthquake,,,,,reviewed,ott,ott
+1993-07-16T10:54:32.860Z,31.747,-88.341,5,3.7,mblg,,,,0.9,us,usp0005wh3,2014-11-07T00:53:30.705Z,"Alabama",earthquake,,,,,reviewed,us,gs$
+1993-05-06T01:23:25.940Z,46.3,-75.5,18,3.5,mblg,,,,,us,usp0005s9g,2014-11-07T00:52:57.873Z,"southern Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+1993-04-28T22:40:01.960Z,36.196,-89.442,6.9,3.4,mlg,,,,,nm,nm604007,2016-04-14T19:09:02.650Z,"8km SSE of Ridgely, Tennessee",earthquake,,,,,reviewed,nm,nm
+1993-03-31T20:23:21.300Z,36.799,-89.423,3.9,3.1,mlg,,,,,nm,nm603994,2016-04-14T19:07:43.630Z,"3km WNW of East Prairie, Missouri",earthquake,,,,,reviewed,nm,nm
+1993-03-16T07:38:10.270Z,35.605,-90.478,11.9,3,mlg,,,,,nm,nm603990,2016-04-14T19:07:19.310Z,"8km SSE of Trumann, Arkansas",earthquake,,,,,reviewed,nm,nm
+1993-03-02T00:29:11.860Z,36.673,-89.494,8.7,3,mlg,,,,,nm,nm603984,2016-04-14T19:06:42.830Z,"10km NNE of New Madrid, Missouri",earthquake,,,,,reviewed,nm,nm
+1993-02-06T02:09:45.630Z,36.664,-89.733,7.7,3.3,mlg,,,,,nm,nm603979,2016-04-14T19:06:12.450Z,"13km NW of Lilbourn, Missouri",earthquake,,,,,reviewed,nm,nm
+1993-01-29T13:56:24.170Z,39.033,-89.03,5,3.2,mlg,,,,,nm,nm603978,2016-04-14T19:06:06.360Z,"9km NE of Vandalia, Illinois",earthquake,,,,,reviewed,nm,nm
+1993-01-21T19:46:20.070Z,36.229,-89.597,5.6,3,mlg,,,,,nm,nm603974,2016-04-14T19:05:42.040Z,"6km NE of Caruthersville, Missouri",earthquake,,,,,reviewed,nm,nm
+1993-01-15T02:02:51.830Z,35.075,-84.974,1.8,3.2,md,,,,,us,usp0005kst,2014-11-07T00:52:14.073Z,"eastern Tennessee",earthquake,,,,,reviewed,tei,tei
+1993-01-08T13:01:18.700Z,35.929,-90.036,22.4,3.5,mlg,,,,,nm,nm603965,2016-04-14T19:05:59.059Z,"6km WSW of Gosnell, Arkansas",earthquake,,,,,reviewed,nm,nm
+1993-01-01T05:08:05.340Z,35.877,-82.09,3.5,3,md,,,,,us,usp0005k61,2014-11-07T00:52:08.731Z,"North Carolina",earthquake,,,,,reviewed,tei,tei
+1992-12-27T10:12:58.760Z,37.501,-89.616,9.5,3.2,md,,,,,nm,nm603960,2016-04-14T19:04:23.030Z,"13km NNE of Jackson, Missouri",earthquake,,,,,reviewed,nm,nm
+1992-12-06T05:39:22.150Z,31.442,-66.108,10,3.9,mblg,,,,1.4,us,usp0005hvz,2014-11-07T00:52:00.536Z,"North Atlantic Ocean",earthquake,,,,,reviewed,us,gs$
+1992-11-17T03:58:00.900Z,45.764,-74.862,18,4,mb,,,,,us,usp0005gz1,2014-11-07T00:51:52.239Z,"Ontario-Quebec border region, Canada",earthquake,,,,2,reviewed,ott,us
+1992-10-06T15:38:04.000Z,43.324,-71.578,5,3.4,mblg,,,,,us,usp0005f0t,2014-11-07T00:51:38.288Z,"New Hampshire",earthquake,,,,,reviewed,wes,wes
+1992-09-27T17:02:34.310Z,28.172,-88.438,10,3.6,mb,,,,1,us,usp0005em2,2014-11-07T00:51:31.223Z,"Gulf of Mexico",earthquake,,,,1,reviewed,us,us
+1992-08-22T12:20:32.600Z,39.106,-70.319,10,4.8,mb,,,,0.8,us,usp0005cvz,2014-11-07T00:51:17.905Z,"off the east coast of the United States",earthquake,,,,41,reviewed,us,us
+1992-08-21T16:31:55.160Z,33.05,-80.116,10,4.1,mb,,,,0.7,us,usp0005cur,2014-11-07T00:51:17.792Z,"South Carolina",earthquake,,,,1,reviewed,us,us
+1992-06-03T04:40:02.800Z,46.257,-75.029,18,3.3,mblg,,,,,us,usp00058m5,2014-11-07T00:50:47.077Z,"southern Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+1992-05-19T05:59:41.000Z,46.444,-74.964,18,3.7,mb,,,,,us,usp00057pa,2014-11-07T00:50:39.548Z,"southern Quebec, Canada",earthquake,,,,1,reviewed,ott,us
+1992-05-19T05:58:59.600Z,46.444,-74.964,18,3.2,mblg,,,,,us,usp00057p9,2014-11-07T00:50:39.545Z,"southern Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+1992-05-01T00:37:51.400Z,47.446,-70.407,2.8,3.2,mblg,,,,,us,usp00056re,2014-11-07T00:50:32.163Z,"St. Lawrence Valley region, Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+1992-03-31T14:59:39.640Z,26.019,-85.731,5,3.8,mb,,,,1.1,us,usp000554h,2014-11-07T00:50:20.433Z,"Gulf of Mexico",earthquake,,,,4,reviewed,us,us
+1992-03-15T06:13:55.220Z,41.911,-81.245,5,3.5,mblg,,,,0.9,us,usp000549g,2014-11-07T00:50:16.017Z,"Lake Erie, Ohio",earthquake,,,,,reviewed,us,gs$
+1992-02-22T04:21:34.650Z,26.356,-78.888,10,3.2,mb,,,,1.1,us,usp00053cp,2014-11-07T00:50:07.592Z,"Bahama Islands",earthquake,,,,1,reviewed,us,us
+1992-01-21T11:36:21.000Z,38,-92.67,5,3.1,md,,,,,us,usp000521b,2014-11-07T00:49:55.836Z,"Missouri",earthquake,,,,,reviewed,slm,slm
+1992-01-09T08:50:45.220Z,40.363,-74.341,7.9,3.1,md,,,,,us,usp00051k3,2014-11-07T00:49:53.969Z,"New Jersey",earthquake,,,,,reviewed,pal,pal
+1992-01-03T04:21:22.230Z,33.946,-82.465,5,3.2,md,,,,0.7,us,usp00051ah,2014-11-07T00:49:52.487Z,"Georgia, USA",earthquake,,,,,reviewed,us,gs$
+1991-12-08T03:00:30.000Z,47.7,-69.8,18,3.6,mb,,,,,us,usp000505v,2014-11-07T00:49:42.904Z,"St. Lawrence Valley region, Quebec, Canada",earthquake,,,,2,reviewed,ott,us
+1991-11-11T09:20:44.000Z,38.905,-87.71,0,3.8,md,,,,,nm,nm603911,2016-04-14T18:59:31.160Z,"11km SSE of Robinson, Illinois",earthquake,,,,,reviewed,nm,nm
+1991-10-28T20:58:26.100Z,41.07,-73.578,10,3,mblg,,,,,us,usp0004yhu,2014-11-07T00:49:28.144Z,"New York",earthquake,,,,,reviewed,wes,wes
+1991-09-24T07:21:06.470Z,35.711,-84.095,5,3.3,md,,,,1,us,usp0004wzj,2014-11-07T00:49:17.074Z,"eastern Tennessee",earthquake,,,,,reviewed,us,tei
+1991-07-07T21:24:03.600Z,36.685,-91.567,7.8,3.9,md,,,,,nm,nm603887,2016-04-14T18:58:26.813Z,"15km W of Alton, Missouri",earthquake,,,,,reviewed,nm,nm
+1991-07-05T01:47:36.700Z,45.232,-73.896,18,3.8,mblg,,,,,us,usp0004tt6,2014-11-07T00:48:52.203Z,"southern Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+1991-06-28T18:34:51.920Z,38.276,-81.668,5,3.2,mblg,,,,0.9,us,usp0004thc,2014-11-07T00:48:47.706Z,"West Virginia",earthquake,,,,,reviewed,us,bla
+1991-06-17T08:53:16.740Z,42.63,-74.678,5,4,mb,,,,0.6,us,usp0004t2k,2014-11-07T00:48:45.613Z,"New York",earthquake,,,,1,reviewed,us,us
+1991-06-16T16:46:53.000Z,47,-76.7,18,4.5,mb,,,,,us,usp0004t1g,2014-11-07T00:48:45.458Z,"southern Quebec, Canada",earthquake,,,,2,reviewed,ott,us
+1991-05-17T18:08:47.000Z,45.5,-74.4,18,4.4,mb,,,,,us,usp0004rs1,2014-11-07T00:48:35.717Z,"Ontario-Quebec border region, Canada",earthquake,,,,1,reviewed,ott,us
+1991-05-04T01:18:54.600Z,36.575,-89.825,11.2,4.5,md,,,,,nm,nm603867,2017-04-13T22:03:31.588Z,"12km E of Malden, Missouri",earthquake,,,,,reviewed,nm,nm
+1991-04-23T03:19:19.000Z,47,-66.6,5,3.3,mb,,,,,us,usp0004qq0,2014-11-07T00:48:26.319Z,"New Brunswick, Canada",earthquake,,,,1,reviewed,ott,us
+1991-04-22T01:01:20.270Z,37.941,-80.207,14.7,3.5,mblg,,,,,us,usp0004qn8,2014-11-07T00:48:26.067Z,"West Virginia",earthquake,,,,,reviewed,bla,bla
+1991-03-21T04:10:59.390Z,49.698,-66.594,18,4,mb,,,,,us,usp0004pay,2014-11-07T00:48:13.311Z,"Gaspe Peninsula, Quebec, Canada",earthquake,,,,1,reviewed,ott,us
+1991-03-20T21:01:27.000Z,49.712,-66.483,18,3.7,mblg,,,,,us,usp0004pan,2014-11-07T00:48:13.278Z,"Gaspe Peninsula, Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+1991-03-15T06:54:08.290Z,37.746,-77.916,17.5,3.8,mblg,,,,,us,usp0004p2n,2014-11-07T00:48:12.160Z,"Virginia",earthquake,,,,,reviewed,bla,bla
+1991-03-06T05:26:53.600Z,46.282,-76.874,18,3.9,mblg,,,,,us,usp0004nr5,2014-11-07T00:48:10.141Z,"southern Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+1991-02-11T00:00:12.700Z,35.95,-89.93,13.8,3,md,,,,,nm,nm603851,2016-04-14T18:53:32.390Z,"2km NNW of Blytheville, Arkansas",earthquake,,,,,reviewed,nm,nm
+1991-01-26T03:21:22.610Z,41.536,-81.453,5,3.4,mblg,,,,0.7,us,usp0004m5g,2014-11-07T00:47:52.894Z,"Cleveland urban area, Ohio",earthquake,,,,,reviewed,us,tul
+1991-01-23T09:25:23.200Z,37.94,-88.873,0.8,3.1,md,,,,,nm,nm603847,2016-04-14T18:53:08.050Z,"6km NE of West Frankfort, Illinois",earthquake,,,,,reviewed,nm,nm
+1990-12-31T03:53:58.390Z,47.579,-72.556,18,4.2,mb,,,,,us,usp0004k0h,2014-11-07T00:47:40.765Z,"southern Quebec, Canada",earthquake,,,,3,reviewed,ott,us
+1990-12-20T14:04:17.400Z,39.59,-86.63,5,3.7,md,,,,,nm,nm603835,2016-04-14T18:53:08.867Z,"12km W of Monrovia, Indiana",earthquake,,,,,reviewed,nm,nm
+1990-12-17T05:24:59.100Z,40.068,-87.044,10,3.2,md,,,,0.9,us,usp0004j87,2014-11-07T00:47:37.577Z,"Indiana",earthquake,,,,,reviewed,us,slm
+1990-12-12T05:15:07.100Z,47,-66.6,5,3.5,mblg,,,,,us,usp0004j0k,2014-11-07T00:47:36.317Z,"New Brunswick, Canada",earthquake,,,,,reviewed,ott,ott
+1990-11-15T13:47:15.700Z,47.128,-76.219,18,4.1,mblg,,,,,us,usp0004gze,2014-11-07T00:47:26.975Z,"southern Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+1990-11-15T11:45:35.060Z,35.603,-93.042,28.5,3.5,md,,,,,nm,nm603808,2016-04-14T18:50:28.899Z,"23km NNE of Dover, Arkansas",earthquake,,,,,reviewed,nm,nm
+1990-11-13T15:22:13.010Z,32.947,-80.136,3.4,3.2,md,,,,,us,usp0004gw2,2014-11-07T00:47:26.591Z,"South Carolina",earthquake,,,,,reviewed,us,us
+1990-11-09T03:39:15.920Z,36.537,-89.632,9.9,3.2,md,,,,,nm,nm603801,2016-04-14T18:48:34.490Z,"6km SSW of Lilbourn, Missouri",earthquake,,,,,reviewed,nm,nm
+1990-10-24T08:20:03.670Z,38.346,-88.971,1,3.2,md,,,,,nm,nm603793,2016-04-14T18:47:45.840Z,"6km WNW of Mount Vernon, Illinois",earthquake,,,,,reviewed,nm,nm
+1990-10-23T01:34:48.270Z,39.512,-75.506,10,3.2,md,,,,0.3,us,usp0004g29,2014-11-07T00:47:17.948Z,"New Jersey",earthquake,,,,,reviewed,us,ned
+1990-10-19T07:01:57.400Z,46.47,-75.59,13,4.6,mb,,,,,us,usp0004fxg,2014-11-07T00:47:17.534Z,"southern Quebec, Canada",earthquake,,,,24,reviewed,ott,us
+1990-10-07T08:47:30.500Z,46.32,-75.19,17.5,3.9,mblg,,,,,us,usp0004ff9,2014-11-07T00:47:15.520Z,"southern Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+1990-09-26T13:18:51.710Z,37.152,-89.613,1,4.8,md,,,,,nm,nm603773,2016-04-14T18:51:11.334Z,"4km SE of Chaffee, Missouri",earthquake,,,,,reviewed,nm,nm
+1990-09-08T00:03:57.400Z,38.061,-83.731,5,3.3,mblg,,,,0.5,us,usp0004eed,2014-11-07T00:47:05.617Z,"eastern Kentucky",earthquake,,,,,reviewed,us,bla
+1990-08-29T19:34:59.250Z,35.785,-89.644,14.5,3.4,md,,,,,nm,nm603752,2016-04-14T18:43:36.540Z,"9km WSW of Central, Tennessee",earthquake,,,,,reviewed,nm,nm
+1990-08-17T21:01:17.900Z,36.794,-83.34,10,4,mblg,,,,0.6,us,usp0004djc,2014-11-07T00:46:57.599Z,"eastern Kentucky",earthquake,,,,,reviewed,us,bla
+1990-08-07T05:05:56.220Z,36.857,-89.237,6.5,3.1,md,,,,,nm,nm603732,2016-04-14T18:41:34.940Z,"12km SE of Charleston, Missouri",earthquake,,,,,reviewed,nm,nm
+1990-06-23T20:44:02.740Z,33.762,-87.969,0.5,3.2,md,,,,,se,se603707,2016-04-14T19:22:43.380Z,"12km E of Vernon, Alabama",earthquake,,,,,reviewed,se,se
+1990-05-05T20:48:56.180Z,36.035,-71.674,10,3.7,mb,,,,0.7,us,usp00048x5,2014-11-07T00:46:18.601Z,"off the east coast of the United States",earthquake,,,,1,reviewed,us,us
+1990-04-17T10:27:34.780Z,40.46,-84.852,5,3,mblg,,,,0.5,us,usp0004818,2014-11-07T00:46:09.932Z,"Indiana",earthquake,,,,,reviewed,us,us
+1990-03-30T01:54:09.000Z,47.28,-68.23,18,3.5,mblg,,,,,us,usp000477t,2014-11-07T00:46:01.033Z,"Quebec-New Brunswick border region, Canada",earthquake,,,,,reviewed,ott,ott
+1990-03-18T16:22:33.190Z,36.692,-91.505,0.9,3,md,,,,,nm,nm603659,2016-04-14T18:34:41.570Z,"9km W of Alton, Missouri",earthquake,,,,,reviewed,nm,nm
+1990-03-02T07:01:48.070Z,38.851,-89.17,0.1,3.4,md,,,,,nm,nm603638,2016-04-14T18:32:52.080Z,"13km SSW of Vandalia, Illinois",earthquake,,,,,reviewed,nm,nm
+1990-01-27T14:05:51.670Z,38.184,-86.43,5.3,3.8,md,,,,,nm,nm603593,2016-04-14T18:30:15.907Z,"16km S of English, Indiana",earthquake,,,,,reviewed,nm,nm
+1990-01-24T18:20:26.200Z,38.14,-86.49,10,3.9,md,,,,,nm,nm603586,2016-04-14T18:29:31.982Z,"21km S of English, Indiana",earthquake,,,,,reviewed,nm,nm
+1989-11-16T09:24:52.000Z,46.57,-76.59,18,4,mblg,,,,,us,usp0004235,2014-11-07T00:45:12.604Z,"southern Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+1989-09-14T17:31:27.900Z,36.558,-89.63,12.2,3.2,md,,,,,nm,nm603515,2016-04-14T18:20:22.420Z,"4km SSW of Lilbourn, Missouri",earthquake,,,,,reviewed,nm,nm
+1989-08-24T15:56:59.330Z,41.614,-70.899,5,3,md,,,,0.8,us,usp0003yv1,2014-11-07T00:44:44.840Z,"southern New England",earthquake,,,,,reviewed,us,wes
+1989-08-20T00:03:17.850Z,34.736,-87.645,10,3.4,mb,,,,1,us,usp0003yn0,2014-11-07T00:44:43.622Z,"Alabama",earthquake,,,,1,reviewed,us,us
+1989-08-10T21:17:43.500Z,46.65,-65.82,18,3.5,mblg,,,,,us,usp0003ybc,2014-11-07T00:44:41.470Z,"New Brunswick, Canada",earthquake,,,,,reviewed,ott,ott
+1989-08-05T21:07:59.100Z,43.21,-79.53,18,3.3,mblg,,,,,us,usp0003y41,2014-11-07T00:44:40.254Z,"southern Ontario, Canada",earthquake,,,,,reviewed,ott,ott
+1989-07-15T00:08:02.640Z,38.607,-83.569,10,3.1,mblg,,,,0.7,us,usp0003xb0,2014-11-07T00:44:33.189Z,"eastern Kentucky",earthquake,,,,,reviewed,us,bla
+1989-04-27T16:47:51.330Z,36.088,-89.775,11.7,4.3,md,,,,,nm,nm603471,2017-04-13T22:00:56.207Z,"4km E of Steele, Missouri",earthquake,,,,,reviewed,nm,nm
+1989-04-10T18:12:16.000Z,37.136,-82.068,0,4.3,mb,,,,,us,usp0003tu6,2014-11-07T00:43:59.409Z,"West Virginia",earthquake,,,,1,reviewed,bla,us
+1989-04-06T02:35:51.310Z,44.511,-71.144,5,3.5,mblg,,,,0.6,us,usp0003tn5,2014-11-07T00:43:56.553Z,"New Hampshire",earthquake,,,,,reviewed,us,wes
+1989-03-11T08:31:52.100Z,47.7,-69.9,18,4.4,mblg,,,,,us,usp0003suj,2014-11-07T00:43:48.577Z,"St. Lawrence Valley region, Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+1989-03-09T09:41:32.400Z,47.7,-69.89,18,3.9,mb,,,,,us,usp0003ssa,2014-11-07T00:43:48.141Z,"St. Lawrence Valley region, Quebec, Canada",earthquake,,,,1,reviewed,ott,us
+1989-01-19T21:36:38.400Z,48.071,-70.96,30,3.9,mblg,,,,,us,usp0003r0n,2014-11-07T00:43:27.960Z,"Saguenay Valley region, Quebec, Canada",earthquake,,,,,reviewed,ott,us
+1989-01-01T17:55:53.600Z,49.264,-67.357,18,4,mblg,,,,,us,usp0003qdq,2014-11-07T00:43:22.251Z,"St. Lawrence Valley region, Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+1988-12-31T14:24:20.680Z,36.193,-89.43,6,3,md,,,,,nm,nm603433,2016-04-14T18:12:09.990Z,"9km SSE of Ridgely, Tennessee",earthquake,,,,,reviewed,nm,nm
+1988-12-28T06:28:44.420Z,44.514,-69.342,10,3.5,mblg,,,,0.4,us,usp0003q8z,2014-11-07T00:43:19.466Z,"Maine",earthquake,,,,,reviewed,us,us
+1988-12-25T15:57:57.830Z,34.206,-92.658,12.1,3.4,md,,,,,nm,nm603430,2016-04-14T18:11:51.770Z,"22km SE of Malvern, Arkansas",earthquake,,,,,reviewed,nm,nm
+1988-11-26T03:38:08.200Z,48.145,-71.307,26,4.1,mblg,,,,,us,usp0003p6y,2014-11-07T00:43:09.708Z,"Saguenay Valley region, Quebec, Canada",earthquake,,,,,reviewed,ott,us
+1988-11-25T23:46:04.500Z,48.117,-71.183,28.9,5.9,mw,,,,,us,usp0003p6p,2017-04-26T17:42:29.344Z,"Saguenay Valley region, Quebec, Canada",earthquake,,,,,reviewed,ott,hrv
+1988-11-23T09:11:27.300Z,48.134,-71.203,28.4,4.3,mb,,,,,us,usp0003p46,2014-11-07T00:43:08.583Z,"Saguenay Valley region, Quebec, Canada",earthquake,,,,6,reviewed,ott,us
+1988-11-22T04:40:50.520Z,44.557,-71.183,6.4,3.2,mblg,,,,,us,usp0003p2q,2014-11-07T00:43:08.447Z,"New Hampshire",earthquake,,,,,reviewed,wes,wes
+1988-11-14T06:15:43.160Z,44.424,-70.386,5,3.8,mb,,,,0.4,us,usp0003nur,2014-11-07T00:43:06.258Z,"Maine",earthquake,,,,1,reviewed,us,us
+1988-10-20T13:09:50.110Z,44.539,-71.158,5,3.9,mblg,,,,0.6,us,usp0003n06,2014-11-07T00:42:58.775Z,"New Hampshire",earthquake,,,,,reviewed,us,us
+1988-10-05T00:38:55.000Z,38.66,-88.02,5,3.3,md,,,,,nm,nm603393,2016-04-14T18:08:12.940Z,"9km SE of Olney, Illinois",earthquake,,,,,reviewed,nm,nm
+1988-09-07T02:28:09.540Z,38.143,-83.878,10,4.5,mb,,,,0.8,us,usp0003krm,2017-04-13T22:00:27.149Z,"8km E of Mount Sterling, Kentucky",earthquake,,,,5,reviewed,us,us
+1988-08-26T05:59:10.200Z,46.99,-66.59,5,3.9,mblg,,,,,us,usp0003kdc,2014-11-07T00:42:42.381Z,"New Brunswick, Canada",earthquake,,,,,reviewed,ott,oth
+1988-08-09T13:57:26.980Z,44.995,-74.955,10,3.5,mblg,,,,0.7,us,usp0003jta,2014-11-07T00:42:39.145Z,"New York",earthquake,,,,,reviewed,us,oth
+1988-06-25T15:02:49.700Z,36.72,-89.5,11.9,3.1,md,,,,,nm,nm603354,2016-04-14T18:04:27.990Z,"12km WSW of East Prairie, Missouri",earthquake,,,,,reviewed,nm,nm
+1988-05-20T23:06:23.900Z,37.31,-92.67,5,3.4,md,,,,,nm,nm603340,2016-04-14T18:03:02.870Z,"15km WNW of Hartville, Missouri",earthquake,,,,,reviewed,nm,nm
+1988-05-15T06:10:05.600Z,45.17,-75.58,7,3.5,mblg,,,,,us,usp0003fz2,2014-11-07T00:42:09.152Z,"Ontario-Quebec border region, Canada",earthquake,,,,,reviewed,ott,ott
+1988-05-09T01:23:03.600Z,47,-66.6,5,3.4,mblg,,,,,us,usp0003ft1,2014-11-07T00:42:07.052Z,"New Brunswick, Canada",earthquake,,,,,reviewed,ott,ott
+1988-04-14T23:37:31.100Z,37.238,-81.987,0,4.1,mb,,,,,us,usp0003f1n,2014-11-07T00:41:57.585Z,"West Virginia",earthquake,,,,1,reviewed,bla,us
+1988-03-10T21:24:09.500Z,37.75,-88.83,4.4,3,md,,,,,nm,nm603301,2016-04-14T17:59:05.660Z,"9km ENE of Marion, Illinois",earthquake,,,,,reviewed,nm,nm
+1988-03-10T14:42:55.200Z,46.341,-75.716,18,3.9,mblg,,,,,us,usp0003dtw,2014-11-07T00:41:47.531Z,"southern Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+1988-03-06T18:13:18.100Z,47,-66.6,5,3.3,mblg,,,,,us,usp0003dn6,2014-11-07T00:41:45.695Z,"New Brunswick, Canada",earthquake,,,,,reviewed,ott,ott
+1988-02-27T15:17:06.500Z,36.68,-89.52,15,3.2,md,,,,,nm,nm603298,2016-04-14T17:58:47.410Z,"10km N of New Madrid, Missouri",earthquake,,,,,reviewed,nm,nm
+1988-02-18T00:37:45.970Z,35.366,-83.853,5,3.5,mblg,,,,0.5,us,usp0003d47,2014-11-07T00:41:40.162Z,"Tennessee-North Carolina border region",earthquake,,,,,reviewed,us,bla
+1988-02-16T15:26:54.530Z,36.561,-82.304,5,3.3,mblg,,,,0.6,us,usp0003d2x,2014-11-07T00:41:39.980Z,"eastern Tennessee",earthquake,,,,,reviewed,us,bla
+1988-01-31T00:12:44.360Z,35.664,-90.44,15.4,3.3,md,,,,,nm,nm603290,2016-04-14T17:57:58.780Z,"6km E of Trumann, Arkansas",earthquake,,,,,reviewed,nm,nm
+1988-01-28T08:38:28.000Z,48,-65.58,18,4.9,mblg,,,,,us,usp0003cgu,2014-11-07T00:41:33.250Z,"Gaspe Peninsula, Quebec, Canada",earthquake,,,,,reviewed,ott,us
+1988-01-23T01:57:16.390Z,32.935,-80.157,7.4,3.3,md,,,,,us,usp0003caa,2014-11-07T00:41:32.097Z,"South Carolina",earthquake,,,,,reviewed,us,us
+1988-01-14T17:23:36.560Z,46.559,-89.621,5,3.6,mblg,,,,1.1,us,usp0003c29,2014-11-07T00:41:30.965Z,"Michigan",earthquake,,,,,reviewed,us,us
+1988-01-09T01:07:40.780Z,35.275,-84.201,12.3,3.3,md,,,,,us,usp0003bx4,2014-11-07T00:41:29.956Z,"eastern Tennessee",earthquake,,,,,reviewed,tei,tei
+1988-01-05T14:39:18.200Z,38.72,-87.96,5.4,3.3,md,,,,,nm,nm603283,2016-04-14T17:57:16.220Z,"8km W of Sumner, Illinois",earthquake,,,,,reviewed,nm,nm
+1987-12-12T03:53:28.790Z,34.244,-82.628,5,3,mblg,,,,0.5,us,usp0003b77,2014-11-07T00:41:22.899Z,"South Carolina",earthquake,,,,,reviewed,us,us
+1987-11-17T15:52:21.100Z,38.72,-87.96,4.7,3.2,md,,,,,nm,nm603249,2016-04-14T17:53:55.440Z,"8km W of Sumner, Illinois",earthquake,,,,,reviewed,nm,nm
+1987-10-14T15:49:40.100Z,37.05,-88.78,2,3.8,md,,,,,nm,nm603244,2016-04-14T17:55:06.676Z,"5km NW of Massac, Kentucky",earthquake,,,,,reviewed,nm,nm
+1987-09-29T00:04:56.130Z,36.953,-89.159,11.2,4.3,md,,,,,nm,nm603237,2017-04-13T21:59:40.234Z,"6km SSE of Cairo, Illinois",earthquake,,,,,reviewed,nm,nm
+1987-09-26T17:44:06.970Z,44.375,-74.517,10,3.8,mblg,,,,0.9,us,usp00038r8,2014-11-07T00:40:58.242Z,"New York",earthquake,,,,,reviewed,us,ott
+1987-09-22T17:23:50.100Z,35.623,-84.311,19,3.3,mblg,,,,,us,usp00038mc,2014-11-07T00:40:57.709Z,"eastern Tennessee",earthquake,,,,,reviewed,tei,us
+1987-08-31T17:12:35.200Z,38.3,-89.68,0.4,3.3,md,,,,,nm,nm603217,2016-04-14T17:50:40.850Z,"8km NE of Marissa, Illinois",earthquake,,,,,reviewed,nm,nm
+1987-07-23T09:32:28.500Z,43.491,-79.472,6.8,3.4,mblg,,,,,us,usp00036wa,2014-11-07T00:40:41.867Z,"southern Ontario, Canada",earthquake,,,,,reviewed,ott,ott
+1987-07-13T07:52:12.000Z,41.9,-80.8,5,3,mblg,,,,,us,usp00036mh,2014-11-07T00:40:40.774Z,"Ohio",earthquake,,,,,reviewed,spe,us
+1987-07-13T05:49:17.430Z,41.896,-80.767,5,3.5,mb,,,,0.6,us,usp00036mg,2014-11-07T00:40:40.771Z,"Ohio",earthquake,,,,3,reviewed,us,us
+1987-07-11T02:48:05.980Z,36.1,-83.82,24.2,3.3,md,,,,,us,usp00036ja,2014-11-07T00:40:40.442Z,"eastern Tennessee",earthquake,,,,,reviewed,tei,tei
+1987-07-11T00:04:29.460Z,36.103,-83.817,25.6,3.6,md,,,,,us,usp00036j4,2014-11-07T00:40:40.413Z,"eastern Tennessee",earthquake,,,,,reviewed,tei,tei
+1987-07-07T19:19:06.300Z,36.941,-89.148,16.6,3.3,md,,,,,nm,nm603183,2016-04-14T17:47:14.090Z,"5km WSW of Wickliffe, Kentucky",earthquake,,,,,reviewed,nm,nm
+1987-06-26T18:39:20.380Z,36.534,-89.674,13.1,3,md,,,,,nm,nm603171,2016-04-14T17:46:01.160Z,"8km SW of Lilbourn, Missouri",earthquake,,,,,reviewed,nm,nm
+1987-06-19T03:46:38.290Z,36.466,-89.587,18.6,3,md,,,,,nm,nm603160,2016-04-14T17:44:54.250Z,"11km ENE of Portageville, Missouri",earthquake,,,,,reviewed,nm,nm
+1987-06-13T21:17:13.500Z,36.576,-89.735,9.5,4.1,md,,,,,nm,nm603134,2016-04-14T17:50:45.098Z,"10km W of Lilbourn, Missouri",earthquake,,,,,reviewed,nm,nm
+1987-06-10T23:48:53.900Z,38.71,-87.95,4.6,5.2,md,,,,,nm,nm603116,2017-04-13T21:59:28.274Z,"7km W of Sumner, Illinois",earthquake,,,,,reviewed,nm,nm
+1987-05-30T11:29:18.300Z,46.54,-80.99,1,3.5,mblg,,,,,us,usp00035ct,2014-11-07T00:40:27.233Z,"Ontario, Canada",earthquake,,,,,reviewed,ott,ott
+1987-05-23T19:08:23.820Z,36.614,-89.62,11.1,3.3,md,,,,,nm,nm603103,2016-04-14T17:39:13.510Z,"2km N of Lilbourn, Missouri",earthquake,,,,,reviewed,nm,nm
+1987-04-26T00:56:21.500Z,38.54,-89.41,5.4,3.1,md,,,,,nm,nm603089,2016-04-14T17:37:48.420Z,"7km SSE of Beckemeyer, Illinois",earthquake,,,,,reviewed,nm,nm
+1987-03-27T07:29:30.000Z,35.57,-84.21,19.5,4.2,md,,,,,se,se603077,2017-04-13T21:59:15.018Z,"3km SE of Vonore, Tennessee",earthquake,,,,,reviewed,se,se
+1987-03-13T18:37:07.000Z,39.09,-89.41,1.1,3.2,md,,,,,nm,nm603066,2016-04-14T17:35:40.790Z,"10km SE of Hillsboro, Illinois",earthquake,,,,,reviewed,nm,nm
+1987-02-08T18:25:34.890Z,29.737,-67.507,10,4.7,mb,,,,0.9,us,usp000329g,2014-11-07T00:39:48.674Z,"North Atlantic Ocean",earthquake,,,,13,reviewed,us,us
+1986-12-30T07:15:19.090Z,36.418,-89.629,12.9,3.2,md,,,,,nm,nm602995,2016-04-14T17:28:47.470Z,"6km E of Portageville, Missouri",earthquake,,,,,reviewed,nm,nm
+1986-11-07T13:53:18.500Z,34.671,-70.896,10,4,mblg,,,,0.6,us,usp0002zs8,2014-11-07T00:39:19.727Z,"off the east coast of the United States",earthquake,,,,,reviewed,us,us
+1986-10-29T05:03:41.300Z,38.44,-89.04,5,3,md,,,,,nm,nm602957,2016-04-14T17:25:08.610Z,"11km SE of Wamac, Illinois",earthquake,,,,,reviewed,nm,nm
+1986-10-25T17:16:38.440Z,43.399,-71.59,5,3.9,mblg,,,,0.6,us,usp0002zbg,2014-11-07T00:39:11.619Z,"New Hampshire",earthquake,,,,,reviewed,us,us
+1986-10-17T14:47:59.000Z,47,-66.6,5,4.1,mblg,,,,,us,usp0002z0z,2014-11-07T00:39:09.627Z,"New Brunswick, Canada",earthquake,,,,,reviewed,ott,ott
+1986-09-19T15:53:01.000Z,47.3,-70.32,22,4.2,mblg,,,,,us,usp0002y7n,2014-11-07T00:39:02.019Z,"St. Lawrence Valley region, Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+1986-08-26T16:41:24.800Z,38.32,-89.79,5,3.6,md,,,,,nm,nm602907,2016-04-14T17:21:17.821Z,"7km E of New Athens, Illinois",earthquake,,,,,reviewed,nm,nm
+1986-08-13T04:55:18.400Z,45.131,-74.246,24,3.4,md,,,,,us,usp0002x3n,2014-11-07T00:38:51.300Z,"Ontario-Quebec border region, Canada",earthquake,,,,,reviewed,pal,pal
+1986-08-06T11:19:36.000Z,46.37,-75.22,18,3.5,mblg,,,,,us,usp0002wx7,2014-11-07T00:38:49.473Z,"southern Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+1986-07-12T08:19:37.950Z,40.537,-84.371,10,4.5,mb,,,,0.8,us,usp0002vyk,2017-04-26T17:39:59.766Z,"Ohio",earthquake,,,,12,reviewed,us,us
+1986-07-11T14:26:18.500Z,35.11,-84.98,5,3.3,md,,,,,se,se602863,2016-04-14T19:20:29.660Z,"8km NE of Collegedale, Tennessee",earthquake,,,,,reviewed,se,se
+1986-06-05T12:13:22.000Z,46.34,-75.09,8,3.3,mblg,,,,,us,usp0002uth,2014-11-07T00:38:31.328Z,"southern Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+1986-06-01T14:53:14.000Z,47,-66.6,5,3.4,mblg,,,,,us,usp0002unx,2014-11-07T00:38:28.799Z,"New Brunswick, Canada",earthquake,,,,,reviewed,ott,ott
+1986-05-24T12:48:14.430Z,36.484,-89.917,12.9,3.1,md,,,,,nm,nm602816,2016-04-14T17:11:09.570Z,"3km N of Gideon, Missouri",earthquake,,,,,reviewed,nm,nm
+1986-05-24T08:16:01.500Z,35.118,-92.217,3.5,3.1,md,,,,,nm,nm602815,2016-04-14T17:11:03.490Z,"3km NNW of Vilonia, Arkansas",earthquake,,,,,reviewed,nm,nm
+1986-05-12T04:18:02.470Z,27.7,-88.727,10,3.6,mb,,,,0.6,us,usp0002tx3,2014-11-07T00:38:23.173Z,"Gulf of Mexico",earthquake,,,,2,reviewed,us,us
+1986-05-09T09:04:33.000Z,46.54,-66.14,18,3.3,mblg,,,,,us,usp0002ttc,2014-11-07T00:38:22.568Z,"New Brunswick, Canada",earthquake,,,,,reviewed,ott,ott
+1986-03-06T08:34:51.000Z,47,-66.6,5,3.5,mblg,,,,,us,usp0002rk9,2014-11-07T00:38:01.418Z,"New Brunswick, Canada",earthquake,,,,,reviewed,ott,ott
+1986-02-13T11:35:47.000Z,34.81,-82.94,3.7,3,md,,,,,se,se602753,2016-04-14T19:20:23.580Z,"12km ENE of Walhalla, South Carolina",earthquake,,,,,reviewed,se,se
+1986-01-31T16:46:43.330Z,41.65,-81.162,10,5,mw,,,,,us,usp0002qkz,2017-04-26T17:39:38.454Z,"Ohio",earthquake,,,,,reviewed,spe,hrv
+1986-01-11T13:30:28.000Z,47.7,-70.18,18,4,mblg,,,,,us,usp0002pz1,2014-11-07T00:37:46.931Z,"St. Lawrence Valley region, Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+1986-01-10T09:59:48.000Z,45.8,-77.32,18,3.3,mblg,,,,,us,usp0002pxr,2014-11-07T00:37:46.319Z,"southern Ontario, Canada",earthquake,,,,,reviewed,ott,ott
+1986-01-07T01:26:43.680Z,35.606,-84.759,20.6,3.2,md,,,,,us,usp0002pua,2014-11-07T00:37:45.459Z,"eastern Tennessee",earthquake,,,,,reviewed,tei,tei
+1985-12-29T08:56:58.300Z,38.49,-89.02,1,3.2,md,,,,,nm,nm602710,2016-04-14T17:00:49.410Z,"10km ESE of Centralia, Illinois",earthquake,,,,,reviewed,nm,nm
+1985-12-05T22:59:41.110Z,35.896,-89.995,6.1,3.5,md,,,,,nm,nm602687,2016-04-14T16:59:41.449Z,"7km WSW of Blytheville, Arkansas",earthquake,,,,,reviewed,nm,nm
+1985-11-08T19:56:48.520Z,35.223,-92.188,3.6,3.1,md,,,,,nm,nm602661,2016-04-14T16:55:51.480Z,"15km N of Vilonia, Arkansas",earthquake,,,,,reviewed,nm,nm
+1985-11-01T23:33:39.000Z,45.29,-73.45,5,3.3,mblg,,,,,us,usp0002mcq,2014-11-07T00:37:25.002Z,"southern Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+1985-10-19T10:07:40.300Z,40.98,-73.83,6,3.6,mb,,,,,us,usp0002kxt,2014-11-07T00:37:20.112Z,"New York",earthquake,,,,1,reviewed,pal,us
+1985-10-15T20:00:39.300Z,42.493,-71.502,2,3,md,,,,,us,usp0002kts,2014-11-07T00:37:19.662Z,"southern New England",earthquake,,,,,reviewed,wes,wes
+1985-10-05T06:17:34.000Z,47,-66.6,5,3.3,mblg,,,,,us,usp0002kg8,2014-11-07T00:37:17.622Z,"New Brunswick, Canada",earthquake,,,,,reviewed,ott,ott
+1985-10-05T05:34:14.000Z,47,-66.6,5,4,mblg,,,,,us,usp0002kg4,2014-11-07T00:37:17.609Z,"New Brunswick, Canada",earthquake,,,,,reviewed,ott,ott
+1985-09-09T22:06:31.020Z,41.848,-88.014,5,3,mblg,,,,0.3,us,usp0002jk2,2014-11-07T00:37:08.618Z,"Illinois",earthquake,,,,,reviewed,us,us
+1985-09-06T22:17:02.850Z,35.814,-93.123,2,3.3,md,,,,,nm,nm602624,2016-04-14T16:52:18.550Z,"22km SSE of Jasper, Arkansas",earthquake,,,,,reviewed,nm,nm
+1985-08-24T06:04:02.000Z,45.67,-76.64,18,3.1,mblg,,,,,us,usp0002j33,2014-11-07T00:37:03.171Z,"southern Ontario, Canada",earthquake,,,,,reviewed,ott,ott
+1985-08-03T04:23:11.000Z,35.21,-92.2,5,3.3,md,,,,,nm,nm602612,2016-04-14T16:51:11.620Z,"13km N of Vilonia, Arkansas",earthquake,,,,,reviewed,nm,nm
+1985-07-12T18:20:28.720Z,35.192,-85.145,10,3,md,,,,,us,usp0002gqy,2014-11-07T00:36:51.741Z,"eastern Tennessee",earthquake,,,,,reviewed,tei,tei
+1985-04-12T05:27:29.150Z,45.332,-70.692,5,3.5,mblg,,,,0.9,us,usp0002dqw,2014-11-07T00:36:26.417Z,"Maine",earthquake,,,,,reviewed,us,us
+1985-03-03T12:15:17.000Z,47.39,-70.48,14,3.2,mblg,,,,,us,usp0002ccp,2014-11-07T00:36:15.688Z,"St. Lawrence Valley region, Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+1985-02-15T15:56:10.000Z,37.23,-89.33,5.3,3.3,md,,,,,nm,nm602507,2016-04-14T16:40:45.510Z,"17km E of Scott City, Missouri",earthquake,,,,,reviewed,nm,nm
+1985-02-13T10:22:24.000Z,38.42,-87.5,17.7,3,md,,,,,nm,nm602504,2016-04-14T16:40:27.280Z,"9km NE of Princeton, Indiana",earthquake,,,,,reviewed,nm,nm
+1984-12-17T09:38:36.000Z,46.5,-82.6,0.1,3.4,mb,,,,,us,usp0002a4v,2014-11-07T00:35:52.952Z,"Ontario, Canada",earthquake,,,,1,reviewed,ott,us
+1984-12-03T11:55:43.240Z,36.211,-89.715,10,3,md,,,,,nm,nm602456,2016-04-14T16:35:41.550Z,"3km SE of Hayti, Missouri",earthquake,,,,,reviewed,nm,nm
+1984-11-30T05:54:22.000Z,46.98,-66.58,14,3.7,mblg,,,,,us,usp00029mu,2014-11-07T00:35:45.578Z,"New Brunswick, Canada",earthquake,,,,,reviewed,ott,ott
+1984-11-26T09:03:49.000Z,45.19,-75.05,14,3.2,mblg,,,,,us,usp00029g6,2014-11-07T00:35:44.928Z,"Ontario-Quebec border region, Canada",earthquake,,,,,reviewed,ott,ott
+1984-10-23T06:26:21.530Z,43.592,-73.937,1,3.4,md,,,,,us,usp00028dt,2014-11-07T00:35:36.094Z,"New York",earthquake,,,,,reviewed,pal,pal
+1984-10-22T18:58:41.920Z,36.36,-81.672,8.3,3.1,mblg,,,,,us,usp00028d9,2014-11-07T00:35:36.047Z,"Virginia-North Carolina border region",earthquake,,,,,reviewed,tei,bla
+1984-10-09T11:54:26.600Z,34.74,-85.16,5,4.2,md,,,,,se,se602423,2016-04-14T19:27:45.829Z,"11km ENE of LaFayette, Georgia",earthquake,,,,,reviewed,se,se
+1984-09-27T13:03:05.850Z,35.211,-92.2,4,3.2,md,,,,,nm,nm602412,2016-04-14T16:31:44.490Z,"14km N of Vilonia, Arkansas",earthquake,,,,,reviewed,nm,nm
+1984-08-30T16:26:28.500Z,35.56,-84.34,14.3,3.2,md,,,,,us,usp00026vn,2014-11-07T00:35:20.759Z,"eastern Tennessee",earthquake,,,,,reviewed,tei,tei
+1984-08-29T06:50:59.500Z,39.11,-87.45,10,3.1,md,,,,,nm,nm602388,2016-04-14T16:29:24.630Z,"4km WNW of Sullivan, Indiana",earthquake,,,,,reviewed,nm,nm
+1984-08-20T10:58:16.680Z,44.91,-73.48,12,3.2,mblg,,,,,us,usp00026jj,2014-11-07T00:35:19.558Z,"New York",earthquake,,,,,reviewed,pal,pal
+1984-08-17T18:05:46.850Z,37.868,-78.324,8.2,4.2,mblg,,,,,us,usp00026g9,2014-11-07T00:35:19.227Z,"Virginia",earthquake,,,,,reviewed,bla,bla
+1984-08-09T02:42:35.200Z,34.564,-86.308,5,3,md,,,,0.6,us,usp000269j,2014-11-07T00:35:17.620Z,"Alabama",earthquake,,,,,reviewed,us,tei
+1984-07-30T07:33:46.500Z,37.82,-90.92,7.1,3,md,,,,,nm,nm602373,2016-04-14T16:27:53.450Z,"17km SW of Potosi, Missouri",earthquake,,,,,reviewed,nm,nm
+1984-07-28T23:39:27.400Z,39.22,-87.07,10,4,md,,,,,nm,nm602368,2016-04-14T16:33:42.877Z,"6km SE of Middlebury, Indiana",earthquake,,,,,reviewed,nm,nm
+1984-07-06T17:24:52.000Z,46.53,-81.17,1,4.4,mb,,,,,us,usp00025ha,2017-04-13T21:56:39.637Z,"Ontario, Canada",earthquake,,,,1,reviewed,ott,us
+1984-06-29T07:58:29.300Z,37.7,-88.47,1.6,3.8,md,,,,,nm,nm602352,2016-04-14T16:29:16.728Z,"7km SE of Harrisburg, Illinois",earthquake,,,,,reviewed,nm,nm
+1984-06-26T15:15:18.730Z,36.149,-89.36,7.2,3,md,,,,,nm,nm602350,2016-04-14T16:25:39.690Z,"9km WNW of Newbern, Tennessee",earthquake,,,,,reviewed,nm,nm
+1984-06-20T16:18:17.000Z,46.53,-80.8,1,3.3,mblg,,,,,us,usp000254y,2014-11-07T00:35:04.155Z,"Ontario, Canada",earthquake,,,,,reviewed,ott,ott
+1984-06-20T16:10:22.000Z,46.63,-80.78,1,3.5,mblg,,,,,us,usp000254w,2014-11-07T00:35:04.152Z,"Ontario, Canada",earthquake,,,,,reviewed,ott,ott
+1984-06-20T14:12:27.000Z,46.58,-80.8,1,3.4,mblg,,,,,us,usp000254r,2014-11-07T00:35:04.118Z,"Ontario, Canada",earthquake,,,,,reviewed,ott,ott
+1984-06-12T18:26:48.220Z,38.918,-87.464,3,3.4,mblg,,,,,us,usp00024zc,2014-11-07T00:35:01.947Z,"Indiana",earthquake,,,,,reviewed,slm,slm
+1984-04-23T01:36:00.170Z,39.921,-76.355,5,4.2,mb,,,,0.6,us,usp00023tg,2014-11-07T00:34:47.402Z,"Pennsylvania",earthquake,,,,1,reviewed,us,us
+1984-04-19T04:54:58.380Z,39.923,-76.316,5,3,mblg,,,,0.7,us,usp00023nz,2014-11-07T00:34:46.759Z,"Pennsylvania",earthquake,,,,,reviewed,us,bla
+1984-04-17T04:44:44.900Z,38.41,-88.48,14.3,3.2,md,,,,,nm,nm602314,2016-04-14T16:22:00.870Z,"11km WNW of Fairfield, Illinois",earthquake,,,,,reviewed,nm,nm
+1984-03-17T23:26:11.500Z,35.814,-84.033,3,3,ml,,,,,us,usp00022qu,2014-11-07T00:34:38.409Z,"eastern Tennessee",earthquake,,,,,reviewed,tei,us
+1984-02-25T21:01:57.200Z,37.22,-89.01,5,3,md,,,,,nm,nm602275,2016-04-14T16:18:15.880Z,"16km NNW of La Center, Kentucky",earthquake,,,,,reviewed,nm,nm
+1984-02-24T03:17:14.000Z,47,-66.6,5,3.7,mblg,,,,,us,usp0002275,2014-11-07T00:34:31.643Z,"New Brunswick, Canada",earthquake,,,,,reviewed,ott,ott
+1984-02-14T22:56:20.400Z,37.21,-89,2,3.6,md,,,,,nm,nm602188,2016-04-14T16:10:39.689Z,"14km N of La Center, Kentucky",earthquake,,,,,reviewed,nm,nm
+1984-02-14T20:54:31.000Z,36.121,-83.735,8.2,3.7,md,,,,,us,usp00021zh,2014-11-07T00:34:30.530Z,"eastern Tennessee",earthquake,,,,,reviewed,tei,tei
+1984-02-13T22:42:45.300Z,37.21,-89.02,5,3.2,md,,,,,nm,nm602138,2016-04-14T16:04:22.880Z,"15km NNW of La Center, Kentucky",earthquake,,,,,reviewed,nm,nm
+1984-01-28T21:29:21.990Z,36.608,-89.816,15.1,3,md,,,,,nm,nm602120,2016-04-14T16:02:33.410Z,"14km ENE of Malden, Missouri",earthquake,,,,,reviewed,nm,nm
+1984-01-19T05:26:09.200Z,44.88,-67.34,11,3.8,mblg,,,,,us,usp00021ca,2014-11-07T00:34:23.517Z,"Maine",earthquake,,,,,reviewed,wes,wes
+1984-01-17T19:04:46.000Z,45.56,-75.12,19,3.1,mblg,,,,,us,usp00021b4,2014-11-07T00:34:23.407Z,"Ontario-Quebec border region, Canada",earthquake,,,,,reviewed,ott,ott
+1984-01-14T09:09:33.120Z,45.05,-67.18,7.5,3.6,mblg,,,,,us,usp000217y,2014-11-07T00:34:22.909Z,"Maine",earthquake,,,,,reviewed,wes,wes
+1984-01-14T09:08:34.520Z,45.05,-67.18,7.5,3.4,mblg,,,,,us,usp000217x,2014-11-07T00:34:22.907Z,"Maine",earthquake,,,,,reviewed,wes,wes
+1984-01-12T02:48:15.700Z,37.59,-89.75,1.7,3,md,,,,,nm,nm602113,2016-04-14T16:02:03.010Z,"17km SSE of Perryville, Missouri",earthquake,,,,,reviewed,nm,nm
+1984-01-06T03:04:20.910Z,31.607,-87.808,5,3,md,,,,1.2,us,usp0002128,2014-11-07T00:34:21.657Z,"Alabama",earthquake,,,,,reviewed,us,tei
+1983-12-28T12:24:21.000Z,47.01,-76.33,18,3.4,mblg,,,,,us,usp00020vm,2014-11-07T00:34:17.647Z,"southern Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+1983-12-21T15:04:44.000Z,45.22,-73.98,11,3.1,mblg,,,,,us,usp00020pq,2014-11-07T00:34:16.145Z,"southern Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+1983-12-09T20:52:10.510Z,33.183,-92.704,5,3,mblg,,,,0.7,us,usp00020cm,2016-04-14T15:59:18.860Z,"6km W of El Dorado, Arkansas",earthquake,,,,,reviewed,us,tul
+1983-12-08T12:23:05.350Z,45.08,-67.21,9.9,3.2,mblg,,,,,us,usp00020bv,2014-11-07T00:34:14.533Z,"Maine",earthquake,,,,,reviewed,wes,wes
+1983-12-04T10:48:33.700Z,45.19,-69.14,1.1,3.4,mblg,,,,,us,usp0002090,2014-11-07T00:34:13.605Z,"Maine",earthquake,,,,,reviewed,wes,wes
+1983-11-06T09:02:19.820Z,32.937,-80.159,9.6,3.3,md,,,,,us,usp0001zkp,2014-11-07T00:34:05.048Z,"South Carolina",earthquake,,,,,reviewed,nc,gs$
+1983-11-01T10:16:52.000Z,45.68,-73.9,18,3.5,mblg,,,,,us,usp0001zfs,2014-11-07T00:34:03.390Z,"southern Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+1983-10-16T19:40:50.830Z,30.243,-93.393,5,3.8,mblg,,,,0.8,us,usp0001z1h,2014-11-07T00:33:59.888Z,"Louisiana-Texas border region",earthquake,,,,,reviewed,us,tul
+1983-10-16T03:00:47.000Z,45.62,-75.05,11,3.1,mblg,,,,,us,usp0001z17,2014-11-07T00:33:59.807Z,"Ontario-Quebec border region, Canada",earthquake,,,,,reviewed,ott,ott
+1983-10-11T04:10:55.000Z,45.21,-75.77,15,4.2,mb,,,,,us,usp0001yww,2014-11-07T00:33:58.310Z,"Ontario-Quebec border region, Canada",earthquake,,,,2,reviewed,ott,us
+1983-10-07T10:39:38.550Z,43.952,-74.258,8,3.5,mblg,,,,,us,usp0001yuw,2014-11-07T00:33:56.672Z,"New York",earthquake,,,,,reviewed,pal,us
+1983-10-07T10:18:46.150Z,43.938,-74.258,12.5,5.1,mb,,,,,us,usp0001yuv,2017-04-26T17:37:04.032Z,"New York",earthquake,,,,35,reviewed,pal,us
+1983-10-04T17:18:40.000Z,43.44,-79.79,2,3.1,mblg,,,,,us,usp0001yth,2014-11-07T00:33:55.685Z,"southern Ontario, Canada",earthquake,,,,,reviewed,ott,ott
+1983-08-28T22:45:06.530Z,36.7,-83.837,5,3.1,mblg,,,,,us,usp0001y0h,2014-11-07T00:33:40.468Z,"eastern Kentucky",earthquake,,,,,reviewed,tei,bla
+1983-08-17T14:04:16.200Z,38.46,-82.9,10,3.1,md,,,,,se,se602018,2016-04-14T19:18:34.150Z,"13km SSW of Greenup, Kentucky",earthquake,,,,,reviewed,se,se
+1983-08-17T14:03:15.020Z,38.472,-82.772,11.9,3.5,mblg,,,,,us,usp0001xr6,2014-11-07T00:33:38.862Z,"eastern Kentucky",earthquake,,,,,reviewed,bla,us
+1983-08-12T14:08:47.630Z,44.97,-67.68,11.8,3.6,mblg,,,,,us,usp0001xms,2014-11-07T00:33:38.296Z,"Maine",earthquake,,,,,reviewed,wes,wes
+1983-07-10T02:54:25.400Z,37.11,-90.93,5.8,3,md,,,,,nm,nm601983,2016-04-14T15:49:28.740Z,"14km NNE of Van Buren, Missouri",earthquake,,,,,reviewed,nm,nm
+1983-07-08T19:29:05.960Z,35.544,-84.152,10.5,3.3,mblg,,,,,us,usp0001wnv,2014-11-07T00:33:27.481Z,"eastern Tennessee",earthquake,,,,,reviewed,tei,tei
+1983-07-08T09:41:40.200Z,37.1,-90.94,10.3,3,md,,,,,nm,nm601981,2016-04-14T15:49:16.580Z,"13km NNE of Van Buren, Missouri",earthquake,,,,,reviewed,nm,nm
+1983-06-11T13:47:58.000Z,47,-66.6,5,3.8,mblg,,,,,us,usp0001w0v,2014-11-07T00:33:18.969Z,"New Brunswick, Canada",earthquake,,,,,reviewed,ott,wes
+1983-06-10T04:22:39.000Z,47,-66.6,5,3.6,mblg,,,,,us,usp0001w04,2014-11-07T00:33:18.806Z,"New Brunswick, Canada",earthquake,,,,,reviewed,ott,wes
+1983-06-04T05:00:23.000Z,47.46,-69.65,10,3,mblg,,,,,us,usp0001vwq,2014-11-07T00:33:17.111Z,"St. Lawrence Valley region, Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+1983-06-02T06:30:23.000Z,47.45,-70.22,10,3.5,mblg,,,,,us,usp0001vve,2014-11-07T00:33:16.303Z,"St. Lawrence Valley region, Quebec, Canada",earthquake,,,,,reviewed,ott,wes
+1983-05-29T05:45:49.840Z,44.502,-70.415,1.8,4.2,mb,,,,,us,usp0001vs2,2014-11-07T00:33:12.676Z,"Maine",earthquake,,,,2,reviewed,wes,us
+1983-05-27T23:03:35.190Z,45.542,-69.461,9.8,3.5,mblg,,,,,us,usp0001vqm,2014-11-07T00:33:11.904Z,"Maine",earthquake,,,,,reviewed,wes,ott
+1983-05-16T14:03:03.800Z,38.48,-92.36,5,3,md,,,,,nm,nm601953,2016-04-14T15:46:38.520Z,"12km S of Saint Martins, Missouri",earthquake,,,,,reviewed,nm,nm
+1983-05-16T02:01:57.000Z,47.7,-69.93,10,4.1,mblg,,,,,us,usp0001vda,2014-11-07T00:33:10.687Z,"St. Lawrence Valley region, Quebec, Canada",earthquake,,,,,reviewed,ott,wes
+1983-05-15T05:16:21.600Z,38.77,-89.57,8.5,4.3,md,,,,,nm,nm601952,2016-04-14T15:57:52.855Z,"9km ENE of Highland, Illinois",earthquake,,,,,reviewed,nm,nm
+1983-05-13T23:40:57.000Z,47,-66.6,5,4.1,mblg,,,,,us,usp0001vah,2014-11-07T00:33:10.272Z,"New Brunswick, Canada",earthquake,,,,,reviewed,ott,ott
+1983-05-13T17:26:02.000Z,47,-66.6,5,3.7,mblg,,,,,us,usp0001vab,2014-11-07T00:33:10.239Z,"New Brunswick, Canada",earthquake,,,,,reviewed,ott,wes
+1983-03-30T04:15:25.800Z,35.2,-92.15,4,3.2,md,,,,,nm,nm601931,2016-04-19T22:05:24.869Z,"13km NNE of Vilonia, Arkansas",earthquake,,,,,reviewed,nm,nm
+1983-03-25T02:47:11.100Z,35.345,-82.462,9.3,3.2,mblg,,,,,us,usp0001txy,2014-11-07T00:32:50.863Z,"North Carolina",earthquake,,,,,reviewed,tei,bla
+1983-02-26T19:59:35.450Z,41.554,-73.658,7,3,md,,,,,us,usp0001tbn,2014-11-07T00:32:43.739Z,"New York",earthquake,,,,,reviewed,pal,pal
+1983-02-23T08:51:26.960Z,36.212,-89.672,7.6,3.2,md,,,,,nm,nm601917,2016-04-14T15:42:59.700Z,"2km NW of Caruthersville, Missouri",earthquake,,,,,reviewed,nm,nm
+1983-02-11T15:46:56.000Z,48.99,-68.3,18,3.6,mblg,,,,,us,usp0001syt,2014-11-07T00:32:40.528Z,"St. Lawrence Valley region, Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+1983-01-26T14:07:44.840Z,32.728,-83.375,5,3.5,mblg,,,,0.5,us,usp0001smg,2014-11-07T00:32:33.956Z,"Georgia, USA",earthquake,,,,,reviewed,us,us
+1983-01-19T02:30:41.600Z,35.28,-92.16,4,3.9,md,,,,,nm,nm601886,2016-04-14T15:41:20.401Z,"21km ENE of Greenbrier, Arkansas",earthquake,,,,,reviewed,nm,nm
+1983-01-17T19:35:51.000Z,49.11,-66.98,18,4.5,mb,,,,,us,usp0001sb4,2014-11-07T00:32:30.637Z,"Gaspe Peninsula, Quebec, Canada",earthquake,,,,2,reviewed,ott,us
+1982-12-04T16:08:32.000Z,47.5,-70.2,18,4,mblg,,,,,us,usp0001r91,2014-11-07T00:32:18.391Z,"St. Lawrence Valley region, Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+1982-11-24T07:34:39.000Z,45.34,-73.43,5,3,mblg,,,,,us,usp0001r3b,2014-11-07T00:32:13.967Z,"southern Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+1982-11-21T16:35:30.500Z,35.25,-92.08,4,3.5,md,,,,,nm,nm601856,2016-04-14T15:38:17.598Z,"21km NNE of Vilonia, Arkansas",earthquake,,,,,reviewed,nm,nm
+1982-11-17T19:00:45.200Z,35.2,-92.07,4,3.2,md,,,,,nm,nm601853,2016-04-14T15:36:48.940Z,"17km NE of Vilonia, Arkansas",earthquake,,,,,reviewed,nm,nm
+1982-10-31T03:12:15.610Z,32.655,-84.867,5,3.1,mblg,,,,0.8,us,usp0001qmr,2014-11-07T00:32:05.941Z,"Georgia, USA",earthquake,,,,,reviewed,us,us
+1982-10-26T15:31:32.600Z,47,-66.6,5,3.6,mblg,,,,,us,usp0001qhm,2014-11-07T00:32:04.888Z,"New Brunswick, Canada",earthquake,,,,,reviewed,ott,wes
+1982-09-27T10:22:34.000Z,35.22,-92.11,5,3,md,,,,,nm,nm601811,2016-04-14T15:32:39.730Z,"17km NNE of Vilonia, Arkansas",earthquake,,,,,reviewed,nm,nm
+1982-09-25T23:17:06.900Z,35.27,-92.17,5,3.5,md,,,,,nm,nm601802,2016-04-14T15:34:26.672Z,"20km ENE of Greenbrier, Arkansas",earthquake,,,,,reviewed,nm,nm
+1982-08-13T01:06:41.000Z,46.69,-78.46,18,3.7,mb,,,,,us,usp0001p0j,2014-11-07T00:31:46.164Z,"southern Quebec, Canada",earthquake,,,,2,reviewed,ott,us
+1982-08-09T11:12:31.100Z,35.25,-92.34,4,3,md,,,,,nm,nm601761,2016-04-14T15:27:48.000Z,"4km ENE of Greenbrier, Arkansas",earthquake,,,,,reviewed,nm,nm
+1982-08-06T06:29:10.000Z,45.89,-75.46,18,3.7,mblg,,,,,us,usp0001nvm,2014-11-07T00:31:43.618Z,"Ontario-Quebec border region, Canada",earthquake,,,,,reviewed,ott,ott
+1982-07-13T02:18:49.000Z,46.03,-74.55,17,3.9,mblg,,,,,us,usp0001nd9,2014-11-07T00:31:36.812Z,"southern Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+1982-07-05T04:13:51.600Z,35.22,-92.21,7,3.5,md,,,,,nm,nm601738,2016-04-14T15:33:34.278Z,"15km N of Vilonia, Arkansas",earthquake,,,,,reviewed,nm,nm
+1982-06-30T16:22:00.600Z,35.34,-92.13,15,3.3,md,,,,,nm,nm601733,2016-04-14T15:24:57.620Z,"19km SSW of Heber Springs, Arkansas",earthquake,,,,,reviewed,nm,nm
+1982-06-26T15:56:07.100Z,35.3,-92.29,10,3,md,,,,,nm,nm601724,2016-04-14T15:24:02.920Z,"11km NE of Greenbrier, Arkansas",earthquake,,,,,reviewed,nm,nm
+1982-06-17T14:14:35.960Z,41.508,-72.377,2,3,mblg,,,,,us,usp0001mze,2014-11-07T00:31:28.433Z,"southern New England",earthquake,,,,,reviewed,wes,wes
+1982-06-16T11:43:30.000Z,46.97,-66.99,5,4.7,mb,,,,,us,usp0001myx,2014-11-07T00:31:28.336Z,"New Brunswick, Canada",earthquake,,,,20,reviewed,ott,us
+1982-05-31T18:21:19.900Z,35.21,-92.23,5,3.5,md,,,,,nm,nm601703,2016-04-14T15:33:12.538Z,"14km E of Greenbrier, Arkansas",earthquake,,,,,reviewed,nm,nm
+1982-05-06T16:28:07.000Z,47,-66.6,5,3.9,mblg,,,,,us,usp0001m4m,2014-11-07T00:31:16.360Z,"New Brunswick, Canada",earthquake,,,,,reviewed,ott,us
+1982-04-21T21:17:55.400Z,35.18,-92.24,5,3.5,md,,,,,nm,nm601677,2016-04-14T15:30:12.765Z,"11km NNW of Vilonia, Arkansas",earthquake,,,,,reviewed,nm,nm
+1982-04-11T18:00:51.400Z,47,-66.6,5,4,mblg,,,,,us,usp0001kn7,2014-11-07T00:31:07.679Z,"New Brunswick, Canada",earthquake,,,,,reviewed,ott,us
+1982-04-02T13:50:11.000Z,47,-66.6,5,4.1,mblg,,,,,us,usp0001kgr,2014-11-07T00:31:04.913Z,"New Brunswick, Canada",earthquake,,,,,reviewed,ott,us
+1982-03-31T21:02:20.000Z,47,-66.6,5,5,mb,,,,,us,usp0001kfx,2014-11-07T00:31:03.009Z,"New Brunswick, Canada",earthquake,,,,31,reviewed,ott,us
+1982-03-01T03:33:13.560Z,32.936,-80.138,6.7,3,mblg,,,,,us,usp0001jwx,2014-11-07T00:30:55.518Z,"South Carolina",earthquake,,,,,reviewed,nc,us
+1982-03-01T00:12:11.700Z,35.2,-92.11,6,4.1,md,,,,,nm,nm601658,2016-04-14T15:32:18.947Z,"15km NE of Vilonia, Arkansas",earthquake,,,,,reviewed,nm,nm
+1982-02-24T19:27:15.300Z,35.29,-92.25,5.1,3.9,md,,,,,nm,nm601655,2016-04-14T15:23:20.280Z,"13km ENE of Greenbrier, Arkansas",earthquake,,,,,reviewed,nm,nm
+1982-02-02T09:26:46.200Z,35.91,-90.05,11.6,3.1,md,,,,,nm,nm601645,2016-04-14T15:16:02.670Z,"8km SW of Gosnell, Arkansas",earthquake,,,,,reviewed,nm,nm
+1982-02-01T07:25:02.500Z,35.19,-92.25,3.6,3.6,md,,,,,nm,nm601644,2016-04-14T15:29:10.035Z,"12km NNW of Vilonia, Arkansas",earthquake,,,,,reviewed,nm,nm
+1982-02-01T05:55:07.600Z,35.2,-92.28,2.3,3.6,md,,,,,nm,nm601642,2016-04-14T15:28:12.089Z,"10km ESE of Greenbrier, Arkansas",earthquake,,,,,reviewed,nm,nm
+1982-01-27T23:29:42.500Z,35.21,-92.24,2,3.2,mblg,,,,,us,usp0001jbt,2014-11-07T00:30:44.157Z,"Arkansas",earthquake,,,,,reviewed,tei,tul
+1982-01-27T18:50:05.100Z,41.87,-70.97,2,3,mblg,,,,,us,usp0001jbp,2014-11-07T00:30:44.129Z,"southern New England",earthquake,,,,,reviewed,wes,wes
+1982-01-24T03:22:45.100Z,35.21,-92.18,5.3,3.6,md,,,,,nm,nm601639,2016-04-14T15:27:02.770Z,"14km N of Vilonia, Arkansas",earthquake,,,,,reviewed,nm,nm
+1982-01-22T23:54:22.600Z,35.25,-92.29,3,3.7,md,,,,,nm,nm601638,2016-04-14T15:25:13.847Z,"9km ENE of Greenbrier, Arkansas",earthquake,,,,,reviewed,nm,nm
+1982-01-21T15:45:39.000Z,35.17,-92.14,5,3.8,md,,,,,nm,nm601636,2016-04-14T15:24:06.391Z,"11km NNE of Vilonia, Arkansas",earthquake,,,,,reviewed,nm,nm
+1982-01-21T01:13:38.900Z,35.18,-92.21,5.7,3.5,md,,,,,nm,nm601635,2016-04-14T15:19:56.437Z,"10km N of Vilonia, Arkansas",earthquake,,,,,reviewed,nm,nm
+1982-01-21T00:33:54.200Z,35.18,-92.25,4.1,4.2,md,,,,,nm,nm601634,2017-04-13T21:54:26.237Z,"11km NNW of Vilonia, Arkansas",earthquake,,,,,reviewed,nm,nm
+1982-01-20T14:01:31.500Z,35.14,-92.08,4.8,3.5,md,,,,,nm,nm601633,2016-04-14T15:19:07.898Z,"13km ENE of Vilonia, Arkansas",earthquake,,,,,reviewed,nm,nm
+1982-01-19T04:39:49.400Z,35.18,-92.25,1.8,3.5,md,,,,,nm,nm601631,2016-04-14T15:17:10.648Z,"11km NNW of Vilonia, Arkansas",earthquake,,,,,reviewed,nm,nm
+1982-01-19T00:14:42.000Z,43.5,-71.6,8,4.5,mb,,,,,us,usp0001j3y,2017-04-13T21:54:24.317Z,"New Hampshire",earthquake,,,,7,reviewed,wes,us
+1982-01-18T02:32:13.100Z,35.24,-92.27,9,3.3,md,,,,,nm,nm601629,2016-04-14T15:14:25.400Z,"10km E of Greenbrier, Arkansas",earthquake,,,,,reviewed,nm,nm
+1982-01-18T01:23:07.800Z,35.23,-92.28,10,3.4,md,,,,,nm,nm601628,2016-04-14T15:14:19.320Z,"9km E of Greenbrier, Arkansas",earthquake,,,,,reviewed,nm,nm
+1982-01-13T17:56:41.900Z,47.09,-66.614,10,3.9,mblg,,,,1.3,us,usp0001j0w,2014-11-07T00:30:40.639Z,"New Brunswick, Canada",earthquake,,,,,reviewed,us,us
+1982-01-11T21:41:07.990Z,46.975,-66.659,7,5.4,mb,,,,,us,usp0001hzu,2016-11-09T21:38:44.425Z,"New Brunswick, Canada",earthquake,,,,46,reviewed,spe,us
+1982-01-09T16:36:42.930Z,47.023,-66.648,6,5.1,mb,,,,,us,usp0001hyn,2014-11-07T00:30:39.501Z,"New Brunswick, Canada",earthquake,,,,55,reviewed,spe,us
+1982-01-09T12:53:51.880Z,46.984,-66.656,10.1,5.7,mb,,,,,us,usp0001hym,2017-04-13T21:54:22.261Z,"New Brunswick, Canada",earthquake,,,,49,reviewed,spe,us
+1981-11-08T17:11:18.800Z,36.08,-89.39,13.6,3,md,,,,,nm,nm601599,2016-04-14T15:11:23.010Z,"5km N of Dyersburg, Tennessee",earthquake,,,,,reviewed,nm,nm
+1981-10-21T16:49:06.700Z,41.15,-72.58,5.6,3.8,mblg,,,,,us,usp0001gks,2014-11-07T00:30:15.229Z,"southern New England",earthquake,,,,,reviewed,wes,wes
+1981-09-05T05:49:20.000Z,42.73,-81.35,4,3.1,mblg,,,,,us,usp0001fpm,2014-11-07T00:30:03.400Z,"southern Ontario, Canada",earthquake,,,,,reviewed,ott,ott
+1981-08-28T10:51:32.000Z,43.21,-80.57,18,3.3,mblg,,,,,us,usp0001fhy,2014-11-07T00:29:58.859Z,"southern Ontario, Canada",earthquake,,,,,reviewed,ott,ott
+1981-08-07T11:53:44.300Z,36.03,-89.18,22.8,4,md,,,,,nm,nm601510,2016-04-14T15:12:36.070Z,"11km SE of Newbern, Tennessee",earthquake,,,,,reviewed,nm,nm
+1981-07-05T21:47:23.900Z,45.106,-74.607,16,3.3,mblg,,,,,us,usp0001ehw,2014-11-07T00:29:44.668Z,"Ontario-Quebec border region, Canada",earthquake,,,,,reviewed,pal,pal
+1981-07-04T23:19:17.500Z,45.106,-74.606,16,3,mblg,,,,,us,usp0001eh9,2014-11-07T00:29:44.456Z,"Ontario-Quebec border region, Canada",earthquake,,,,,reviewed,pal,pal
+1981-07-04T23:16:33.000Z,45.108,-74.608,16,3.5,mblg,,,,,us,usp0001eh8,2014-11-07T00:29:44.447Z,"Ontario-Quebec border region, Canada",earthquake,,,,,reviewed,pal,pal
+1981-06-28T22:42:35.000Z,43.56,-71.56,2,3,mblg,,,,,us,usp0001ed9,2014-11-07T00:29:40.373Z,"New Hampshire",earthquake,,,,,reviewed,wes,wes
+1981-06-26T08:33:26.900Z,35.85,-90.08,5.3,3.5,md,,,,,nm,nm601481,2016-04-14T15:00:41.507Z,"8km ESE of Manila, Arkansas",earthquake,,,,,reviewed,nm,nm
+1981-06-09T14:15:47.700Z,37.82,-89.02,20.3,3.4,md,,,,,nm,nm601471,2016-04-14T14:58:25.060Z,"1km NNE of Herrin, Illinois",earthquake,,,,,reviewed,nm,nm
+1981-06-09T01:46:33.120Z,32.142,-94.399,5,3,mblg,,,,1,us,usp0001e27,2014-11-07T00:29:36.259Z,"northern Texas",earthquake,,,,,reviewed,us,tul
+1981-05-25T22:50:18.200Z,36.76,-91.63,1.1,3,md,,,,,nm,nm601455,2016-04-14T14:56:47.760Z,"20km E of West Plains, Missouri",earthquake,,,,,reviewed,nm,nm
+1981-05-05T21:21:57.900Z,35.33,-82.43,13.2,3.5,mblg,,,,,us,usp0001dhy,2014-11-07T00:29:26.848Z,"North Carolina",earthquake,,,,,reviewed,tei,bla
+1981-04-29T15:09:32.900Z,35.32,-90.13,6.3,3,md,,,,,nm,nm601433,2016-04-14T14:54:33.840Z,"13km NNE of Marion, Arkansas",earthquake,,,,,reviewed,nm,nm
+1981-04-13T17:31:38.000Z,45.9,-65.73,18,3.8,mblg,,,,,us,usp0001d4t,2014-11-07T00:29:12.465Z,"New Brunswick, Canada",earthquake,,,,,reviewed,ott,wes
+1981-04-09T07:10:31.460Z,35.476,-82.073,5,3,mblg,,,,0.6,us,usp0001d2a,2014-11-07T00:29:11.266Z,"North Carolina",earthquake,,,,,reviewed,us,us
+1981-04-08T01:53:13.000Z,38.87,-89.38,1.1,3.5,md,,,,,nm,nm601411,2016-12-17T02:29:46.027Z,"3km SE of Greenville, Illinois",earthquake,,,,,reviewed,nm,nm
+1980-12-02T08:59:30.000Z,36.21,-89.43,10.7,3.8,md,,,,,nm,nm601317,2016-04-14T14:44:11.703Z,"7km SE of Ridgely, Tennessee",earthquake,,,,,reviewed,nm,nm
+1980-12-01T16:55:15.500Z,38.71,-90.84,10,3.2,md,,,,,nm,nm601316,2016-04-14T14:42:42.440Z,"10km SSW of Lake Saint Louis, Missouri",earthquake,,,,,reviewed,nm,nm
+1980-10-25T00:41:28.300Z,41.33,-72.88,0,3,,,,,,us,usp0001aef,2014-11-06T23:24:26.838Z,"southern New England",earthquake,,,,,reviewed,l,gs
+1980-10-24T17:27:38.100Z,41.31,-72.86,0,3.1,,,,,,us,usp0001ae5,2014-11-06T23:24:26.829Z,"southern New England",earthquake,,,,,reviewed,l,gs
+1980-08-23T03:49:02.500Z,37.995,-84.922,5,3.1,,,,,,us,usp00019gs,2014-11-06T23:24:25.492Z,"eastern Kentucky",earthquake,,,,,reviewed,us,slm
+1980-08-20T09:34:52.300Z,41.941,-83.01,5,3.2,,,,,,us,usp00019ff,2014-11-06T23:24:25.347Z,"Ohio",earthquake,,,,,reviewed,us,slm
+1980-07-27T18:52:21.800Z,38.174,-83.907,8,5.1,mb,,,,,us,usp000193y,2017-04-26T17:34:02.737Z,"14km N of Mount Sterling, Kentucky",earthquake,,,,,reviewed,s,us
+1980-07-05T08:54:41.100Z,36.6,-89.58,10.3,3.6,md,,,,,nm,nm601201,2016-04-14T14:32:20.910Z,"3km ENE of Lilbourn, Missouri",earthquake,,,,,reviewed,nm,nm
+1980-06-25T18:02:01.500Z,35.779,-84.046,5,3.3,,,,,,us,usp00018fn,2014-11-06T23:24:23.647Z,"eastern Tennessee",earthquake,,,,,reviewed,us,bla
+1980-06-10T23:47:32.700Z,35.447,-82.879,5,3,,,,,,us,usp0001844,2014-11-06T23:24:23.273Z,"North Carolina",earthquake,,,,,reviewed,us,bla
+1980-06-06T13:15:52.000Z,43.561,-75.231,1,3.5,lg,,,,,us,usp00017zn,2014-11-06T23:24:22.960Z,"New York",earthquake,,,,,reviewed,p,gs
+1980-04-13T22:40:22.000Z,49.389,-81.586,18,4.1,mb,,,,,us,usp00016md,2014-11-06T23:24:20.380Z,"Ontario, Canada",earthquake,,,,,reviewed,o,us
+1980-03-23T21:38:15.000Z,37.63,-86.69,5.9,3.1,md,,,,,nm,nm601168,2016-04-14T14:27:48.750Z,"23km SSW of Cloverport, Kentucky",earthquake,,,,,reviewed,nm,nm
+1980-03-13T02:23:13.400Z,37.93,-88.45,18.7,3.3,md,,,,,nm,nm601166,2016-04-14T14:27:36.590Z,"12km N of Eldorado, Illinois",earthquake,,,,,reviewed,nm,nm
+1980-03-11T06:00:26.000Z,40.155,-75.103,5,3.7,,,,,,us,usp00015yh,2014-11-06T23:24:18.947Z,"Greater Philadelphia area, Pennsylvania",earthquake,,,,,reviewed,us,pal
+1980-03-11T04:15:56.000Z,46.729,-71.91,18,3.8,mb,,,,,us,usp00015ye,2014-11-06T23:24:18.942Z,"St. Lawrence Valley region, Quebec, Canada",earthquake,,,,,reviewed,o,us
+1980-03-05T17:06:54.500Z,40.188,-75.157,5,3.5,,,,,,us,usp00015um,2014-11-06T23:24:18.726Z,"Greater Philadelphia area, Pennsylvania",earthquake,,,,,reviewed,us,pal
+1979-11-09T21:29:59.100Z,38.421,-82.881,10,3.6,,,,,,us,usp00013xp,2014-11-06T23:22:07.222Z,"eastern Kentucky",earthquake,,,,,reviewed,us,bla
+1979-09-12T06:24:03.600Z,35.587,-83.901,5,3.2,,,,,,us,usp00012wr,2014-11-06T23:22:05.381Z,"eastern Tennessee",earthquake,,,,,reviewed,us,bla
+1979-08-26T01:31:45.000Z,34.929,-82.971,2,3.7,,,,,,us,usp00012mq,2014-11-06T23:22:05.020Z,"South Carolina",earthquake,,,,,reviewed,us,bla
+1979-08-19T22:49:31.000Z,47.64,-69.959,18,4.6,mb,,,,,us,usp00012hb,2017-04-13T21:52:21.755Z,"St. Lawrence Valley region, Quebec, Canada",earthquake,,,,,reviewed,o,us
+1979-08-13T05:18:56.000Z,35.243,-84.375,5,3.7,,,,,,us,usp00012cz,2014-11-06T23:22:04.735Z,"eastern Tennessee",earthquake,,,,,reviewed,us,bla
+1979-07-28T23:29:09.500Z,43.26,-70.342,5,3.5,,,,,,us,usp0001245,2014-11-06T23:22:04.189Z,"Maine",earthquake,,,,,reviewed,us,gs
+1979-07-08T12:35:15.100Z,36.89,-89.29,2.8,3.1,mlg,,,,,nm,nm601025,2016-04-14T14:13:19.360Z,"6km ESE of Charleston, Missouri",earthquake,,,,,reviewed,nm,nm
+1979-06-25T17:11:13.400Z,35.53,-90.43,10.8,3.2,mlg,,,,,nm,nm601016,2016-04-14T14:12:24.690Z,"0km WSW of Marked Tree, Arkansas",earthquake,,,,,reviewed,nm,nm
+1979-06-11T04:12:16.900Z,36.17,-89.65,11.8,3.9,Unknown,,,,,nm,nm601007,2016-04-28T18:53:39.503Z,"2km S of Caruthersville, Missouri",earthquake,,,,,reviewed,nm,nm
+1979-05-26T21:58:30.000Z,46.339,-75.57,1,3.3,,,,,,us,usp00010x7,2014-11-06T23:22:01.544Z,"southern Quebec, Canada",earthquake,,,,,reviewed,o,ott
+1979-04-18T02:34:14.900Z,43.981,-69.8,0,3.8,mb,,,,,us,usp000103t,2014-11-06T23:22:00.261Z,"Gulf of Maine",earthquake,,,,,reviewed,t,us
+1979-03-10T04:49:39.700Z,40.721,-74.504,3,3.1,,,,,,us,usp0000z8h,2014-11-06T23:21:58.172Z,"New Jersey",earthquake,,,,,reviewed,l,pal
+1979-02-27T22:55:12.200Z,35.93,-91.24,10,3.2,mlg,,,,,nm,nm600952,2016-04-14T14:05:55.650Z,"22km N of Tuckerman, Arkansas",earthquake,,,,,reviewed,nm,nm
+1979-02-27T22:54:54.000Z,35.92,-91.24,9,3.1,mlg,,,,,nm,nm600951,2016-04-14T14:05:49.560Z,"21km N of Tuckerman, Arkansas",earthquake,,,,,reviewed,nm,nm
+1979-02-05T05:31:09.300Z,35.84,-90.08,13.8,3,mlg,,,,,nm,nm600937,2016-04-14T14:04:24.370Z,"9km ESE of Manila, Arkansas",earthquake,,,,,reviewed,nm,nm
+1979-01-30T16:30:52.100Z,40.321,-74.264,5,3.5,,,,,,us,usp0000ynj,2014-11-06T23:21:56.422Z,"New Jersey",earthquake,,,,,reviewed,l,pal
+1978-12-11T02:06:48.200Z,31.95,-88.484,5,3.5,,,,,,us,usp0000xvs,2014-11-06T23:21:54.860Z,"Mississippi",earthquake,,,,,reviewed,us,gs
+1978-12-05T01:48:01.300Z,38.62,-88.36,25,3.5,mlg,,,,,nm,nm600875,2016-04-14T13:59:18.258Z,"12km ESE of Flora, Illinois",earthquake,,,,,reviewed,nm,nm
+1978-10-06T19:25:41.600Z,39.974,-76.514,5,3,,,,,,us,usp0000ww6,2014-11-06T23:21:52.732Z,"Pennsylvania",earthquake,,,,,reviewed,us,pal
+1978-09-26T06:51:09.700Z,30.026,-67.549,33,4.3,mb,,,,,us,usp0000wr8,2014-11-06T23:21:52.554Z,"North Atlantic Ocean",earthquake,,,,,reviewed,us,us
+1978-09-23T07:33:57.500Z,33.65,-91.89,2,3.1,,,,,,us,usp0000wpc,2016-04-14T13:51:32.070Z,"9km WNW of Monticello, Arkansas",earthquake,,,,,reviewed,j,slm
+1978-09-20T12:24:08.800Z,38.57,-90.28,2.2,3.1,mlg,,,,,nm,nm600805,2016-04-14T13:51:01.690Z,"4km N of Lemay, Missouri",earthquake,,,,,reviewed,nm,nm
+1978-08-31T00:31:00.300Z,36.09,-89.42,3.9,3.5,mlg,,,,,nm,nm600786,2016-04-14T13:50:17.299Z,"6km NNW of Dyersburg, Tennessee",earthquake,,,,,reviewed,nm,nm
+1978-08-21T08:47:10.900Z,44.523,-74.508,1,3.1,,,,,,us,usp0000w56,2014-11-06T23:21:51.585Z,"New York",earthquake,,,,,reviewed,l,pal
+1978-08-14T22:55:58.000Z,47.669,-70.22,18,3.2,,,,,,us,usp0000w2f,2014-11-06T23:21:51.493Z,"St. Lawrence Valley region, Quebec, Canada",earthquake,,,,,reviewed,c,wes
+1978-08-10T21:12:11.600Z,40.459,-71.13,29,3.5,,,,,,us,usp0000w09,2014-11-06T23:21:51.359Z,"off the east coast of the United States",earthquake,,,,,reviewed,t,wes
+1978-08-01T17:42:56.000Z,47.04,-70.93,18,3,,,,,,us,usp0000vw2,2014-11-06T23:21:51.052Z,"St. Lawrence Valley region, Quebec, Canada",earthquake,,,,,reviewed,c,wes
+1978-07-30T10:54:44.000Z,45.68,-74.44,18,3.8,,,,,,us,usp0000vv2,2014-11-06T23:21:51.018Z,"Ontario-Quebec border region, Canada",earthquake,,,,,reviewed,c,wes
+1978-07-29T13:56:43.000Z,49.3,-65.61,18,3.4,,,,,,us,usp0000vup,2014-11-06T23:21:50.910Z,"Gaspe Peninsula, Quebec, Canada",earthquake,,,,,reviewed,c,ott
+1978-07-24T08:06:17.600Z,26.729,-88.743,33,4.9,mb,,,,,us,usp0000vra,2016-11-09T23:03:32.388Z,"Gulf of Mexico",earthquake,,,,,reviewed,us,us
+1978-07-16T06:39:37.800Z,39.924,-76.264,5,3.1,,,,,,us,usp0000vkq,2014-11-06T23:21:50.373Z,"Pennsylvania",earthquake,,,,,reviewed,us,wes
+1978-06-09T23:15:19.100Z,32.094,-88.58,10,3.3,,,,,,us,usp0000uz1,2014-11-06T23:21:49.598Z,"Mississippi",earthquake,,,,,reviewed,us,gs
+1978-06-02T02:07:28.800Z,38.42,-88.46,20,3.7,mlg,,,,,nm,nm600726,2016-04-14T13:43:51.146Z,"9km WNW of Fairfield, Illinois",earthquake,,,,,reviewed,nm,nm
+1978-05-26T02:31:40.000Z,47.721,-69.989,15,3.2,,,,,,us,usp0000urp,2014-11-06T23:21:49.352Z,"St. Lawrence Valley region, Quebec, Canada",earthquake,,,,,reviewed,c,ott
+1978-05-04T05:44:47.200Z,29.934,-67.519,33,4.7,mb,,,,,us,usp0000ucx,2014-11-06T23:21:48.870Z,"North Atlantic Ocean",earthquake,,,,,reviewed,us,us
+1978-04-26T19:30:23.300Z,39.697,-78.237,15,3.1,,,,,,us,usp0000u9r,2014-11-06T23:21:48.751Z,"Potomac-Shenandoah region",earthquake,,,,,reviewed,us,bla
+1978-04-24T05:44:56.000Z,30.04,-67.789,33,4.5,mb,,,,,us,usp0000u89,2014-11-06T23:21:48.705Z,"North Atlantic Ocean",earthquake,,,,,reviewed,us,us
+1978-04-19T11:32:16.700Z,29.838,-67.368,20,4.3,mb,,,,,us,usp0000u66,2014-11-06T23:21:48.622Z,"North Atlantic Ocean",earthquake,,,,,reviewed,us,us
+1978-04-15T16:26:09.900Z,29.69,-67.392,33,4.6,mb,,,,,us,usp0000u44,2014-11-06T23:21:48.545Z,"North Atlantic Ocean",earthquake,,,,,reviewed,us,us
+1978-04-08T08:21:45.000Z,47.751,-69.89,22,3,,,,,,us,usp0000tza,2014-11-06T23:21:48.385Z,"St. Lawrence Valley region, Quebec, Canada",earthquake,,,,,reviewed,c,wes
+1978-04-03T12:24:21.100Z,36.62,-90,5,3,mlg,,,,,nm,nm600686,2016-04-14T13:38:06.150Z,"6km SSW of Bernie, Missouri",earthquake,,,,,reviewed,nm,nm
+1978-03-24T00:42:36.300Z,29.801,-67.4,20,6.1,mb,,,,,us,usp0000tm9,2016-11-10T00:29:47.889Z,"North Atlantic Ocean",earthquake,,,,,reviewed,us,us
+1978-02-23T05:24:33.000Z,46.36,-74.13,7,3.6,,,,,,us,usp0000t3r,2014-11-06T23:21:47.328Z,"southern Quebec, Canada",earthquake,,,,,reviewed,c,wes
+1978-02-18T14:48:25.000Z,46.351,-74.11,7,4.1,mb,,,,,us,usp0000t14,2014-11-06T23:21:47.121Z,"southern Quebec, Canada",earthquake,,,,,reviewed,c,us
+1978-01-08T11:34:22.300Z,32.776,-88.254,5,3,ml,,,,,us,usp0000sdh,2014-11-06T23:21:46.292Z,"Alabama",earthquake,,,,,reviewed,us,gs
+1978-01-04T19:28:10.800Z,44.04,-70.509,0,3.2,,,,,,us,usp0000sc2,2014-11-06T23:21:46.248Z,"Maine",earthquake,,,,,reviewed,t,pal
+1977-12-25T15:35:53.500Z,43.196,-71.692,0,3.2,,,,,,us,usp0000s7w,2014-11-06T23:21:46.113Z,"New Hampshire",earthquake,,,,,reviewed,t,wes
+1977-12-20T17:44:23.400Z,41.84,-70.7,0,3.1,,,,,,us,usp0000s5r,2014-11-06T23:21:46.046Z,"southern New England",earthquake,,,,,reviewed,t,wes
+1977-12-15T19:16:43.100Z,32.923,-80.22,9,3,,,,,,us,usp0000s38,2014-11-06T23:21:45.978Z,"South Carolina",earthquake,,,,,reviewed,g,bla
+1977-11-26T04:18:16.400Z,34.35,-92.8,5,3.1,mlg,,,,,nm,nm600635,2016-04-14T13:32:44.280Z,"1km SE of Malvern, Arkansas",earthquake,,,,,reviewed,nm,nm
+1977-11-07T20:48:52.000Z,46.34,-75.2,18,3.4,,,,,,us,usp0000rdt,2014-11-06T23:21:45.122Z,"southern Quebec, Canada",earthquake,,,,,reviewed,c,ott
+1977-11-04T11:21:07.000Z,33.833,-89.276,5,3.4,,,,,,us,usp0000rca,2016-04-14T13:32:01.750Z,"12km E of Bruce, Mississippi",earthquake,,,,,reviewed,us,slm
+1977-10-04T05:36:20.900Z,36.24,-89.35,5,3,mlg,,,,,nm,nm600621,2016-04-14T13:31:19.210Z,"12km ESE of Ridgely, Tennessee",earthquake,,,,,reviewed,nm,nm
+1977-09-28T17:21:44.700Z,44.387,-73.889,3,3.1,,,,,,us,usp0000quc,2014-11-06T23:21:44.385Z,"New York",earthquake,,,,,reviewed,l,pal
+1977-08-25T04:20:07.000Z,33.392,-80.692,10,3.1,,,,,,us,usp0000qah,2014-11-06T23:21:43.739Z,"South Carolina",earthquake,,,,,reviewed,g,bla
+1977-08-08T23:08:41.000Z,49.72,-67.18,18,4.1,,,,,,us,usp0000q18,2014-11-06T23:21:43.431Z,"St. Lawrence Valley region, Quebec, Canada",earthquake,,,,,reviewed,c,ott
+1977-08-08T23:06:12.000Z,49.71,-67.14,18,4.1,,,,,,us,usp0000q17,2014-11-06T23:21:43.430Z,"St. Lawrence Valley region, Quebec, Canada",earthquake,,,,,reviewed,c,ott
+1977-07-27T22:03:21.300Z,35.42,-84.417,7,3.5,,,,,,us,usp0000pwm,2014-11-06T23:21:43.165Z,"eastern Tennessee",earthquake,,,,,reviewed,us,bla
+1977-07-14T07:39:30.000Z,46.03,-74.4,10,3.8,,,,,,us,usp0000pqn,2014-11-06T23:21:42.960Z,"southern Quebec, Canada",earthquake,,,,,reviewed,c,ott
+1977-06-17T15:39:47.300Z,40.707,-84.582,5,3.2,,,,,,us,usp0000pba,2014-11-06T23:21:42.526Z,"Ohio",earthquake,,,,,reviewed,us,aam
+1977-06-02T23:29:10.400Z,34.61,-94.19,10,4.3,mb,,,,,us,usp0000p4q,2017-04-13T21:50:29.905Z,"Arkansas",earthquake,,,,,reviewed,j,us
+1977-05-04T02:00:22.900Z,31.982,-88.417,5,3.6,,,,,,us,usp0000nrd,2014-11-06T23:21:41.652Z,"Alabama",earthquake,,,,,reviewed,us,slm
+1977-02-14T00:34:42.200Z,47.42,-69.97,0,3.3,,,,,,us,usp0000mjh,2014-11-06T23:21:39.854Z,"St. Lawrence Valley region, Quebec, Canada",earthquake,,,,,reviewed,t,wes
+1977-01-18T18:29:13.500Z,33.069,-80.199,5,3,lg,,,,,us,usp0000m83,2014-11-06T23:21:39.384Z,"South Carolina",earthquake,,,,,reviewed,us,bla
+1977-01-03T22:56:48.500Z,37.55,-89.79,5,3.4,mlg,,,,,nm,nm600517,2017-04-13T21:50:11.529Z,"20km SSE of Perryville, Missouri",earthquake,,,,,reviewed,nm,nm
+1976-12-27T06:57:13.900Z,32.223,-82.463,5,3.7,lg,,,,,us,usp0000kyn,2014-11-06T23:21:39.118Z,"Georgia, USA",earthquake,,,,,reviewed,us,bla
+1976-12-13T08:35:54.900Z,37.8,-90.24,5,3.5,mlg,,,,,nm,nm600511,2016-04-14T13:21:34.828Z,"16km E of Farmington, Missouri",earthquake,,,,,reviewed,nm,nm
+1976-12-11T07:05:00.400Z,38.12,-91.07,0,4.2,mb,,,,,us,usp0000kqd,2014-11-06T23:21:38.556Z,"Missouri",earthquake,,,,,reviewed,j,us
+1976-10-23T20:58:18.000Z,47.82,-69.79,18,3.8,mb,,,,,us,usp0000k0j,2014-11-06T23:21:37.837Z,"St. Lawrence Valley region, Quebec, Canada",earthquake,,,,,reviewed,c,us
+1976-10-23T00:40:59.500Z,32.203,-88.726,5,3,lg,,,,,us,usp0000k01,2014-11-06T23:21:37.825Z,"Mississippi",earthquake,,,,,reviewed,us,gs
+1976-09-25T14:06:56.000Z,35.62,-90.45,5,3.6,mlg,,,,,nm,nm600475,2016-04-14T13:17:54.393Z,"7km SE of Trumann, Arkansas",earthquake,,,,,reviewed,nm,nm
+1976-09-13T18:54:37.100Z,36.604,-80.81,5,3.3,lg,,,,,us,usp0000jcs,2014-11-06T23:21:37.180Z,"Virginia-North Carolina border region",earthquake,,,,,reviewed,us,bla
+1976-06-19T05:54:13.900Z,37.362,-81.624,5,4.7,mb,,,,,us,usp0000gyg,2017-04-13T21:49:38.566Z,"West Virginia",earthquake,,,,,reviewed,us,us
+1976-05-22T07:40:46.000Z,36.04,-89.84,10,3.2,mlg,,,,,nm,nm600416,2016-04-14T13:10:45.060Z,"4km S of Steele, Missouri",earthquake,,,,,reviewed,nm,nm
+1976-04-13T15:39:12.900Z,40.8,-74.03,0,3.1,,,,,,us,usp0000fvc,2014-11-06T23:21:34.800Z,"Greater New York area, New Jersey",earthquake,,,,,reviewed,p,pal
+1976-03-25T01:00:11.900Z,35.61,-90.48,15,4.5,mlg,,,,,nm,nm600380,2016-04-14T13:13:26.177Z,"7km SSE of Trumann, Arkansas",earthquake,,,,,reviewed,nm,nm
+1976-03-25T00:41:20.500Z,35.59,-90.48,15,5,mlg,,,,,nm,nm600379,2017-04-26T17:29:16.285Z,"8km NW of Marked Tree, Arkansas",earthquake,,,,,reviewed,nm,nm
+1976-03-14T23:12:24.600Z,41.66,-69.97,0,3,lg,,,,,us,usp0000ff8,2014-11-06T23:21:34.374Z,"southern New England",earthquake,,,,,reviewed,c,apt
+1976-03-11T08:29:32.200Z,41.56,-71.21,0,3.5,lg,,,,,us,usp0000fd9,2014-11-06T23:21:34.330Z,"southern New England",earthquake,,,,,reviewed,c,apt
+1976-02-02T21:14:02.000Z,41.96,-82.67,10,3.4,lg,,,,,us,usp0000ew9,2014-11-06T23:21:33.937Z,"Ohio",earthquake,,,,,reviewed,c,ott
+1976-01-19T06:20:39.500Z,36.883,-83.825,5,4,mb,,,,,us,usp0000ejd,2014-11-06T23:21:33.583Z,"eastern Kentucky",earthquake,,,,,reviewed,us,us
+1976-01-16T19:42:57.000Z,35.923,-92.123,14,3.2,lg,,,,,us,usp0000egm,2014-11-06T23:21:33.537Z,"Arkansas",earthquake,,,,,reviewed,us,slm
+1975-12-19T15:25:12.000Z,47,-78.85,18,3.8,lg,,,,,us,usp0000dz8,2014-11-06T23:21:32.978Z,"southern Quebec, Canada",earthquake,,,,,reviewed,c,ott
+1975-11-25T15:17:33.700Z,34.873,-82.958,5,3.2,lg,,,,,us,usp0000dqj,2014-11-06T23:21:32.804Z,"South Carolina",earthquake,,,,,reviewed,us,slm
+1975-11-11T08:10:39.300Z,37.193,-80.839,15,3.2,lg,,,,,us,usp0000dh6,2014-11-06T23:21:32.639Z,"West Virginia",earthquake,,,,,reviewed,us,slm
+1975-11-07T23:39:32.700Z,33.551,-87.362,5,3.5,lg,,,,,us,usp0000dfq,2014-11-06T23:21:32.581Z,"Alabama",earthquake,,,,,reviewed,us,slm
+1975-11-03T20:54:55.900Z,43.894,-74.636,3,4,mb,,,,,us,usp0000de4,2014-11-06T23:21:32.486Z,"New York",earthquake,,,,,reviewed,l,us
+1975-10-23T21:17:46.000Z,49.841,-68.617,3,4.4,mb,,,,,us,usp0000d8z,2014-11-06T23:21:32.338Z,"St. Lawrence Valley region, Quebec, Canada",earthquake,,,,,reviewed,us,us
+1975-08-29T04:22:51.900Z,33.82,-86.6,5,3.5,mb,,,,,us,usp0000cmy,2014-11-06T23:21:31.784Z,"Alabama",earthquake,,,,,reviewed,us,us
+1975-08-25T07:11:08.000Z,36.05,-89.84,11,3.3,mlg,,,,,nm,nm600259,2016-04-14T12:54:47.690Z,"3km SSW of Steele, Missouri",earthquake,,,,,reviewed,nm,nm
+1975-07-12T12:37:15.400Z,46.512,-76.144,33,4.2,mb,,,,,us,usp0000bz8,2017-04-13T21:48:51.908Z,"southern Quebec, Canada",earthquake,,,,,reviewed,us,us
+1975-06-24T11:11:36.000Z,33.719,-87.84,10,4.5,mb,,,,,us,usp0000brg,2017-04-26T17:28:33.189Z,"Alabama",earthquake,,,,,reviewed,us,us
+1975-06-20T07:29:06.600Z,36.21,-89.44,7.3,3.3,mlg,,,,,nm,nm600232,2016-04-14T12:52:03.520Z,"7km SE of Ridgely, Tennessee",earthquake,,,,,reviewed,nm,nm
+1975-06-13T22:40:27.200Z,36.54,-89.68,2,4.3,mlg,,,,,nm,nm600223,2017-04-13T21:48:47.024Z,"8km SW of Lilbourn, Missouri",earthquake,,,,,reviewed,nm,nm
+1975-06-09T18:39:23.300Z,44.896,-73.574,10,4.2,lg,,,,,us,usp0000bd0,2014-11-06T23:21:30.582Z,"New York",earthquake,,,,,reviewed,l,pal
+1975-03-01T11:50:00.200Z,33.549,-87.985,18,3.2,lg,,,,,us,usp0000a2x,2014-11-06T23:21:29.186Z,"Alabama",earthquake,,,,,reviewed,s,slm
+1975-02-16T23:21:31.500Z,39.05,-82.422,5,3.3,lg,,,,,us,usp00009y1,2014-11-06T23:21:28.897Z,"Ohio",earthquake,,,,,reviewed,us,slm
+1975-02-13T19:43:57.500Z,36.53,-89.56,5,3.3,mlg,,,,,nm,nm600167,2016-04-14T12:45:28.140Z,"6km SSW of New Madrid, Missouri",earthquake,,,,,reviewed,nm,nm
+1974-12-13T05:03:57.600Z,34.67,-91.88,5,3.4,lg,,,,,us,usp000093w,2014-11-06T23:21:27.809Z,"Arkansas",earthquake,,,,,reviewed,j,slm
+1974-12-10T06:01:32.700Z,31.346,-87.467,10,3,lg,,,,,us,usp000092r,2014-11-06T23:21:27.767Z,"Alabama",earthquake,,,,,reviewed,us,slm
+1974-12-03T08:25:00.000Z,33.95,-82.5,,3.6,ml,,,,,us,usp00008zm,2014-11-06T23:21:27.653Z,"Georgia, USA",earthquake,,,,,reviewed,m,csc
+1974-11-22T05:25:55.500Z,32.9,-80.145,18,4.7,mb,,,,,us,usp00008vm,2017-04-26T17:28:04.350Z,"South Carolina",earthquake,,,,,reviewed,s,us
+1974-11-14T17:30:01.100Z,36.5,-89.45,12,3.2,mlg,,,,,nm,nm600099,2016-04-14T12:38:34.670Z,"11km SE of New Madrid, Missouri",earthquake,,,,,reviewed,nm,nm
+1974-11-05T03:00:00.000Z,33.73,-82.22,,3.7,ml,,,,,us,usp00008pg,2014-11-06T23:21:27.157Z,"Georgia, USA",earthquake,,,,,reviewed,m,csc
+1974-10-28T11:33:00.000Z,33.79,-81.92,,3,ml,,,,,us,usp00008kh,2014-11-06T23:21:27.052Z,"South Carolina",earthquake,,,,,reviewed,m,csc
+1974-10-20T15:13:55.100Z,39.095,-81.593,11,3.4,lg,,,,,us,usp00008g9,2014-11-06T23:21:26.936Z,"West Virginia",earthquake,,,,,reviewed,s,slm
+1974-09-29T02:26:17.100Z,41.238,-83.361,1,3,lg,,,,,us,usp000086y,2014-11-06T23:21:26.599Z,"Ohio",earthquake,,,,,reviewed,s,slm
+1974-08-11T14:29:43.800Z,36.82,-91.29,5,3.6,mlg,,,,,nm,nm600042,2016-04-14T12:33:55.917Z,"17km NE of Alton, Missouri",earthquake,,,,,reviewed,nm,nm
+1974-08-02T08:52:09.800Z,33.872,-82.488,1,4.3,mb,,,,,us,usp00007ez,2017-04-13T21:48:18.459Z,"Georgia, USA",earthquake,,,,,reviewed,s,us
+1974-06-07T19:45:36.800Z,41.571,-73.94,2,3.3,ml,,,,,us,usp00006p4,2014-11-06T23:21:24.588Z,"New York",earthquake,,,,,reviewed,l,pal
+1974-06-05T08:06:11.300Z,38.62,-89.94,11,4,mb,,,,,us,usp00006n5,2014-11-06T23:21:24.545Z,"Illinois",earthquake,,,,,reviewed,j,us
+1974-06-05T00:16:40.400Z,38.6,-84.77,15,3.2,lg,,,,,us,usp00006n0,2014-11-06T23:21:24.540Z,"eastern Kentucky",earthquake,,,,,reviewed,j,slm
+1974-05-30T21:28:37.200Z,37.382,-80.419,8,3.6,lg,,,,,us,usp00006jz,2014-11-06T23:21:24.462Z,"West Virginia",earthquake,,,,,reviewed,s,bla
+1974-05-13T06:52:18.800Z,36.71,-89.39,1,4.3,mb,,,,,us,usp00006b7,2017-04-13T21:48:10.676Z,"Missouri",earthquake,,,,,reviewed,j,us
+1974-04-27T14:45:39.100Z,41.004,-75.955,3,3,mb,,,,,us,usp0000644,2014-11-06T23:21:23.962Z,"Pennsylvania",earthquake,,,,,reviewed,s,us
+1974-04-03T23:05:02.500Z,38.592,-88.094,11,4.5,mb,,,,,us,usp00005uz,2017-04-13T21:48:07.691Z,"Illinois",earthquake,,,,,reviewed,us,us
+1974-03-12T12:30:28.600Z,35.66,-89.79,5,3.2,lg,,,,,us,usp00005kq,2014-11-06T23:21:23.314Z,"Tennessee",earthquake,,,,,reviewed,j,slm
+1974-03-04T14:24:27.800Z,35.68,-90.35,5,3,lg,,,,,us,usp00005gp,2014-11-06T23:21:23.220Z,"Arkansas",earthquake,,,,,reviewed,j,slm
+1974-02-24T07:53:45.200Z,35.82,-90.38,6,3.2,lg,,,,,us,usp00005d2,2014-11-06T23:21:22.983Z,"Arkansas",earthquake,,,,,reviewed,us,slm
+1974-02-15T22:49:01.800Z,33.96,-93.03,1,3.8,mb,,,,,us,usp00005ag,2014-11-06T23:21:22.862Z,"Arkansas",earthquake,,,,,reviewed,j,us
+1974-02-15T22:35:44.700Z,34.05,-93.13,1,3.6,lg,,,,,us,usp00005af,2014-11-06T23:21:22.862Z,"Arkansas",earthquake,,,,,reviewed,j,slm
+1974-02-15T22:32:34.600Z,33.95,-93.09,1,3.6,lg,,,,,us,usp00005ae,2014-11-06T23:21:22.861Z,"Arkansas",earthquake,,,,,reviewed,j,slm
+1974-01-08T01:12:37.400Z,36.2,-89.39,1,4.1,mb,,,,,us,usp00004v5,2014-11-06T23:21:22.320Z,"Tennessee",earthquake,,,,,reviewed,j,us
+1973-12-20T10:45:00.100Z,36.157,-89.58,10,3.4,lg,,,,,us,usp00004kc,2014-11-06T23:21:21.906Z,"Tennessee",earthquake,,,,,reviewed,j,slm
+1973-11-30T07:48:41.200Z,35.799,-83.962,3,4.7,mb,,,,,us,usp00004c7,2017-04-26T17:27:15.800Z,"eastern Tennessee",earthquake,,,,,reviewed,s,us
+1973-10-30T22:58:39.000Z,35.75,-84,33,3.4,lg,,,,,us,usp0000406,2014-11-06T23:21:21.092Z,"eastern Tennessee",earthquake,,,,,reviewed,m,gs
+1973-10-09T20:15:26.800Z,36.51,-89.61,1,3.8,lg,,,,,us,usp00003s8,2014-11-06T23:21:20.747Z,"Missouri",earthquake,,,,,reviewed,j,slm
+1973-10-03T03:50:20.400Z,35.91,-90,10,3.4,lg,,,,,us,usp00003nk,2014-11-06T23:21:20.614Z,"Arkansas",earthquake,,,,,reviewed,j,slm
+1973-07-15T10:32:37.700Z,43.9,-74.412,1,3.4,mb,,,,,us,usp00002qn,2014-11-06T23:21:14.828Z,"New York",earthquake,,,,,reviewed,s,us
+1973-06-15T01:09:04.200Z,45.317,-70.908,12,4.8,mb,,,,,us,usp000025v,2017-04-13T21:47:29.433Z,"Maine",earthquake,,,,,reviewed,s,us
+1973-02-28T08:21:32.300Z,39.718,-75.441,14,3.8,lg,,,,,us,usp00000s4,2014-11-06T23:21:09.611Z,"New Jersey",earthquake,,,,,reviewed,s,slm
+1973-01-12T11:56:56.000Z,37.93,-90.52,20,3.2,lg,,,,,us,usp0000048,2014-11-06T23:21:07.594Z,"Missouri",earthquake,,,,,reviewed,j,slm
+1973-01-08T09:11:36.800Z,33.777,-90.625,7,3.5,lg,,,,,us,usp000002m,2014-11-06T23:21:07.452Z,"Mississippi",earthquake,,,,,reviewed,s,slm
+1973-01-07T22:56:06.100Z,37.44,-87.3,15,3.2,lg,,,,,us,usp000002f,2014-11-06T23:21:07.438Z,"western Kentucky",earthquake,,,,,reviewed,j,slm
