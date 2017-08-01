@@ -6,7 +6,7 @@ layout: default
 
 # Hi, I'm Christos Gavalas
 
-This is my site of projects for the [Lede Program](http://ledeprogram.com)
+This is my site of projects for the [Lede Program](http://ledeprogram.com) at Columbia J-School
 
 * [Project 1](https://chrgavalas.github.io/data-projects/Deadly-Greek-Roads/): Deadly Greek Roads
 * [Project 2]({{ site.url }}/a-very-cool-project): Lorem ipsum
