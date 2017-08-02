@@ -1,3 +1,14 @@
+
+div {
+    width: 100%;
+    text-align: center;
+}
+img {
+    width: 300px;
+    margin: 0 auto;
+}
+
+
 .restaurant {
      color: black; /* simple color name or hex value: #123456 */
      font-family: 'Helvetica', sans-serif; /* see above */
