@@ -27,6 +27,8 @@
      line-height:1.125rem;
      margin-left: 25px;
      margin-right: 20px;
+     margin-top: 20px;
+     margin-bottom: 50px;
      text-align: left; /* left, right, center, justify */
  }
 
