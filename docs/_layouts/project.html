@@ -6,9 +6,12 @@
 </head>
 <body>
   <div class="container" id="project">
-    <h1>{{ title }}</h1>
+    {% include topnav.html %}
 
     {{ content }}
+
+    {% include bottomnav.html %}
+    
   </div>
 
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
