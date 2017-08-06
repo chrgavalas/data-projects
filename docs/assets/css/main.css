@@ -29,6 +29,10 @@ p {
   line-height: 1.8;
 }
 
+#project p {
+  font-size: 16px;
+}
+
 li {
   font-size: 24px;
   line-height: 1.8;
