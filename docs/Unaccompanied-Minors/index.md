@@ -15,7 +15,7 @@ But in 2016, the European Union received slightly more than 63.000 asylum applic
 
 ![](Overtime-Minors.png)
 
-The peak of refugee flows in Europe in the summer of 2015 came as a direct result of the continuation of the **conflict in Syria** but also of the ongoing violence in Afghanistan and Iraq and abuses in Eritrea. The majority (38%) came from **Afghanistan**, followed by Syrians (19%) and Iraqis (7%).
+The peak of refugee flows in Europe in the summer of 2015 came as a direct result of the continuation of the **conflict in Syria** but also of the ongoing violence in Afghanistan and Iraq and abuses in Eritrea. One year later, the majority (38%) came from **Afghanistan**, followed by Syrians (19%) and Iraqis (7%).
 
 ![](countries-origin.png)
 
@@ -83,7 +83,11 @@ According to the joint report of UNICEF, IOM and UNHCR, refugee and migrant chil
 
 In Germany there is an estimated 184.100 school-age child asylum seekers (based on caseload in 2015-2017) but the number of refugee and migrant children out of school across the country **remains unknown**.
 
-*It needs to be said that reliable data on the number of UASC either arriving to, or currently residing in, different European countries is often unavailable. The number of asylum applications filed by UASC is used to provide an indication of trends but does not necessarily provide an accurate picture of the caseload due to backlogs in national asylum systems, onward irregular movements or not applying for asylum at all. In addition, due to different definitions and national procedures and practices, collecting accurate data on separated children specifically is very challenging (e.g. separated children being registered as either accompanied or unaccompanied).* 
+-----------------
+
+Note: It needs to be said that reliable data on the number of UASC either arriving to, or currently residing in, different European countries is often unavailable. The number of asylum applications filed by UASC is used to provide an indication of trends but does not necessarily provide an accurate picture of the caseload due to backlogs in national asylum systems, onward irregular movements or not applying for asylum at all. In addition, due to different definitions and national procedures and practices, collecting accurate data on separated children specifically is very challenging (e.g. separated children being registered as either accompanied or unaccompanied).
+
+Sources: [The UN Refugee Agency](http://www.unhcr.org), [Eurostat](http://ec.europa.eu/eurostat), [Europol](https://www.europol.europa.eu), [Unicef](https://www.unicef.org). 
 
 
 
