@@ -47,7 +47,7 @@ Despite the much higher numbers of arrivals through the Central Mediterranean ro
 
 *Should this be alarming to the authorities?*
 
-##Europol: 10.000 unaccompanied minors in 2016 gone missing 
+## Europol: 10.000 unaccompanied minors in 2016 gone missing 
 
 The EU’s law enforcement agency Europol said that at least 10,000 UAM had disappeared in Europe in 2016. The Italian authorities had reported in August 2015 that of 14.378 migrant minors registered as arrivals in the country, 5.434 were **untraceable**. 
 
@@ -71,7 +71,7 @@ Recent information suggests that smugglers are using minors to crew/steel migran
 
 But Europol, recognizes that many of the missing minors **"will simply have continued their journeys towards their intended destination"** and that *"some will have joined or been collected by family or friends"*. 
 
-##Uncovered education needs for refugee children
+## Uncovered education needs for refugee children
 
 Unfortunately that doesn’t mean all of their problems are solved. On the contrary, as the migration flows decrease, the attention for these children swifts towards their real needs as they try to integrate into their new societies. 
 
