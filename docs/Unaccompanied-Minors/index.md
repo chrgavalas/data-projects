@@ -71,7 +71,7 @@ Recent information suggests that smugglers are using minors to crew/steel migran
 
 But Europol, recognizes that many of the missing minors **"will simply have continued their journeys towards their intended destination"** and that *"some will have joined or been collected by family or friends"*. 
 
-## Uncovered education needs for refugee children
+## Undercovered education needs for refugee children
 
 Unfortunately that doesn’t mean all of their problems are solved. On the contrary, as the migration flows decrease, the attention for these children swifts towards their real needs as they try to integrate into their new societies. 
 
