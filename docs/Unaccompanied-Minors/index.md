@@ -7,6 +7,8 @@ layout: project
 
 # The disappearing flood of unattended minors in the EU
 
+*by Christos Gavalas*
+
 Despite risks, **unaccompanied minors** continue to flood into Europe in hope of one day being able to pave for themselves a stable future and help those they have left behind.
 
 In 2015, 88.300 asylum seekers applying for international protection in the Member States of the European Union (EU) were considered to be unaccompanied minors. While their number always stood between 11.000 and 13.000 in the EU over the period 2008-2013, it almost doubled in 2014 to reach slightly more than 23.000 persons, then **nearly quadrupled** in 2015. 
