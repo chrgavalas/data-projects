@@ -14,3 +14,7 @@ Another thing I want to show-- up till now unsuccessfully-- is the distribution 
 Basically, those two are the challenges I face if I want to get something more out of a very informative dataset. 
 
 I created a gif showing one of the most common incorrect non calls referees make: travelling. Especially in the NBA rules are much more lenient when it comes to this specific rules, as they mostly want to let the offensive game be played more freely. But sometimes they overdo it!  
+
+15-10-2017
+
+I wasn't able to find the proportion between calls given in favor of away vs home teams. The story can be read for the most part by a targeted audience that understands the game of basketball so by trying to explain the human nature of the mistakes I wanted to make it more accessible by the general public. I don't know if I quite succeeded in it, though.
