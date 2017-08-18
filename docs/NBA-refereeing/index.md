@@ -48,7 +48,7 @@ Furthermore, another reason referees can take pride in is the high percentage of
 
 Correct non calls and correct calls are dominant (13.758) compared to the incorrect non calls and incorrect calls (1.601) which however draw the attention of the public. 
 
-![](distribution-of-calls.png)
+![](Distribution-of-calls.png)
 
 And aside from this, the **National Basketball Referees Association (NBRA)**, which represents the 63 active NBA referees, believes that the subjective nature of what is considered a foul and necessitates a whistle undermines the validity of the non-calls assessed to be incorrect. 
 
