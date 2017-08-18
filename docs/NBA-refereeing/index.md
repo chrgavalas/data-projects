@@ -26,7 +26,7 @@ Actually, when it comes to **wrong decisions** by referees in the last two minut
 ![](Distribution-of-incorrect-calls.png)
 
 
-## Much criticize but refs still get it mostly right  
+## Much critique but refs still get it mostly right  
 
 The report for each game is released typically the next day and is intended to provide extra transparency around debated calls. But despite the good intentions it wasn’t positively accepted by neither the referees nor the players.
 
