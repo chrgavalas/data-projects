@@ -26,7 +26,7 @@ Actually, when it comes to **wrong decisions** by referees in the last two minut
 ![](Distribution-of-incorrect-calls.png)
 
 
-## Much criticize but refs got better this year  
+## Much criticize but refs still get it mostly right  
 
 The report for each game is released typically the next day and is intended to provide extra transparency around debated calls. But despite the good intentions it wasn’t positively accepted by neither the referees nor the players.
 
@@ -38,13 +38,7 @@ Both **LeBron James** and **Kevin Durant**, the undeniably best offensive duo of
 
 But even LeBron James whose team won on that night admitted he *should have been given a technical* for hanging on the rim after a dunk and stated that "it’s not fair to the referees that you only talk about the final two minutes and not the first 46".
 
-Data gives credence to the fact that 2016 was indeed the year most incorrect non calls were given compared to both 2015 and 2017, *even though the sample for the first year is much smaller*. 
-
-Mistakes were highly decreased this season which shows the measure might have helped the referees’ performance contrary to its critics.
-
-![](Decisions-Per-Year.png)
-
-Furthermore, another reason referees can take pride in is the high percentage of the actual correct calls they make. Even after evaluation and examination of all reports during the roughly three seasons, refs are correct over 89% of the time. 
+What needs to be pointed out though is that referees can definitely take pride in the high percentage of the actual correct calls they make. Even after evaluation and examination of all reports during the roughly three seasons, refs are correct over 89% of the time. 
 
 Correct non calls and correct calls are dominant (13.758) compared to the incorrect non calls and incorrect calls (1.601) which however draw the attention of the public. 
 
