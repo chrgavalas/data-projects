@@ -10,59 +10,59 @@ layout: project
 
 *by Christos Gavalas*
 
-![](tsipras-pic.jpg)
+![](Tsipras-pic.png)
 
-In the heat of the moment and as a close NBA game comes to an end, players have all eyes on them and referees are expected to get it dead right. But in wanting to do so they steadily prefer to let the game be more physical and don’t intervene much. That’s where the vast majority of their mistakes comes from, data insist.
+In early 2015, Syriza, the greek leftist party until then in opposition, came to power promising to confront the 'troika' of Greece’s creditors and terminate austerity under which people were suffering. 
 
-In March 2015, the NBA took a huge step in reinforcing its position as the leading sporting association in the world by reviewing plays from all games that enter their last two minutes with a five point lead, at the most.  
+However, six months of high-drama negotiations -followed by a national referendum- later, **Alexis Tsipras**, the party's president and elected Greek PM, signed a third memorandum lumbering on implementing **anti-left measures** of historic magnitude. 
 
-But when it comes to the type of wrong decisions refs make at the end of close games, the top 10 list is increasingly filled in with incorrect non calls: offensive and personal fouls not called, fouls on a shooting attempt and on a loose ball not called as well as traveling violations ignored. 
+But how much of this unprecedented capitulation was reflected in his speeches in parliament? 
 
-![](Most-Common-Wrong.png)
+Did the sentiment of his speeches change as the country was getting closer to a possible EU exit? 
 
-Here’s a look at one of the most common non call violations:
+And how much of this sentiment was actually based on the sentiment of his own words?   
 
-![](travel.gif)
+Through the **sentiment analysis** of most of the key speeches he gave in parliament before and after the signing of the third MoU, we get a clearer picture of his **feelings’ variation** and *tend to conclude* that his monumental double back was connected with much more heavy - loaded addresses.   
 
-Actually, when it comes to **wrong decisions** by referees in the last two minutes, non calls amount to 89% of the total whereas incorrect calls measure up to only 11%.
+## Method of analysis  
 
-![](Distribution-of-incorrect-calls.png)
+For our analysis we used the **Emotional Lexicon** that includes all kind of words and defines whether they determine anger, anticipation, disagreement etc. or more generally whether they have a negative or positive inclination. 
 
+Each word of the lexicon is assigned a number (0 or 1) based on whether it represents a given sentiment (0=False, 1=True). 
 
-## Much critique but refs still get it mostly right  
+The **TdifVectorizer** will help us define the level of positivity/negativity by giving us back a percentage of usage of words with positive/negative aspect within a speech, whereas through the **CountVectorizer** will bring us in a position to look into how many times a specific set of words appears in each speech.
 
-The report for each game is released typically the next day and is intended to provide extra transparency around debated calls. But despite the good intentions it wasn’t positively accepted by neither the referees nor the players.
+## In July 2015 his speeches got emotionally loaded 
 
-Both **LeBron James** and **Kevin Durant**, the undeniably best offensive duo of the league, have been vocal about the dangers associated with the measure. 
+We grouped our sample of 25 Mr Tsipras’ speeches in parliament by month - year and marked the **July 2015** date time as the defining moment of this analysis, as this was the time when he agreed to terms with the European creditors. 
 
-"You don’t throw the refs under the bus like that ‘cause the next game, that group of refs, whoever it is, gonna come out and be tense when they’re refereeing the game and they’re gonna try to get every play right, try to be perfect without just going out there and relaxing and making the right call", Durant said in **December 2016** after a loss to the Cleveland Cavaliers in which the Golden State Warriors super star *wasn’t awarded a foul* in the last few seconds that could have changed the winner.  
+More specifically, we examined the level of negativity and positivity of his speeches over time by adding up each negative and positive used word’s percentages in each speaking which resulted into a decimal number. 
 
-![](durant_call.gif)
+For both cases we came up with the same finding: on that month the sentiment of this wording spiked.   
 
-But even LeBron James whose team won on that night admitted he *should have been given a technical* for hanging on the rim after a dunk and stated that "it’s not fair to the referees that you only talk about the final two minutes and not the first 46".
+![](positivity.png)
 
-What needs to be pointed out though is that referees can definitely take pride in the high percentage of the actual correct calls they make. Even after evaluation and examination of all reports during the roughly three seasons, refs are correct over 89% of the time. 
+![](negativity.png)
 
-Correct non calls and correct calls are dominant (13.758) compared to the incorrect non calls and incorrect calls (1.601) which however draw the attention of the public. 
+## Usage of word ‘memorandum’ nearly diminished after he signed it 
 
-![](Distribution-of-calls.png)
+In the years and months preceding the date of the MoU signing in Brussels in a dramatic night long session, Mr Tsipras seems to have been very adamant in using the word **‘memorandum’** in his parliamentary speeches to directly criticize the previous government and to hold out to his partisan voters. 
 
-And aside from this, the **National Basketball Referees Association (NBRA)**, which represents the 63 active NBA referees, believes that the subjective nature of what is considered a foul and necessitates a whistle undermines the validity of the non-calls assessed to be incorrect. 
+But right after he accepted to initiate a third bailout program with the EU creditors, he radically changed the course of his discourse, and ceased using the word almost entirely, with the exception of last May’s speech before the parliament. 
 
-"People forget that perfection is impossible, especially when it comes to officiating the greatest athletes in the world," said **Lee Seham**, National Basketball Referees Association General Counsel in May 2015, a few months after the initiative was introduced. 
+![](memorandum.png)
 
-According to their view, flow of game, how the possible contact influenced the play, speed of play and having just six eyes watching the greatest athletes in the world – all of these factors influence the referees’ decision to blow the whistle. 
+Referring to the voting of yet another tough set of measures that would serve in finalizing the second review, which would lead to another disbursement, the Prime Minister, utilized the word in his rhetorics more than ever, creating thus a notable outlier. 
 
-## Who’s the most advantaged and disadvantaged player?
+This trend is presented clearly in the data. In the period prior to the MoU signing he had used the word 76 times, whereas in the period right after, the use was significantly decreased to only 9 times in the course of 22 months, with the exception of his May speech. 
 
-According to the data, **Marcin Gortat** of the Washington Wizards is the most advantaged player by referees in the last two minutes of close games having received to his favor almost 30 incorrect calls or non calls. He is followed in the list by Al Horford of the Boston Celtics, James Harden of the Houston Rockets, Brook Lopez of the Los Angeles Lakers and Daymond Green of the Golden State Warriors.  
+## What does this mean? 
 
-![](Mostly-Advantaged.png)
+This clearly shows the fluidity of rhetorics and discourse in Greek politics. Greece appears to be one of the only highly developed states which demonstrates such radical changes in policy positioning. This is only exasperated by the duality of PM Tsipras’ rhetoric abroad. 
 
-On the flip side, **James Harden** is counted as the most disadvantaged player by refs, followed by Andrew Wiggins of the Minnesota Timberwolves, Isaiah Thomas of the Boston Celtics, Paul George of the Indiana Pacers and Gordon Hayward of the Boston Celtics. 
+From the one hand the PM seems to be completely in agreement with the european side after signing the third MoU, however in the domestic scene the PM still maintains fiery anti-austerity rhetorics for internal consumption purposes. 
 
-![](Mostly-Disadvantaged.png)
-
+Perhaps this explains very well the case of our May outlier speech as it was an attempt to justify his choices domestically blaming the conservative opposition party -which has a dominant lead in polls- of being the instigator of the austerity brought by the MoU in the first place. 
 
 
 -----------------
