@@ -38,7 +38,9 @@ We grouped our sample of 25 Mr Tsipras’ speeches in parliament by month - year
 
 More specifically, we examined the level of negativity and positivity of his speeches over time by adding up each negative and positive used word’s percentages in each speaking which resulted into a decimal number. 
 
-For both cases we came up with the same finding: on that month the sentiment of this wording spiked.   
+For both cases we came up with the same finding: on that month the sentiment of this wording spiked. 
+
+*"It’s a crucial moment and I’d ask you to allow me to use a personal tone in today’s intervention. Since the first moment I became prime minister, maybe during the most crucial days in the country’s post-constitutionalism era, I acted based only on my consience so as to stand up for our people’s justice with all my forces but to also protect our national interests"*, he said on July 10 before the parliament in his initial remarks, preparing the ground for a clearly **emotional speech** just a few hours before going to Brussels for the decisive session with the EU creditors.   
 
 ![](positivity.png)
 
@@ -48,26 +50,26 @@ For both cases we came up with the same finding: on that month the sentiment of 
 
 In the years and months preceding the date of the MoU signing in Brussels in a dramatic night long session, Mr Tsipras seems to have been very adamant in using the word **‘memorandum’** in his parliamentary speeches to directly criticize the previous government and to hold out to his partisan voters. 
 
-But right after he accepted to initiate a third bailout program with the EU creditors, he radically changed the course of his discourse, and ceased using the word almost entirely, with the exception of last May’s speech before the parliament. 
+But right after he accepted to initiate a third bailout program with the EU creditors, he radically **changed the course of his discourse**, and ceased using the word almost entirely, with the exception of last May’s speech before the parliament. 
 
 ![](memorandum.png)
 
-Referring to the voting of yet another tough set of measures that would serve in finalizing the second review, which would lead to another disbursement, the Prime Minister, utilized the word in his rhetorics more than ever, creating thus a notable outlier. 
+Referring to the voting of yet another tough set of measures that would serve in finalizing the second review, which would lead to another disbursement, the Prime Minister, **utilized the word in his rhetorics more than ever**, creating thus a notable outlier. 
 
 This trend is presented clearly in the data. In the period prior to the MoU signing he had used the word 76 times, whereas in the period right after, the use was significantly decreased to only 9 times in the course of 22 months, with the exception of his May speech. 
 
 ## What does this mean? 
 
-This clearly shows the fluidity of rhetorics and discourse in Greek politics. Greece appears to be one of the only highly developed states which demonstrates such radical changes in policy positioning. This is only exasperated by the duality of PM Tsipras’ rhetoric abroad. 
+This clearly shows the **fluidity of rhetorics** and discourse in greek politics. Greece appears to be one of the only highly developed states which demonstrates such *radical changes in policy positioning*. 
 
-From the one hand the PM seems to be completely in agreement with the european side after signing the third MoU, however in the domestic scene the PM still maintains fiery anti-austerity rhetorics for internal consumption purposes. 
+This is only exasperated by the duality of PM Tsipras’ rhetoric abroad: from the one hand the PM seems to be completely in agreement with the european side after signing the third MoU, however in the domestic scene, the PM still maintains fiery anti-austerity rhetorics for internal consumption purposes. 
 
-Perhaps this explains very well the case of our May outlier speech as it was an attempt to justify his choices domestically blaming the conservative opposition party -which has a dominant lead in polls- of being the instigator of the austerity brought by the MoU in the first place. 
+Perhaps this explains very well the case of **our May 2017 outlier speech** as it was an attempt to justify his choices domestically blaming the conservative opposition party -which has a dominant lead in the current polls- of being the instigator of the austerity brought by the MoU in the first place. 
 
 
 -----------------
 
-Note: The original reports are PDFs but journalist **Russell Goldenberg** has been converting them to spreadsheet-friendly CSVs that we were able to work with.
+Note: Sentiment Analysis (SA) is an ongoing field of research in text mining field but also a computational treatment of opinions, sentiments and subjectivity of text. The main target of this analysis is to create the framework for a deeper algorithmic approach while at the same time acknowledging that the extraction of meaningful information just from text is more complicated than that.s
 
-Sources: [The Last Two Minute Report](http://official.nba.com/nba-last-two-minute-reports-archive/), [Polygraph Cool](https://github.com/polygraph-cool/last-two-minute-report/tree/master/output)
+Sources: [Greek Parliament Proceedings](http://www.hellenicparliament.gr/) | [The Sentiment and Emotion Lexicons](http://sentiment.nrc.ca/lexicons/)
 
