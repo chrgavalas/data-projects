@@ -6,7 +6,7 @@ layout: project
 ---
 
 # When Greek PM doubled back on MoU, his words spoke volumes
---
+
 
 *by Christos Gavalas*
 
