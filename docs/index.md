@@ -12,3 +12,4 @@ This is my site of projects for the [Lede Program](http://ledeprogram.com) at Co
 * [Project 2](https://chrgavalas.github.io/data-projects/US-Earthquakes/): Quakes in the Eastern US on the Rise
 * [Project 3](https://chrgavalas.github.io/data-projects/Unaccompanied-Minors/): The Missing Refugee Children of Europe
 * [Project 4](https://chrgavalas.github.io/data-projects/NBA-refereeing/): NBA refs mistakes: In final secs, non-calls hugely outnumber calls
+* [Project 5](https://chrgavalas.github.io/data-projects/Tsipras-Sentiment-Analysis/): When Alexis Tsipras doubled back on MoU, his words spoke volumes

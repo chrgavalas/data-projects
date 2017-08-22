@@ -40,7 +40,7 @@ More specifically, we examined the level of negativity and positivity of his spe
 
 For both cases we came up with the same finding: on that month the sentiment of this wording spiked. 
 
-*"It’s a crucial moment and I’d ask you to allow me to use a personal tone in today’s intervention. Since the first moment I became prime minister, maybe during the most crucial days in the country’s post-constitutionalism era, I acted based only on my consience so as to stand up for our people’s justice with all my forces but to also protect our national interests"*, he said on July 10 before the parliament in his initial remarks, preparing the ground for a clearly **emotional speech** just a few hours before going to Brussels for the decisive session with the EU creditors.   
+*"It’s a crucial moment and I’d ask you to allow me to use a personal tone in today’s intervention. Since the first moment I became prime minister, maybe during the most crucial days in the country’s post-constitutionalism era, I acted based only on my conscience so as to stand up for our people’s justice with all my forces but to also protect our national interests"*, he said on July 10 before the parliament in his initial remarks, preparing the ground for a clearly **emotional speech** just a few hours before going to Brussels for the decisive session with the EU creditors.   
 
 ![](positivity.png)
 
@@ -69,7 +69,7 @@ Perhaps this explains very well the case of **our May 2017 outlier speech** as i
 
 -----------------
 
-Note: Sentiment Analysis (SA) is an ongoing field of research in text mining field but also a computational treatment of opinions, sentiments and subjectivity of text. The main target of this analysis is to create the framework for a deeper algorithmic approach while at the same time acknowledging that the extraction of meaningful information just from text is more complicated than that.s
+Note: Sentiment Analysis (SA) is an ongoing field of research in text mining field but also a computational treatment of opinions, sentiments and subjectivity of text. The main target of this analysis is to create the framework for a deeper algorithmic approach while at the same time acknowledging that the extraction of meaningful information just from text is more complicated than that.
 
 Sources: [Greek Parliament Proceedings](http://www.hellenicparliament.gr/) | [The Sentiment and Emotion Lexicons](http://sentiment.nrc.ca/lexicons/)
 
