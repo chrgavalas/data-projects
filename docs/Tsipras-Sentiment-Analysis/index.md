@@ -16,11 +16,11 @@ In early 2015, Syriza, the greek leftist party until then in opposition, came to
 
 However, six months of high-drama negotiations -followed by a national referendum- later, **Alexis Tsipras**, the party's president and elected Greek PM, signed a third memorandum lumbering on implementing **anti-left measures** of historic magnitude. 
 
-But how much of this unprecedented capitulation was reflected in his speeches in parliament? 
+* But how much of this unprecedented capitulation was reflected in his speeches in parliament? 
 
-Did the sentiment of his speeches change as the country was getting closer to a possible EU exit? 
+* Did the sentiment of his speeches change as the country was getting closer to a possible EU exit? 
 
-And how much of this sentiment was actually based on the sentiment of his own words?   
+* And how much of this sentiment was actually based on the sentiment of his own words?   
 
 Through the **sentiment analysis** of most of the key speeches he gave in parliament before and after the signing of the third MoU, we get a clearer picture of his **feelings’ variation** and *tend to conclude* that his monumental double back was connected with much more heavy - loaded addresses.   
 
