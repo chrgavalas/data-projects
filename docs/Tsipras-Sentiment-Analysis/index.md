@@ -42,9 +42,9 @@ For both cases we came up with the same finding: on that month the sentiment of 
 
 *"It’s a crucial moment and I’d ask you to allow me to use a personal tone in today’s intervention. Since the first moment I became prime minister, maybe during the most crucial days in the country’s post-constitutionalism era, I acted based only on my conscience so as to stand up for our people’s justice with all my forces but to also protect our national interests"*, he said on July 10 before the parliament in his initial remarks, preparing the ground for a clearly **emotional speech** just a few hours before going to Brussels for the decisive session with the EU creditors.   
 
-![](positivity.png)
+<img src="positivity.png" width="1200">
 
-![](negativity.png)
+<img src="negativity.png" width="1200">
 
 ## Usage of word ‘memorandum’ nearly diminished after he signed it 
 
@@ -52,7 +52,7 @@ In the years and months preceding the date of the MoU signing in Brussels in a d
 
 But right after he accepted to initiate a third bailout program with the EU creditors, he radically **changed the course of his discourse**, and ceased using the word almost entirely, with the exception of last May’s speech before the parliament. 
 
-![](memorandum.png)
+<img src="memorandum.png" width="1200">
 
 Referring to the voting of yet another tough set of measures that would serve in finalizing the second review, which would lead to another disbursement, the Prime Minister, **utilized the word in his rhetorics more than ever**, creating thus a notable outlier. 
 
