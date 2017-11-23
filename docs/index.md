@@ -14,4 +14,4 @@ This is my site of projects for the [Lede Program](http://ledeprogram.com) at Co
 * [Project 4](https://chrgavalas.github.io/data-projects/NBA-refereeing/): NBA refs mistakes: In final secs, non-calls hugely outnumber calls
 * [Project 5](https://chrgavalas.github.io/data-projects/Tsipras-Sentiment-Analysis/): When Alexis Tsipras doubled back on MoU, his words spoke volumes
 * [Project 6](https://chrgavalas.github.io/data-projects/China-Soccer/): China’s soccer invasion of Europe in a shambles?
-* [Project 7] (https://chrgavalas.github.io/data-projects/Films-Of-Century/): BBC's films of 21st century
+* [Project 7](https://chrgavalas.github.io/data-projects/Films-Of-Century/): BBC's films of 21st century
