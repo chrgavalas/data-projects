@@ -1,1 +1,1 @@
-Data projects of journalist Christos Gavalas
+Data stories of Christos Gavalas
